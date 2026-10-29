@@ -1,0 +1,62 @@
+# Sources: Andrew Ng
+
+56 sources (33 video, 23 web), 256,934 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Andrew Ng: Building Faster with AI | https://www.youtube.com/watch?v=RNJCfif1dPY | 2025-07-10 | 8947
+- S002 | What's next for AI agentic workflows ft. Andrew Ng of AI Fund | https://www.youtube.com/watch?v=sal78ACtGTc | 2024-03-26 | 2616
+- S003 | Andrew Ng Explores The Rise Of AI Agents And Agentic Reasoning / BUILD 2024 Keynote | https://www.youtube.com/watch?v=KrRD7r7y7NY | 2024-11-19 | 4811
+- S004 | AI Dev 25 x NYC / Andrew Ng: Opening Keynote | https://www.youtube.com/watch?v=6ejKX20es3o | 2025-12-02 | 2185
+- S005 | Andrew Ng: The Rise of Agentic Workflows in AI | https://www.youtube.com/watch?v=9mylj0ogCFY | 2024-10-23 | 959
+- S006 | Andrew Ng: State of AI Agents / LangChain Interrupt | https://www.youtube.com/watch?v=4pYzYmSdSH4 | 2025-05-28 | 5522
+- S007 | The Future of AI Agents with Andrew Ng / Interrupt 26 | https://www.youtube.com/watch?v=OaRhpwz_TGM | 2026-06-17 | 5543
+- S008 | Andrew Ng: Opportunities in AI - 2023 | https://www.youtube.com/watch?v=5p248yoa3oE | 2023-08-29 | 6481
+- S009 | Andrew Ng Q&A: Best Practices for AI Coding, AGI Hype, and Why Everyone Should Code | https://www.youtube.com/watch?v=ODEsfXyC0Ps | 2025-08-28 | 4096
+- S010 | Stanford Webinar - How AI is Changing Coding and Education, Andrew Ng & Mehran Sahami | https://www.youtube.com/watch?v=J91_npj0Nfw | 2024-10-16 | 10821
+- S011 | Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think | https://www.youtube.com/watch?v=o-wv_szZ0V0 | 2026-08-28 | 7503
+- S012 | No Priors Ep. 128 / With Andrew Ng, Managing General Partner at AI Fund | https://www.youtube.com/watch?v=SYisFbhR7xs | 2025-08-21 | 9454
+- S013 | China, Open Source & AI Competitiveness I Andrew Ng | https://www.youtube.com/watch?v=2OUGXI9Y1sk | 2026-07-29 | 5443
+- S015 | Andrew Ng Podcast: Is AI fearmongering a funding stunt? | https://www.youtube.com/watch?v=VNDkAsjhe5Y | 2026-10-21 | 6435
+- S016 | ET@Davos / 'AI disrupts old rules...': Andrew Ng explains how AI will reshape jobs and economies | https://www.youtube.com/watch?v=C6NIITs0XiE | 2026-01-20 | 4963
+- S017 | Andrew Ng at Davos: Why Google Is Back, AI Isn’t in a Bubble & Open Source Is Key for India | https://www.youtube.com/watch?v=oQ9DTjyfIq8 | 2026-01-19 | 3055
+- S018 | An Artificial Intelligence Conversation With Andrew Ng | https://www.youtube.com/watch?v=8lH1mUcxODw | 2024-08-08 | 10949
+- S019 | Andrew Ng: Deep Learning, Education, and Real-World AI / Lex Fridman Podcast #73 | https://www.youtube.com/watch?v=0jspaMLxBig | 2020-02-20 | 16324
+- S020 | The Near Future of AI [Entire Talk]  - Andrew Ng (AI Fund) | https://www.youtube.com/watch?v=KDBq0GqKpqA | 2023-10-25 | 9148
+- S021 | Andrew Ng: Artificial Intelligence is the New Electricity | https://www.youtube.com/watch?v=21EiKfQYZXc | 2017-02-02 | 14166
+- S022 | How AI Could Empower Any Business / Andrew Ng / TED | https://www.youtube.com/watch?v=reUZRyXxUs4 | 2022-10-13 | 1918
+- S023 | Data centric AI development  From Big Data to Good Data   Andrew Ng | https://www.youtube.com/watch?v=avoijDORAlc | 2022-07-19 | 4753
+- S024 | A Chat with Andrew on MLOps: From Model-centric to Data-centric AI | https://www.youtube.com/watch?v=06-AZXmwHjo | 2021-03-24 | 10805
+- S025 | Stanford CS230: Deep Learning / Autumn 2018 / Lecture 8 - Career Advice / Reading Research Papers | https://www.youtube.com/watch?v=733m6qBH-jI | 2019-04-03 | 11521
+- S027 | From AI Experiments to AI Products | https://www.deeplearning.ai/the-batch/from-ai-experiments-to-ai-products/ | 2026-01-23 | 513
+- S028 | Hot Tips for Speedy Startups | https://www.deeplearning.ai/the-batch/hot-tips-for-speedy-startups/ | 2025-05-07 | 624
+- S029 | The Value of AI’s Speed Is Underrated | https://www.deeplearning.ai/the-batch/the-value-of-ais-speed-is-underrated/ | 2025-05-14 | 598
+- S030 | Concrete Ideas Make Strong AI Startups: AI startups can move more efficiently and effectively with a concrete product idea than a vague market concept. | https://www.deeplearning.ai/the-batch/concrete-ideas-make-strong-ai-startups/ | 2024-07-24 | 815
+- S031 | How to Brainstorm AI Startup Ideas | https://www.deeplearning.ai/the-batch/how-to-brainstorm-ai-startup-ideas/ | 2024-07-31 | 946
+- S032 | Falling LLM Token Prices and What They Mean for AI Companies | https://www.deeplearning.ai/the-batch/falling-llm-token-prices-and-what-they-mean-for-ai-companies/ | 2024-08-28 | 635
+- S033 | Three Themes for AI Entrepreneurs | https://www.deeplearning.ai/the-batch/three-themes-for-ai-entreprenurs/ | 2024-02-21 | 515
+- S034 | What If Large Language Models Become a Commodity? | https://www.deeplearning.ai/the-batch/what-if-large-language-models-become-a-commodity/ | 2024-02-07 | 667
+- S035 | Understanding the AI Bubble: If There Is One | https://www.deeplearning.ai/the-batch/understanding-the-ai-bubble-if-there-is-one/ | 2025-11-26 | 911
+- S036 | Improve Agentic Performance with Evals and Error Analysis, Part 1 | https://www.deeplearning.ai/the-batch/improve-agentic-performance-with-evals-and-error-analysis-part-1/ | 2025-10-15 | 829
+- S037 | Improve Agentic Performance with Evals and Error Analysis, Part 2 | https://www.deeplearning.ai/the-batch/improve-agentic-performance-with-evals-and-error-analysis-part-2/ | 2025-10-22 | 880
+- S038 | Three Key Loops for Building Great Software | https://www.deeplearning.ai/the-batch/three-key-loops-for-building-great-software/ | 2026-06-26 | 832
+- S039 | Adjust Your Tactics to Fit Your Project's Maturity | https://www.deeplearning.ai/the-batch/what-stage-is-your-project-takeaways-for-ai-engineering/ | 2026-09-25 | 593
+- S040 | How to Build AI Startups Part 1: Hard Tech | https://www.deeplearning.ai/the-batch/how-to-build-ai-startups-part-1-hard-tech/ | 2022-05-04 | 433
+- S041 | How to Build AI Startups: Set Customer Expectations! | https://www.deeplearning.ai/the-batch/how-to-build-ai-startups-part-3-set-customer-expectations/ | 2022-05-18 | 544
+- S042 | How to Build AI Products and Businesses: Two Strategies | https://www.deeplearning.ai/the-batch/how-to-build-ai-products-and-businesses-two-strategies/ | 2021-09-01 | 446
+- S043 | Developing AI Products: How AI Product Development is Different From Traditional Software | https://www.deeplearning.ai/the-batch/how-developing-ai-products-is-different-from-traditional-software/ | 2021-06-23 | 601
+- S044 | Developing AI Products: How To Assess Technical Fea... | https://www.deeplearning.ai/the-batch/developing-ai-products-part-2-how-to-assess-technical-feasibility/ | 2021-06-30 | 387
+- S045 | What to Do in a Tough Economy | https://www.deeplearning.ai/the-batch/what-to-do-in-a-tough-economy/ | 2022-11-09 | 564
+- S046 | Don't Confuse Proof of Concept With Production Deployment | https://www.deeplearning.ai/the-batch/dont-confuse-proof-of-concept-with-production-deployment/ | 2021-01-27 | 503
+- S047 | Advice for Start-Up Founders | https://www.deeplearning.ai/the-batch/advice-for-start-up-founders/ | 2020-12-02 | 471
+- S048 | How to Make Tough Decisions | https://www.deeplearning.ai/the-batch/how-to-make-tough-decisions/ | 2021-06-02 | 406
+- S049 | AI Fund’s GP, Andrew Ng: LLMs as the Next Geopolitical Weapon & Do Margins Still Matter in AI? | https://www.youtube.com/watch?v=rT74mF6_NhQ | 2025-11-17 | 12357
+- S050 | Enabling Everyone To Build With AI | https://www.youtube.com/watch?v=XOJ_QuriBmA | 2025-06-17 | 4216
+- S051 | Andrew Ng keynote: AI, agents, and applications / ScaleUp:AI 2024 | https://www.youtube.com/watch?v=vmlzR_dNA2U | 2025-03-17 | 4628
+- S052 | Fireside chat and Q&A with Andrew Ng / ScaleUp:AI 2024 | https://www.youtube.com/watch?v=99gDNq-sQJU | 2025-03-17 | 3508
+- S054 | Live from NODES 2025 / Keynote: Fireside Chat with Andrew Ng and Emil Eifrém | https://www.youtube.com/watch?v=0of5gvBVQmU | 2025-11-06 | 5558
+- S055 | Andrew Ng on America's standing in the AI race (with DJ Patil) / Masters of Scale Summit 2025 | https://www.youtube.com/watch?v=XeUAu65unu8 | 2025-11-26 | 4289
+- S056 | Full AI Prompting Course with Andrew Ng | https://www.youtube.com/watch?v=8ib4Qnh2HFE | 2026-05-18 | 23774
+- S057 | AI Is Transforming Businesses (with Andrew Ng) | https://hbr.org/podcast/2023/12/ai-is-transforming-businesses-with-andrew-ng | 2023-12-20 | 4951
+- S058 | World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development | https://www.youtube.com/watch?v=WmgPAOIhrko | 2026-10-07 | 7483
+- S059 | Fireside Chat with Andrew Ng (Landing AI) | https://www.youtube.com/watch?v=ZsHJlHj_-Io | 2019-09-06 | 4039

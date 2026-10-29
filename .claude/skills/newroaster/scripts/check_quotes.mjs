@@ -42,7 +42,8 @@ const found = (q, id) => {
 
 let ok = 0;
 const wrong = [], missing = [];
-const re = /["“]([^"“”\n]{12,600})["”][^\n"“]{0,40}?[(\[]((?:S\d{3})(?:\s*[,;]\s*S\d{3})*)/g;
+// The id may follow a label, as seat agents cite: "..." (Framework name, S014)
+const re = /["“]([^"“”\n]{12,600})["”][^\n"“]{0,40}?[(\[](?:(?!S\d{3})[^()\[\]\n"“”]{0,60}?,\s*)?((?:S\d{3})(?:\s*[,;]\s*S\d{3})*)/g;
 for (const f of files) {
   const lines = fs.readFileSync(f, "utf8").split(/\r?\n/);
   lines.forEach((line, i) => {

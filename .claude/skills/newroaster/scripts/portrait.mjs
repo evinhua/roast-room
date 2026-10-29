@@ -14,6 +14,14 @@
 // <dir> is the seat's portrait folder, <build>/portrait/. It holds photo.jpg, cand1.png...,
 // base.png, open.png, mid.png, and blink.png. Needs KIE_AI_API_KEY (kie.ai) in the
 // environment or the project .env. A base candidate or edit costs a few credits.
+//
+// PORTRAIT_BACKEND=azure sends the same prompts and reference images to GPT Image 2 on an
+// Azure OpenAI deployment instead (images/edits). Set in the environment or .env:
+//   AZURE_OPENAI_ENDPOINT          https://<resource>.openai.azure.com
+//   AZURE_OPENAI_API_KEY           the resource key (or AZURE_OPENAI_AD_TOKEN, an Entra token)
+//   AZURE_OPENAI_IMAGE_DEPLOYMENT  the deployment name (default gpt-image-2)
+//   AZURE_OPENAI_API_VERSION       optional; without it the v1 API (/openai/v1) is used
+// Seats made this way will look a little different from the Seedream ones.
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -33,32 +41,102 @@ const EDITS = {
   blink: `Edit this image: the character blinks, both eyes fully closed with relaxed eyelids. ${KEEP} Only the eyes change.`,
 };
 
-function key() {
-  if (process.env.KIE_AI_API_KEY) return process.env.KIE_AI_API_KEY;
+/** A setting from the environment, or from the nearest .env up the tree. */
+function env(name) {
+  if (process.env[name]) return process.env[name];
   let dir = process.cwd();
   for (let i = 0; i < 8; i++) {
     const p = path.join(dir, ".env");
     if (fs.existsSync(p)) {
-      const m = fs.readFileSync(p, "utf8").match(/^\s*KIE_AI_API_KEY\s*=\s*["']?([^"'\r\n]+)/m);
+      const m = fs.readFileSync(p, "utf8").match(new RegExp(`^\\s*${name}\\s*=\\s*["']?([^"'\\r\\n]+)`, "m"));
       if (m && m[1].trim()) return m[1].trim();
     }
     const up = path.dirname(dir);
     if (up === dir) break;
     dir = up;
   }
+  return "";
+}
+
+const AZURE = env("PORTRAIT_BACKEND").toLowerCase() === "azure";
+
+function key() {
+  if (AZURE) {
+    if (!env("AZURE_OPENAI_ENDPOINT") || !(env("AZURE_OPENAI_API_KEY") || env("AZURE_OPENAI_AD_TOKEN"))) {
+      console.error("portrait: PORTRAIT_BACKEND=azure needs AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_API_KEY (or AZURE_OPENAI_AD_TOKEN) in the project .env.");
+      process.exit(3);
+    }
+    return "azure";
+  }
+  const k = env("KIE_AI_API_KEY");
+  if (k) return k;
   console.error("portrait: no KIE_AI_API_KEY. Get a key at https://kie.ai/api-key and add KIE_AI_API_KEY=... to the project .env.");
   process.exit(3);
+}
+
+const mimeOf = (file) => {
+  const ext = path.extname(file).slice(1).toLowerCase();
+  return ext === "jpg" || ext === "jpeg" ? "image/jpeg" : `image/${ext}`;
+};
+
+// GPT Image 2 given the photo first, at its default high input fidelity, returns a retouched
+// photo. So a base candidate takes two edits: first the cartoon is the canvas, at low input
+// fidelity, and is redrawn as the person in the photo; then that result is restyled to the
+// cartoon at high fidelity, which keeps the face and pushes the look the rest of the way.
+// The frame edits keep the shared prompts and high fidelity, so only the mouth or eyes change.
+const AZURE_BASE = "Redraw the 3D animated-film cartoon in the first image as a different person: the real person in the second image. Keep the first image's art style exactly: a stylized Pixar style CGI caricature, slightly large head, big glossy cartoon eyes, rounded cartoon nose, smooth matte skin, softly sculpted hair, head and upper chest bust facing the camera, mouth closed in a relaxed smile. Likeness from the second image: face shape, eyes, eyebrows, hairline, and facial hair. Plain pure green (#00ff00) background. Must look like a CGI cartoon, never a photograph.";
+const AZURE_RESTYLE = "Restyle the person in the first image into exactly the art style of the cartoon in the second image: a stylized Pixar style 3D animated-film CGI caricature. Exaggerate like the second image: larger head, big glossy cartoon eyes with catchlights, rounded cartoon nose, smooth matte clay-like skin with no pores, hair sculpted into soft simple clumps, simplified CGI fabric. Keep who it is: same face shape, eye shape, hairline, eyebrows, expression, glasses if any, and clothes. Same framing and plain pure green (#00ff00) background. It must look like a frame from an animated movie, not a photo.";
+
+/** One GPT Image 2 images/edits call on Azure OpenAI; returns the PNG bytes. */
+async function azureEdit(prompt, refs, fidelity) {
+  const endpoint = env("AZURE_OPENAI_ENDPOINT").replace(/\/+$/, "");
+  const deployment = env("AZURE_OPENAI_IMAGE_DEPLOYMENT") || "gpt-image-2";
+  const version = env("AZURE_OPENAI_API_VERSION");
+  const url = version
+    ? `${endpoint}/openai/deployments/${deployment}/images/edits?api-version=${version}`
+    : `${endpoint}/openai/v1/images/edits`;
+  const form = new FormData();
+  if (!version) form.append("model", deployment);
+  form.append("prompt", prompt);
+  for (const f of refs) {
+    const bytes = Buffer.isBuffer(f) ? f : fs.readFileSync(f);
+    form.append(refs.length > 1 ? "image[]" : "image", new Blob([bytes], { type: Buffer.isBuffer(f) ? "image/png" : mimeOf(f) }), Buffer.isBuffer(f) ? "pass1.png" : path.basename(f));
+  }
+  form.append("size", "1024x1024");
+  form.append("quality", "high");
+  form.append("n", "1");
+  if (fidelity) form.append("input_fidelity", fidelity);
+  const auth = env("AZURE_OPENAI_API_KEY") ? { "api-key": env("AZURE_OPENAI_API_KEY") } : { Authorization: `Bearer ${env("AZURE_OPENAI_AD_TOKEN")}` };
+  const r = await fetch(url, { method: "POST", headers: auth, body: form, signal: AbortSignal.timeout(10 * 60 * 1000) });
+  const j = await r.json().catch(() => ({}));
+  const b64 = j?.data?.[0]?.b64_json;
+  if (!r.ok || !b64) throw new Error(`azure ${r.status} ${JSON.stringify(j.error || j).slice(0, 300)}`);
+  return Buffer.from(b64, "base64");
+}
+
+/** The Azure version of one job: a base candidate (photo + style) or a frame edit (base only). */
+async function stillAzure(prompt, refs, out) {
+  let png;
+  if (refs.length > 1) {
+    const [photo, style] = refs;
+    // Drop the name ("Full Name. ..."): a famous name pulls GPT Image 2 back toward real photos.
+    const person = prompt.slice(prompt.indexOf("Person:") + 7).trim().replace(/^[^.]+\.\s*/, "");
+    const pass1 = await azureEdit(`${AZURE_BASE} The person: ${person}`, [style, photo], "low");
+    png = await azureEdit(AZURE_RESTYLE, [pass1, style], "high");
+  } else {
+    png = await azureEdit(prompt, refs);
+  }
+  fs.writeFileSync(out, png);
+  return out;
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 let H;
 
 async function upload(file) {
-  const ext = path.extname(file).slice(1).toLowerCase();
-  const mime = ext === "jpg" || ext === "jpeg" ? "image/jpeg" : `image/${ext}`;
   const r = await fetch(UPLOAD, {
     method: "POST", headers: H,
-    body: JSON.stringify({ base64Data: `data:${mime};base64,${fs.readFileSync(file).toString("base64")}`, uploadPath: "roast-room", fileName: path.basename(file) }),
+    body: JSON.stringify({ base64Data: `data:${mimeOf(file)};base64,${fs.readFileSync(file).toString("base64")}`, uploadPath: "roast-room", fileName: path.basename(file) }),
   });
   const j = await r.json();
   const url = j?.data?.downloadUrl || j?.data?.fileUrl || j?.data?.url;
@@ -68,6 +146,7 @@ async function upload(file) {
 
 /** One Seedream 5 Pro image-to-image job, saved to `out`. */
 async function still(prompt, refs, out) {
+  if (AZURE) return stillAzure(prompt, refs, out);
   const image_urls = await Promise.all(refs.map(upload));
   const r = await fetch(`${API}/api/v1/jobs/createTask`, {
     method: "POST", headers: H,
@@ -122,6 +201,10 @@ if (cmd === "photo") {
   console.log(`saved ${out}. Look at it before going on: one real person, face clear and toward the camera.`);
 } else if (cmd === "probe") {
   H = { "Content-Type": "application/json", Authorization: `Bearer ${key()}` };
+  if (AZURE) {
+    console.log(`azure: ${env("AZURE_OPENAI_ENDPOINT")}, deployment ${env("AZURE_OPENAI_IMAGE_DEPLOYMENT") || "gpt-image-2"}, api ${env("AZURE_OPENAI_API_VERSION") || "v1"}`);
+    process.exit(0);
+  }
   console.log("kie.ai credit:", (await (await fetch(`${API}/api/v1/chat/credit`, { headers: H })).json()).data);
 } else if (cmd === "base") {
   if (!arg) throw new Error('usage: portrait.mjs base <dir> "<who and what they wear>" [--n 2]');

@@ -1,6 +1,6 @@
 {
   "board": "ask",
-  "default": ["bezos", "graham", "hormozi", "garyvee", "martell", "wickman", "buffett"],
+  "default": ["huang", "ng", "lecun", "marcus", "kurzweil", "musk", "jobs", "altman"],
   "seats": [
     { "key": "bezos", "name": "Jeff Bezos", "short": "Bezos", "initials": "JB", "slug": "jeff-bezos", "pillar": "Strategy and decisions", "question": "Is this the right bet, and how reversible is it?", "dimension": "Strategic fit and reversibility", "color": "#e8a33d" },
     { "key": "graham", "name": "Paul Graham", "short": "Graham", "initials": "PG", "slug": "paul-graham", "pillar": "Product and startups", "question": "Is this something people actually want, and is it growing?", "dimension": "Real demand and growth", "color": "#f06b3f" },
@@ -13,6 +13,13 @@
     { "key": "sanchez", "name": "Codie Sanchez", "short": "Codie", "initials": "CS", "slug": "codie-sanchez", "pillar": "Buying and owning small businesses", "question": "Should you build this, or buy something that already works?", "dimension": "Buy versus build and deal terms", "color": "#e05d9b" },
     { "key": "blakely", "name": "Sara Blakely", "short": "Sara", "initials": "SB", "slug": "sara-blakely", "pillar": "Consumer product and brand from zero", "question": "Will customers love it enough to sell it for you, without outside money?", "dimension": "Product love and self-funded growth", "color": "#c9a227" },
     { "key": "leila", "name": "Leila Hormozi", "short": "Leila", "initials": "LH", "slug": "leila-hormozi", "pillar": "Leadership and scaling teams", "question": "Can your team and your leadership carry this, and who has to change?", "dimension": "Leadership and team capacity", "color": "#8fbf3a" },
-    { "key": "musk", "name": "Elon Musk", "short": "Elon", "initials": "EM", "slug": "elon-musk", "pillar": "First principles and execution speed", "question": "What is the real constraint here, and can we cut steps and build it faster?", "dimension": "Real constraints and execution speed", "color": "#c0392b" }
+    { "key": "musk", "name": "Elon Musk", "short": "Elon", "initials": "EM", "slug": "elon-musk", "pillar": "First principles and execution speed", "question": "What is the real constraint here, and can we cut steps and build it faster?", "dimension": "Real constraints and execution speed", "color": "#c0392b" },
+    { "key": "huang", "name": "Jensen Huang", "short": "Jensen", "initials": "JH", "slug": "jensen-huang", "pillar": "Platform bets and long-horizon compute", "question": "Is this a market you can create and own early, and can you endure the years it takes?", "dimension": "Platform position and staying power", "color": "#76b900" },
+    { "key": "ng", "name": "Andrew Ng", "short": "Andrew", "initials": "AN", "slug": "andrew-ng", "pillar": "Applied AI and fast iteration", "question": "Where does AI actually create value in this business, and how fast can you test it?", "dimension": "Applied AI value and iteration speed", "color": "#2a9fd6" },
+    { "key": "lecun", "name": "Yann LeCun", "short": "LeCun", "initials": "YL", "slug": "yann-lecun", "pillar": "AI science and open platforms", "question": "Can the technology really do this today, and should you build it open?", "dimension": "Technical reality and openness", "color": "#5b6ee1" },
+    { "key": "marcus", "name": "Gary Marcus", "short": "Marcus", "initials": "GM", "slug": "gary-marcus", "pillar": "AI reliability and hype check", "question": "What breaks when the AI is wrong, and is the promise real or hype?", "dimension": "Reliability and hype risk", "color": "#b8603a" },
+    { "key": "kurzweil", "name": "Ray Kurzweil", "short": "Kurzweil", "initials": "RK", "slug": "ray-kurzweil", "pillar": "Exponential trends and the long future", "question": "Where will the curve be when this ships, and are you building for that point?", "dimension": "Timing on the exponential curve", "color": "#a05cc8" },
+    { "key": "jobs", "name": "Steve Jobs", "short": "Jobs", "initials": "SJ", "slug": "steve-jobs", "pillar": "Product taste and focus", "question": "Is this insanely great, and what are you saying no to?", "dimension": "Product quality and focus", "color": "#8e8e93" },
+    { "key": "altman", "name": "Sam Altman", "short": "Altman", "initials": "SA", "slug": "sam-altman", "pillar": "Ambition and compounding bets", "question": "Is this ambitious enough, and will it compound as the technology gets better?", "dimension": "Ambition and compounding", "color": "#10a37f" }
   ]
 }

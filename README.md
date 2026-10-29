@@ -2,7 +2,20 @@
 
 ![The Roast Room](docs/room.jpg)
 
-Bring a hard business decision and a council of AI advisors argues it out, then hands you a scored verdict and a one-click PDF. Twelve advisors ship with it, each built from that person's public work: their letters, essays, talks, and videos. For each question, the Chair recommends who should sit on the council and you confirm. The council runs in Claude Code, and a small local web app shows them around a table talking it through. Want someone else at the table? Type `/newroaster` and a name, and Claude builds that advisor the same way.
+Bring a hard business decision and a council of AI advisors argues it out, then hands you a scored verdict and a one-click PDF. Nineteen advisors ship with it, each built from that person's public work: their letters, essays, talks, and videos. For each question, the Chair recommends who should sit on the council and you confirm. The council runs in Claude Code, and a small local web app shows them around a table talking it through. Want someone else at the table? Type `/newroaster` and a name, and Claude builds that advisor the same way.
+
+| Seat | Pillar | The question they own |
+|---|---|---|
+| Jensen Huang | Platform bets and long-horizon compute | Is this a market you can create and own early, and can you endure the years it takes? |
+| Andrew Ng | Applied AI and fast iteration | Where does AI actually create value in this business, and how fast can you test it? |
+| Yann LeCun | AI science and open platforms | Can the technology really do this today, and should you build it open? |
+| Gary Marcus | AI reliability and hype check | What breaks when the AI is wrong, and is the promise real or hype? |
+| Ray Kurzweil | Exponential trends and the long future | Where will the curve be when this ships, and are you building for that point? |
+| Elon Musk | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? |
+| Steve Jobs | Product taste and focus | Is this insanely great, and what are you saying no to? |
+| Sam Altman | Ambition and compounding bets | Is this ambitious enough, and will it compound as the technology gets better? |
+
+Those eight are the **default board**. Eleven more advisors are on call, and the Chair brings them in when your question is in their lane:
 
 | Seat | Pillar | The question they own |
 |---|---|---|
@@ -13,16 +26,10 @@ Bring a hard business decision and a council of AI advisors argues it out, then 
 | Dan Martell | People, hiring, and founder time | Who does this, and what does it cost your calendar? |
 | Gino Wickman | Operations and scaling | Can the business run this without you holding it together? |
 | Warren Buffett | Money and capital | What does it do to cash, risk, and long-term value? |
-
-Those seven are the **default board**. Five more advisors are on call, and the Chair brings them in when your question is in their lane:
-
-| Seat | Pillar | The question they own |
-|---|---|---|
 | Naval Ravikant | Leverage and wealth | Does this build leverage and equity you own, or does it just rent out your time? |
 | Codie Sanchez | Buying and owning small businesses | Should you build this, or buy something that already works? |
-| Leila Hormozi | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? |
 | Sara Blakely | Consumer product and brand from zero | Will customers love it enough to sell it for you, without outside money? |
-| Elon Musk | First principles and execution speed | What is the real constraint here, and can we cut steps and build it faster? |
+| Leila Hormozi | Leadership and scaling teams | Can your team and your leadership carry this, and who has to change? |
 
 ## What you need
 
@@ -83,7 +90,7 @@ The room is optional. The council runs the same in Claude Code without it.
 When you run `/roast-room`, the Chair reads your question and recommends a council from every advisor you have, with one line on why each one fits. You pick:
 
 - **Recommended board**: the five to seven advisors the Chair picked for this question.
-- **Default board**: your usual seven.
+- **Default board**: your usual board.
 - **Everyone**: all of them, when you have nine or fewer.
 - **Other**: type changes, like "recommended, but add Naval and drop Wickman".
 
@@ -136,7 +143,7 @@ A standard build is about 8 to 10 sub-agent runs, so it uses a real share of you
 
 You can build an advisor from public figures, living or historical, with a real body of public work, or from your own material (your posts, transcripts, notes) if you want yourself or a consenting mentor on the board. The raw sources stay on your machine; only the brain, which holds short quotes and paraphrase, is meant to be committed.
 
-**Their face in the room:** `/newroaster` also makes the new advisor's cartoon portrait, the same way the original seven were made. It finds a real photo of the person, turns it into the same 3D cartoon style (using one of the existing cartoons as the style reference), picks the closest likeness, and makes the talking frames (mouth open, mouth "oh", and a blink). This step needs a [kie.ai](https://kie.ai/api-key) key in `.env` (`KIE_AI_API_KEY=`, about 5 image jobs per advisor) and Python with `opencv-python` (Claude installs it if it's missing). Without a key the advisor still works and shows a placeholder face; add a key later and run `/newroaster portrait <name>`.
+**Their face in the room:** `/newroaster` also makes the new advisor's cartoon portrait, the same way the original seven were made. It finds a real photo of the person, turns it into the same 3D cartoon style (using one of the existing cartoons as the style reference), picks the closest likeness, and makes the talking frames (mouth open, mouth "oh", and a blink). This step needs a [kie.ai](https://kie.ai/api-key) key in `.env` (`KIE_AI_API_KEY=`, about 5 image jobs per advisor) and Python with `opencv-python` (Claude installs it if it's missing). Or use GPT Image 2 on your own Azure OpenAI deployment instead: set `PORTRAIT_BACKEND=azure`, `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, and `AZURE_OPENAI_IMAGE_DEPLOYMENT` in `.env` (the style comes out a little warmer). Without a key the advisor still works and shows a placeholder face; add a key later and run `/newroaster portrait <name>`.
 
 YouTube transcripts and photos work best with [yt-dlp](https://github.com/yt-dlp/yt-dlp) installed, and PDFs need `pdftotext` ([Poppler](https://poppler.freedesktop.org)). Both are optional: without them, Claude falls back to YouTube's own captions and reads PDFs itself.
 

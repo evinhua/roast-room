@@ -1,0 +1,44 @@
+# Sources: Steve Jobs
+
+38 sources (26 web, 11 video, 1 pdf), 327,924 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+
+Format: id | title | url | date | words
+
+- S001 | Make Something Wonderful / Steve Jobs | https://book.stevejobsarchive.com/ | undated | 48015
+- S002 | Thoughts on Music by Steve Jobs | https://shellypalmer.com/2007/02/thoughts-on-music-by-steve-jobs/ | 2007-02-10 | 2419
+- S004 | WWDC Closing Chat / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/misc/wwdc_1997_closing_chat | 1997-05 | 11670
+- S005 | Triumph of the Nerds / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/triumph_of_the_nerds_interview_1995 | undated | 12327
+- S006 | Smithsonian Interview / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/smithsonian_interview_1995 | undated | 11648
+- S007 | Playboy Interview: Steven Jobs / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/playboy_1985 | undated | 15088
+- S008 | Joint Interview with Bill Gates / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_bill_2007 | 2007-05 | 16048
+- S009 | D5 Conference / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/d5_conference_steve_2007 | 2007-05 | 12538
+- S010 | Interview / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/future_of_pc_1990 | undated | 7970
+- S011 | Steve | https://allaboutstevejobs.com/verbatim/interviews/time_1997 | undated | 3969
+- S012 | Steve Jobs Speaks Out / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/fortune_2008 | undated | 3290
+- S013 | Good for the Soul / all about Steve Jobs.com | https://allaboutstevejobs.com/verbatim/interviews/newsweek_2006 | undated | 1180
+- S015 | Steve Jobs in 1994: The Rolling Stone Interview | http://www.rollingstone.com/culture/news/steve-jobs-in-1994-the-rolling-stone-interview-20110117?print=true | 2011-01-17 | 6218
+- S016 | Steve Jobs: Rolling Stone's 2003 Interview | http://www.rollingstone.com/music/news/steve-jobs-rolling-stones-2003-interview-20111006?print=true | 2011-10-06 | 2945
+- S017 | Steve Jobs on the iTunes Music Store: The Unpublished Interview | http://www.technologizer.com/2011/12/07/steve-jobs-on-the-itunes-music-store-the-unpublished-interview/ | 2011-12-07 | 2537
+- S018 | Macworld 2007 / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/macworld_2007 | undated | 15554
+- S019 | NeXT Cube Intro / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/next_cube_introduction_1988 | 1988-10 | 19927
+- S020 | Mac Intro @ BCS / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/macintosh_introduction_bcs_1984 | undated | 13399
+- S021 | Seybold SF 1998 / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/seybold_sf_1998 | undated | 11627
+- S022 | NeXTSTEP 3.0 Demo / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/misc/nextstep_3_demo_1992 | undated | 6518
+- S023 | iMac Introduction / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/imac_introduction_1998 | 1998-05 | 4075
+- S024 | 10 years of the PC Interview / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/misc/tenyears_1991 | 1991-07 | 3442
+- S025 | NeXTstation Intro / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/keynotes/next_station_introduction_1990 | undated | 3235
+- S026 | Internal NeXT Video / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/misc/internal_next_strategy_video_1991 | undated | 3003
+- S027 | Steve Jobs President & CEO, NeXT Computer Corp and Apple. MIT Sloan Distinguished Speaker Series | https://www.youtube.com/watch?v=Gk-9Fd2mEnI | 2017-12-19 | 12190
+- S028 | Steve Jobs in 2005 at D3 (Enhanced Quality) | https://www.youtube.com/watch?v=IzH54FpWAP0 | 2012-06-01 | 14949
+- S029 | Steve Jobs in 2003 at D1 the First D All Things Digital Conference (Enhanced Quality) | https://www.youtube.com/watch?v=oMyZwhzy5hE | 2012-06-01 | 9278
+- S030 | Steve Jobs in 2004 at D2 (Enhanced Quality) | https://www.youtube.com/watch?v=idhrY_3-bJs | 2012-06-01 | 10598
+- S031 | Steve Jobs visit at Lund University in 1985 | https://www.youtube.com/watch?v=NT6oUsn3ANA | 2017-02-05 | 1799
+- S032 | Steve Jobs and John Lasseter interview on Pixar (1996) | https://www.youtube.com/watch?v=SgWdjvRgouk | 2016-07-04 | 4223
+- S033 | 1993 interview re: Paul Rand and Steve Jobs | https://www.youtube.com/watch?v=xb8idEf-Iak | 2007-01-07 | 1022
+- S034 | Steve Jobs at Internet World Spring 1996 | https://www.youtube.com/watch?v=CEnV4RbzQfY | 2019-03-03 | 5132
+- S035 | Steve Jobs Interview - 8/14/1998 - iMac Satellite Tour | https://www.youtube.com/watch?v=8a5KSoOUT_U | 2022-03-22 | 1693
+- S036 | Stanford Speech / all about Steve Jobs.com | https://allaboutstevejobs.com/videos/misc/stanford_commencement_address_2005 | undated | 2390
+- S037 | thoughts on flash | https://newslang.ch/wp-content/uploads/2022/06/Thoughts-on-Flash.pdf | 2022 | 1688
+- S038 | Steve Jobs: The Next Insanely Great Thing | https://www.wired.com/1996/02/jobs-2/ | 1996-02-01 | 6119
+- S040 | Steve Jobs interview at the 2010 D8 Conference | https://www.youtube.com/watch?v=c6nKI2At944 | 2021-01-22 | 8058
+- S041 | A 28-year-old Steve Jobs gives a talk at the 1983 International Design Conference in Aspen | https://www.youtube.com/watch?v=t9HmOz8H0qI | 2025-03-17 | 10143
