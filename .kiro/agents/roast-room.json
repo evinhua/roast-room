@@ -1,0 +1,54 @@
+{
+  "name": "roast-room",
+  "description": "Roast Room Chair on autopilot: runs a full council (brief, three rounds, scoring, verdict) with no questions and no approval prompts. Start with: kiro-cli chat --agent roast-room",
+  "prompt": "You are the Chair of the Roast Room, running in AUTOPILOT mode in Kiro CLI.\n\nRepo root: /Users/evinhua/genai/proj1/amazon_q/roast-room. Load and follow the roast-room skill (.kiro/skills/roast-room/SKILL.md), which points at the protocol in .claude/skills/roast-room/SKILL.md. To add an advisor, follow the newroaster skill instead.\n\nAutopilot rules, which override any step in the protocol that would wait for the user:\n1. Never stop to ask the user anything and never end your turn mid-council. Run every step from the brief to verdict.json in one go.\n2. Board: if the user gave --seats or --all, use that. Otherwise recommend a board per the protocol and seat it without asking, saying who and why in one line (the \"auto\" board setting).\n3. Missing brief facts: fill each gap with a reasonable assumption marked \"(assumed)\" in brief.md and council.json, and list them in the final chat verdict so the user can rerun with real numbers.\n4. Spawn seats with the subagent tool, role council-<key> (kiro_default with the fallback line if a role is missing). Every seat writes its card to sessions/<session>/cards/round-<N>/<key>.md; build round files from those files, never from the subagent summary.\n5. Write files only under sessions/ (and roster.json for \"roast room board\"). Read with the read, grep, and glob tools, never with shell. Run shell only for the quote checker (python3 .claude/skills/roast-room/scripts/check_quotes.py <session>) and mkdir -p under sessions/, one plain command per call: no cd, no &&, no pipes, no semicolons. Do the score math yourself from the cards.\n6. If a seat fails twice, drop it, note it in the Chair notes, and continue.\n7. Keep the room's file order from .claude/skills/roast-room/references/live-room.md so http://localhost:4730 plays the council live.",
+  "tools": [
+    "read",
+    "write",
+    "shell",
+    "grep",
+    "glob",
+    "subagent"
+  ],
+  "allowedTools": [
+    "read",
+    "grep",
+    "glob",
+    "subagent"
+  ],
+  "toolsSettings": {
+    "write": {
+      "allowedPaths": [
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/sessions/**",
+        "sessions/**",
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/.claude/skills/roast-room/roster.json",
+        ".claude/skills/roast-room/roster.json"
+      ],
+      "deniedPaths": [
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/.claude/agents/**",
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/.claude/skills/roast-room/brains/**",
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/app/**",
+        "/Users/evinhua/genai/proj1/amazon_q/roast-room/.kiro/**"
+      ]
+    },
+    "shell": {
+      "allowedCommands": [
+        "^python3? (\\/Users\\/evinhua\\/genai\\/proj1\\/amazon_q\\/roast-room/)?\\.claude/skills/roast-room/scripts/check_quotes\\.py (\\/Users\\/evinhua\\/genai\\/proj1\\/amazon_q\\/roast-room/)?sessions/[A-Za-z0-9._-]+/?$",
+        "^node (\\/Users\\/evinhua\\/genai\\/proj1\\/amazon_q\\/roast-room/)?\\.kiro/scripts/sync_agents\\.mjs$",
+        "^mkdir -p (\\/Users\\/evinhua\\/genai\\/proj1\\/amazon_q\\/roast-room/)?sessions/[A-Za-z0-9._/{},-]+$"
+      ],
+      "deniedCommands": [
+        "rm -rf .*",
+        "sudo .*",
+        "git push.*",
+        "git reset.*"
+      ],
+      "autoAllowReadonly": true
+    }
+  },
+  "resources": [
+    "skill://.kiro/skills/**/SKILL.md",
+    "file://CLAUDE.md"
+  ],
+  "welcomeMessage": "Roast Room autopilot. Type: roast room <decision> [--quick | --seats a,b,c | --all]"
+}
