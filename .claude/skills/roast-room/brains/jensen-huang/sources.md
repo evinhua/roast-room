@@ -1,6 +1,8 @@
 # Sources: Jensen Huang
 
-45 sources (7 web, 38 video), 480,755 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+104 usable sources (26 web, 78 video), 864,987 words, 2011 to 2026. Video dates are upload dates. S066 to S105 are undated here; positions.md uses the year in the event title where there is one. Every quote in this brain carries one of these ids.
+
+Not used: S106 (13,110 words) is a re-upload of the GTC Washington D.C. 2025 keynote already in the corpus as S039, so it is listed but left out of the counts and never quoted. The Tech Unheard transcript page came back empty (it builds itself with JavaScript) and has no id. Read with care: S061 is a short employee letter, the earnings calls (S054 to S057) are partly CFO remarks, and the partner fireside chats (S083, S086 to S094) have him as a co-speaker.
 
 Format: id | title | url | date | words
 
@@ -49,3 +51,63 @@ Format: id | title | url | date | words
 - S044 | NVIDIA CEO Jensen Huang Keynote at CES 2025 | https://www.youtube.com/watch?v=k82RwXqZHY8 | 2025-01-06 | 11332
 - S045 | NVIDIA (NVDA) Q4 2026 Earnings Call Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2026/02/25/nvidia-nvda-q4-2026-earnings-call-transcript/ | 2026-02-25 | 7915
 - S046 | Nvidia (NVDA) Q3 2026 Earnings Call Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2025/11/19/nvidia-nvda-q3-2026-earnings-call-transcript/ | 2025-11-19 | 9850
+- S047 | An Interview with Nvidia CEO Jensen Huang about Manufacturing Intelligence | https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-manufacturing-intelligence/ | 2022-03-28 | 8781
+- S048 | An Interview With Nvidia CEO Jensen Huang About Building the Omniverse Cloud | https://stratechery.com/2022/an-interview-with-nvidia-ceo-jensen-huang-about-building-the-omniverse-cloud/ | 2022-09-22 | 9966
+- S049 | Transcript: NVIDIA CEO Jensen Huang’s Interview on Memos to the President: The Singju Post | https://singjupost.com/transcript-nvidia-ceo-jensen-huangs-interview-on-memos-to-the-president/ | 2025-07-17 | 5329
+- S050 | Jensen Huang Nvidia 60 Minutes Interview Transcript / Rev | https://www.rev.com/transcripts/nvidia-ceo-jensen-huang-60-minutes-interview | 2024-05-02 | 2599
+- S051 | CNBC Exclusive: Transcript: Nvidia Founder & CEO Jensen Huang and Hugging Face CEO Clément Delangue Speak with CNBC’s Becky Quick on “Squawk Box” Today | https://www.cnbc.com/2026/09/03/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-and-hugging-face-ceo-clment-delangue-speak-with-cnbcs-becky-quick-on-squawk-box-today.html | 2026-09-03 | 3865
+- S052 | CNBC Exclusive: Transcript: Nvidia Founder & CEO Jensen Huang Speaks with CNBC’s Jim Cramer on “Squawk on the Street” Today | https://www.cnbc.com/2026/03/17/cnbc-exclusive-transcript-nvidia-founder-ceo-jensen-huang-speaks-with-cnbcs-jim-cramer-on-squawk-on-the-street-today.html | 2026-03-17 | 1793
+- S053 | CNBC Exclusive: Transcript: CNBC’s Becky Quick Speaks with Nvidia’s Jensen Huang & Wall Street Leaders on $500B AI Infrastructure Push on “Closing Bell: Overtim | https://www.cnbc.com/2026/08/10/cnbc-exclusive-transcript-cnbcs-becky-quick-speaks-with-nvidias-jensen-huang-wall-street-leaders-on-500b-ai-infrastructure-push-on-closing-bell-overtime-today.html | 2026-08-10 | 7121
+- S054 | Nvidia (NVDA) Q2 2027 Earnings Call Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2026/08/31/nvidia-nvda-q2-2027-earnings-call-transcript/ | 2026-08-31 | 9075
+- S055 | Nvidia (NVDA) Q1 2027 Earnings Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2026/05/20/nvidia-nvda-q1-2027-earnings-transcript/ | 2026-05-20 | 9491
+- S056 | Nvidia (NVDA) Q2 2024 Earnings Call Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2023/08/23/nvidia-nvda-q2-2024-earnings-call-transcript/ | 2023-08-24 | 9153
+- S057 | NVIDIA Corporation (NVDA) Q3 2019 Earnings Conference Call Transcript / The Motley Fool | https://www.fool.com/earnings/call-transcripts/2018/11/16/nvidia-corporation-nvda-q3-2019-earnings-conferenc.aspx | 2018-11-16 | 7472
+- S058 | AI Is a 5-Layer Cake | https://blogs.nvidia.com/blog/ai-5-layer-cake/ | 2026-03-10 | 1279
+- S059 | The Intelligent Industrial Revolution | https://blogs.nvidia.com/blog/intelligent-industrial-revolution/ | 2016-10-24 | 2493
+- S060 | Letter From Jensen: Building the New NVIDIA Together | https://blogs.nvidia.com/blog/building-the-new-nvidia-together/ | 2020-04-30 | 975
+- S061 | Letter From Jensen: Creating a Premier Company for the Age of AI | https://blogs.nvidia.com/blog/jensen-employee-letter-arm/ | 2020-09-13 | 601
+- S062 | Securing the Infrastructure of Intelligence | https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/ | 2026-08-17 | 1094
+- S063 | NVIDIA AI Factory Compute Is Becoming an Investable Asset Class | https://blogs.nvidia.com/blog/nvidia-ai-factory-compute/ | 2026-08-12 | 1192
+- S064 | Accelerating AI with GPUs: A New Computing Model | https://blogs.nvidia.com/blog/accelerating-ai-artificial-intelligence-gpus/ | 2016-01-12 | 1941
+- S065 | NVIDIA to Acquire Hugging Face | https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/ | 2026-09-03 | 664
+- S066 | Jensen Huang: The Doomer Hoax, Superintelligence is Here, and The Future of AI (ft. President Trump) | https://www.youtube.com/watch?v=S7CrlFLAmEA | undated | 9209
+- S067 | Jensen Huang Thinks A.I. Alarmism Has Gone Too Far / The Ezra Klein Show | https://www.youtube.com/watch?v=HjurAWAr_nY | undated | 19222
+- S068 | Nvidia’s Jensen Huang on the AI revolution, job losses and what drives him / Full interview | https://www.youtube.com/watch?v=XVoyL8rzhWs | undated | 9049
+- S069 | Nvidia’s CEO on the AI debt scare, China, and jobs / Full interview | https://www.youtube.com/watch?v=sH5qyeHSdVs | undated | 5637
+- S070 | Oral History of Jensen Huang | https://www.youtube.com/watch?v=0c8i4T9BSqY | undated | 11613
+- S071 | Stanford CS153 Frontier Systems / Jensen Huang from NVIDIA on the Compute Behind Intelligence | https://www.youtube.com/watch?v=tsQB0n0YV3k | undated | 11166
+- S072 | NVIDIA's Jensen Huang on Building the Dynamo of the Intelligence Age | https://www.youtube.com/watch?v=2UpQbeAZuqA | undated | 6843
+- S073 | Nvidia's Jensen Huang on AI & the Next Frontier of Growth | https://www.youtube.com/watch?v=m1wfJOqDUv4 | undated | 9392
+- S074 | Morgan Stanley TMT Conference 2026 / Jensen Huang on AI, Compute, Tokens and the New Global Economy | https://www.youtube.com/watch?v=xv7UVAfyebk | undated | 6561
+- S075 | An Exclusive Interview with Jensen Huang on Nvidia’s AI Future / Open Interest 8/31/2026 | https://www.youtube.com/watch?v=T2q2Zv4ePII | undated | 12506
+- S076 | Jensen Huang & @NVIDIA / 2025 Hawking Fellow / Cambridge Union | https://www.youtube.com/watch?v=YNshj2oOr3E | undated | 9142
+- S077 | Jensen Huang of Nvidia on the Future of A.I. / DealBook Summit 2023 | https://www.youtube.com/watch?v=Pkj-BLHs6dE | undated | 5298
+- S078 | 2018 WMIF / 1:1 Fireside Chat: Jensen Huang, CEO, NVIDIA | https://www.youtube.com/watch?v=C5a-ByPsoyg | undated | 6269
+- S079 | Fireside Chat with Jensen Huang and Harry Shum on Technology, Leadership, and Entrepreneurship | https://www.youtube.com/watch?v=h-66Jds6lgU | undated | 9115
+- S080 | Jensen Huang says the AI doomers have it wrong | https://www.youtube.com/watch?v=fr1IQspixmM | undated | 11383
+- S081 | Jensen Huang: NVIDIA's New Breakthrough For Safe AI / CNBC Full Interview | https://www.youtube.com/watch?v=nnwIi6547DU | undated | 4949
+- S082 | Fireside Chat: Jensen Huang & Zhaslan Madiyev on the Future of AI / Live from Astana | https://www.youtube.com/watch?v=d0j58QNeRmc | undated | 3666
+- S083 | Commerce Sec. Lutnick and Nvidia CEO Jensen Huang in a fireside chat at G20 meeting: 9/2/2026 | https://www.youtube.com/watch?v=VrgRI00UPxc | undated | 5381
+- S084 | Nvidia CEO Jensen Huang Interview/ Bloomberg Technology Special | https://www.youtube.com/watch?v=GjXag-NB1HM | undated | 7239
+- S085 | Nvidia CEO Jensen Huang: We've been thinking about robotics for a long time | https://www.youtube.com/watch?v=mP-TyDeVoUU | undated | 1147
+- S086 | Nvidia's Huang, Michael Dell on Agentic AI, Memory Demand and China | https://www.youtube.com/watch?v=oE5lNDhz9oo | undated | 3557
+- S087 | Conversation with NVIDIA CEO Jensen Huang: Satya Nadella at Microsoft Build 2025 | https://www.youtube.com/watch?v=pBRXRApBQog | undated | 2080
+- S088 | Jensen Huang and Marc Benioff Discuss AI Agents Collaborating at Dreamforce 2024 | https://www.youtube.com/watch?v=kfe3ajUYSdc | undated | 1363
+- S089 | Nvidia's Jensen Huang Joins Marc Benioff as AI Debate Takes Center Stage at Dreamforce / AI1G | https://www.youtube.com/watch?v=-Qyd__IJIhg | undated | 2199
+- S090 | Jensen Huang and Bill McDermott at the ServiceNow Knowledge25 Keynote | https://www.youtube.com/watch?v=Iy0KaTmoz14 | undated | 3395
+- S091 | Snowflake Summit 2023 Keynote: Generative AI’s Impact on Data Innovation in the Enterprise | https://www.youtube.com/watch?v=O8sQxPgw8Ws | undated | 7731
+- S092 | CEO Fireside Chat with Jensen Huang and Safra Catz at Oracle CloudWorld | https://www.youtube.com/watch?v=MJAD7jViVrg | undated | 1361
+- S093 | Jensen Huang, Founder and CEO of NVIDIA with Ali Ghodsi, Co-founder and CEO of Databricks | https://www.youtube.com/watch?v=SAsoWmMhX3Q | undated | 4320
+- S094 | Jensen Huang at the ServiceNow Knowledge24 Keynote | https://www.youtube.com/watch?v=t0r-6x3z3Ac | undated | 1819
+- S095 | NVIDIA GTC Berlin 2026 Keynote With CEO Jensen Huang | https://www.youtube.com/watch?v=v-NGxyPjcrE | undated | 11481
+- S096 | NVIDIA GTC Taipei 2026 Keynote / Full Replay | https://www.youtube.com/watch?v=wSp6AiNIrsY | undated | 14285
+- S097 | NVIDIA Live at CES with CEO Jensen Huang | https://www.youtube.com/watch?v=0NBILspM4c4 | undated | 12379
+- S098 | NVIDIA CEO Jensen Huang Live GTC Paris Keynote at VivaTech 2025 | https://www.youtube.com/watch?v=X9cHONwKkn4 | undated | 11573
+- S099 | GTC 2023 Keynote with NVIDIA CEO Jensen Huang | https://www.youtube.com/watch?v=DiGB5uAYKAg | undated | 8425
+- S100 | GTC 2022 Spring Keynote with NVIDIA CEO Jensen Huang | https://www.youtube.com/watch?v=39ubNuxnrK8 | undated | 10828
+- S101 | GTC Sept 2022 Keynote with NVIDIA CEO Jensen Huang | https://www.youtube.com/watch?v=PWcNlRI00jo | undated | 10482
+- S102 | GTC Spring 2021 Keynote with NVIDIA CEO Jensen Huang | https://www.youtube.com/watch?v=eAn_oiZwUXA | undated | 11801
+- S103 | NVIDIA Keynote at SIGGRAPH 2023 | https://www.youtube.com/watch?v=Z2VBKerS63A | undated | 10304
+- S104 | NVIDIA CEO Jensen Huang Berlin Summit for EVE Keynote | https://www.youtube.com/watch?v=GTJVpPsSwpI | undated | 3017
+- S105 | ITF World 2023 Keynote with NVIDIA CEO Jensen Huang | https://www.youtube.com/watch?v=wrdqsMqmAig | undated | 2161
+- S106 | LIVE: Nvidia CEO Jensen Huang Keynote Address | https://www.youtube.com/watch?v=viWzfJj1-ck | undated | 13110 | not used (duplicate of S039)

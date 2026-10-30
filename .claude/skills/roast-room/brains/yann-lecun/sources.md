@@ -1,6 +1,6 @@
 # Sources: Yann LeCun
 
-33 sources (32 video, 1 web), 390,885 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+92 usable sources (84 video, 8 web), 954,713 words, 2017 to 2026. Video dates are upload dates; 53 of the usable sources have no upload date in the manifest, so their year comes from the title or content where it shows. Six more sources (S042, S043, S044, S050, S069, S083) were fetched but are not used, so the raw manifest shows 98 sources and 1,012,286 words. They are marked "not used" below. S042, S043, S044 and S083 are French talks whose captions came through machine-translated into English, so no quote from them would be verbatim. S069 is a second upload of the same Eye on AI episode as S068. S050 is a thin clip of about 1,100 words. S039 (a Senate hearing with several witnesses), S041 (UN Open Source Week, where LeCun gives only the opening keynote and a short fireside chat), S070 (with a co-guest) and S096 (a debate with Gary Marcus) are multi-speaker; only LeCun's turns are used. Fetches that failed and are not in this list: the OpenReview PDF of "A Path Towards Autonomous Machine Intelligence" (HTTP 403), a Newsweek interview (HTTP 406), and five YouTube videos with no English captions. Every quote in this brain carries one of the usable ids.
 
 Format: id | title | url | date | words
 
@@ -37,3 +37,68 @@ Format: id | title | url | date | words
 - S032 | NUS120 Distinguished Speaker Series / Professor Yann LeCun | https://www.youtube.com/watch?v=m3H2q6MXAzs | 2025-04-27 | 19788
 - S033 | From Machine Learning to Autonomous Intelligence: AI-Talk by Prof. Dr. Yann LeCun | https://www.youtube.com/watch?v=pd0JmT6rYcI | 2023-09-29 | 13322
 - S034 | Predictive Learning: The Next Frontier in A.I. | https://www.youtube.com/watch?v=zaoL0LUctK4 | 2017-03-01 | 20234
+- S035 | AI And The Limits Of Language / NOEMA | https://www.noemamag.com/ai-and-the-limits-of-language | 2022-08-23 | 3086
+- S036 | What AI Can Tell Us About Intelligence / NOEMA | https://www.noemamag.com/what-ai-can-tell-us-about-intelligence | 2022-06-16 | 2765
+- S037 | Meta’s AI Chief Yann LeCun on AGI, Open-Source, and AI Risk | https://time.com/6694432/yann-lecun-meta-ai-interview/ | 2024-02-13 | 2039
+- S038 | How Not to Be Stupid About AI, With Yann LeCun | https://www.wired.com/story/artificial-intelligence-meta-yann-lecun-interview/ | 2023-12-22 | 2952
+- S039 | Transcript: Senate Hearing Addressing the National Security Implications of AI | https://techpolicy.press/transcript-senate-hearing-addressing-the-national-security-implications-of-ai | 2023-09-21 | 21295
+- S040 | Yann LeCun’s new venture is a contrarian bet against large language models | https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/ | 2026-01-22 | 2809
+- S041 | Open Source for AI and Emerging Technologies - UN Open Source Week 2026 (Part 1) | https://transcripts.un.org/en/asset/k14/k14ej1ucqu | undated | 25635
+- S042 | [Version longue] Les World Models, un game changer ? Avec Yann LE CUN / AIM 2026 | https://www.youtube.com/watch?v=8qXfXu2bsE4 | undated | 7560 | not used: French, machine-translated captions
+- S043 | Yann Le Cun : où va l’intelligence artificielle ? | https://www.youtube.com/watch?v=Y4s8NadbZfU | undated | 12931 | not used: French, machine-translated captions
+- S044 | Les Worlds Models : l’IA post LLM, expliqué par Yann LeCun | https://www.youtube.com/watch?v=m7ywFu3Yqh8 | undated | 16159 | not used: French, machine-translated captions
+- S045 | EP20: Yann LeCun | https://www.youtube.com/watch?v=7u-DXVADyhc | undated | 19192
+- S046 | Yann LeCun On Why AI Is Power, Not Intelligence / AI Impact Summit 2026 | https://www.youtube.com/watch?v=ckKWNRDd0OA | undated | 3153
+- S047 | Yann LeCun Fireside Chat: AI Month at Penn Engineering 2025 | https://www.youtube.com/watch?v=UwMpfGtEnWc | undated | 13181
+- S048 | Yann LeCun, AMI Labs / Evident AI Symposium 2026 | https://www.youtube.com/watch?v=DK0jypclGSk | undated | 3284
+- S049 | Yann LeCunn: Why AGI is a Dangerous Misnomer | https://www.youtube.com/watch?v=z4m1j3Wj8qE | undated | 2462
+- S050 | How Far Can Artificial Intelligence Really Go? / Yann LeCun - World Governments Summit | https://www.youtube.com/watch?v=SbISeWn3FSk | undated | 1121 | not used: thin clip
+- S051 | MGAIC Symposium: Foundations and Futures Keynote | https://www.youtube.com/watch?v=kN38CNAQRuc | undated | 5691
+- S052 | Self-Supervised Learning, JEPA, World Models and the Future of AI by Prof. Yann LeCun From NYU | https://www.youtube.com/watch?v=PKMVoowl6Hc | undated | 15917
+- S053 | LIVE: Meta’s chief AI scientist delivers keynote speech at VivaTech show in Paris | https://www.youtube.com/watch?v=uwBs0Rd0W2o | undated | 8246
+- S054 | Fireside chat with Yann LeCun hosted by Gaurav Aggarwal, iSPIRT | https://www.youtube.com/watch?v=4V_cJX8sVeM | undated | 7715
+- S055 | The Future of AI: Yann LeCun on Innovation, Talent & Open-Source / NTLF Conversations S2 Ep#2 | https://www.youtube.com/watch?v=dtLdK_7jMnk | undated | 3721
+- S056 | Yann LeCun advice for 20-year olds: Study fundamental topics that have a long shelf life | https://www.youtube.com/watch?v=1IBYmEgY3_E | undated | 4023
+- S057 | #5: Yann LeCun: AI Dynamics and Regulation | https://www.youtube.com/watch?v=zfVsT1DqI9I | undated | 8333
+- S058 | Embodied AI: Systems that See, Hear, and Act in the World Alongside Humans / AI House Davos 2026 | https://www.youtube.com/watch?v=pJyoqapCRZE | undated | 10724
+- S059 | Paris Conversations. Reflections of an AI Visionary, an AI story with Yann LeCun | https://www.youtube.com/watch?v=l3Emh_cekZo | undated | 2315
+- S060 | How Meta’s Chief AI Scientist Believes We’ll Get To Autonomous AI Models | https://www.youtube.com/watch?v=6RUR6an5hOY | undated | 3559
+- S061 | A Conversation with Yann LeCun AI: Lifeline or Landmine? | https://www.youtube.com/watch?v=rf9jgZYAni8 | undated | 4521
+- S062 | Will AI Lead Us to Our End? | https://www.youtube.com/watch?v=iR9-oPU8rNs | undated | 3375
+- S063 | Yann LeCun on World Models, AI Threats and Open-Sourcing | https://www.youtube.com/watch?v=vjrU4MWjd6Y | undated | 8075
+- S064 | AI Native 2023: Fireside Chat: What's Next for AI with Yann LeCun: Session #7 | https://www.youtube.com/watch?v=jnzA0VatfrI | undated | 8852
+- S065 | Fireside Chat with Aparna Ramani & Yann LeCun / Yann LeCun | https://www.youtube.com/watch?v=vq8FugL-VdI | undated | 5499
+- S066 | Yann LeCun: Meta’s New AI Model LLaMA; Why Elon is Wrong about AI; Open-source AI Models / E1014 | https://www.youtube.com/watch?v=OgWaowYiBPM | undated | 12265
+- S067 | Fireside Chat / Yann LeCun & Ludovic Hauduc | https://www.youtube.com/watch?v=iSAlRynhVGY | undated | 6056
+- S068 | Filling the Gap in Large Language Models / Yann LeCun | https://www.youtube.com/watch?v=_a3L4dJytV4 | undated | 9182
+- S069 | Yann LeCun on How to Fill the Gaps in Large Language Models | https://www.youtube.com/watch?v=mBjPyte2ZZo | undated | 9262 | not used: duplicate of S068
+- S070 | #86 - Prof. YANN LECUN and Dr. RANDALL BALESTRIERO - SSL, Data Augmentation [NEURIPS2022] | https://www.youtube.com/watch?v=9dLd6n9yT8U | undated | 5970
+- S071 | WHAT IS AI? Conversations with SJ Hanson  and Yann Le Cun | https://www.youtube.com/watch?v=4s2S2l2OvdM | undated | 6578
+- S072 | Yann LeCun | https://www.youtube.com/watch?v=dOj0MeKmias | undated | 9851
+- S073 | Why LeCun Thinks Deep Learning Isn't Enough: Yann LeCun | https://www.youtube.com/watch?v=86ib0sfdFtw | undated | 35596
+- S074 | Yann LeCun & Soumith Chintala / Fireside Chat at PyTorch Developer Day 2021 | https://www.youtube.com/watch?v=JWdDl9Tvw6g | undated | 5027
+- S075 | Daniel Kahneman and Yann LeCun: How To Get AI To Think Like Humans (Full Episode) | https://www.youtube.com/watch?v=oy9FhisFTmI | undated | 11907
+- S076 | Yann LeCun on his Start in Research and Self-Supervised Learning | https://www.youtube.com/watch?v=YdzXtm2URTE | undated | 10475
+- S077 | CAiRE Webinar / Virtual Fireside Chat with Yann LeCun | https://www.youtube.com/watch?v=fJ78hxcdyoM | undated | 18593
+- S078 | HLF Laureate Portraits: Yann LeCun | https://www.youtube.com/watch?v=oUa8Jk04tZQ | undated | 9340
+- S079 | Episode 17 - Yann Lecun | https://www.youtube.com/watch?v=NDiyxZxa8OM | undated | 9852
+- S080 | Fireside Conversation with Yann LeCun / Talk / VivaTech | https://www.youtube.com/watch?v=4vqiBrATTPc | undated | 4091
+- S081 | AI at 70 Award Presentation & Keynote: World Models: Enabling the Next AI Revolution | https://www.youtube.com/watch?v=7Yr62DCtIVs | undated | 9771
+- S082 | Yann LeCun: World Models: Enabling the next AI revolution | https://www.youtube.com/watch?v=72Xj8k5WQX4 | undated | 9932
+- S083 | [Leçon inaugurale] Yann Le Cun - Apprentissage profond et au-delà : les nouveaux défis de l'IA | https://www.youtube.com/watch?v=Z208NMP7_-0 | undated | 10540 | not used: French, machine-translated captions
+- S084 | Yann LeCun at Duke's Responsible AI Symposium | https://www.youtube.com/watch?v=ddUPj3N3A-Y | undated | 11056
+- S085 | Yann LeCun "Mathematical Obstacles on the Way to Human-Level AI" | https://www.youtube.com/watch?v=ETZfkkv6V7Y | undated | 9515
+- S086 | The Shape of AI to Come! Yann LeCun at AI Action Summit 2025 | https://www.youtube.com/watch?v=xnFmnU0Pp-8 | undated | 7707
+- S087 | The Impact of chatGPT talks (2023) -  Keynote address by Prof. Yann LeCun (NYU/Meta) | https://www.youtube.com/watch?v=vyqXLJsmsrk | undated | 9013
+- S088 | Do Large Language Models Need Sensory Grounding for Meaning and Understanding by Prof. Yann LeCun | https://www.youtube.com/watch?v=_A-w6V2_IuI | undated | 12517
+- S089 | Yann LeCun: Turing Award Lecture "The Deep Learning Revolution: The Sequel" | https://www.youtube.com/watch?v=psl1wY2V-L0 | undated | 6768
+- S090 | Four decades in Machine Learning: a Personal Journey by Yann LeCun | https://www.youtube.com/watch?v=LHDq2PkebD4 | undated | 16892
+- S091 | Yann LeCun's Keynote Speech at the 2020 AI Summit | https://www.youtube.com/watch?v=qWbU_5rCMLw | undated | 9045
+- S092 | "The Power and Limits of Deep Learning" with Yann LeCun | https://www.youtube.com/watch?v=zikdDOzOpxY | undated | 13755
+- S093 | The Epistemology of Deep Learning - Yann LeCun | https://www.youtube.com/watch?v=gG5NCkMerHU | undated | 11451
+- S094 | ISSCC 2019: Deep Learning Hardware: Past, Present, and Future - Yann LeCun | https://www.youtube.com/watch?v=YzD7Z2yRL7Y | undated | 6849
+- S095 | Facebook's Head of AI, Yann LeCun   Should We Fear Future AI Systems | https://www.youtube.com/watch?v=jmNL2Jjs6h0 | undated | 7335
+- S096 | Debate: "Does AI Need More Innate Machinery?" (Yann LeCun, Gary Marcus) | https://www.youtube.com/watch?v=vdWPQ6iAkT4 | undated | 22705
+- S097 | Yann LeCun: “AI Breakthroughs & Obstacles to Progress, Mathematical and Otherwise” | https://www.youtube.com/watch?v=1_KhJv0Em5Y | undated | 15376
+- S098 | The Inaugural Raj Reddy Artificial Intelligence Lecture | https://www.youtube.com/watch?v=6-mVMttOAx4 | undated | 15697
+- S099 | Yann LeCun: "A Path Towards Autonomous AI", Baidu 2022-02-22 | https://www.youtube.com/watch?v=DokLw1tILlw | undated | 11242

@@ -1,6 +1,6 @@
 # Sources: Gary Marcus
 
-43 sources (17 video, 23 web, 3 local), 314,996 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+109 usable sources (53 video, 53 web, 3 local), 748,581 words, 2008 to 2026. Video dates are upload dates; 36 video transcripts (most of S079 to S115) carry no date, and by their content are mostly 2023 to 2026, with the Kluge talk (S114) from 2008. Two more are listed but not used, and are left out of the counts: S048 (a Substack interview where Zephyr Teachout does most of the talking) and S088 (an 817-word caption fragment, most likely a clip of the S087 conversation). Every quote in this brain carries one of these ids.
 
 Format: id | title | url | date | words
 
@@ -47,3 +47,71 @@ Format: id | title | url | date | words
 - S045 | The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence | https://arxiv.org/abs/2002.06177 | 2020-02-17 | 22730
 - S046 | Deep Learning: A Critical Appraisal | https://arxiv.org/abs/1801.00631 | 2018-01-02 | 9310
 - S047 | A Skeptical Take on the A.I. Revolution | https://www.youtube.com/watch?v=3KwAIdK9J1A | 2023-02-17 | 13910
+- S048 | Can companies like OpenAI keep getting away with what they are doing? An interview with Fordham law professor Zephyr Teachout | https://garymarcus.substack.com/p/can-companies-like-openai-keep-getting | 2026-09-30 | 1905 | not used
+- S049 | The False Glorification of Yann LeCun | https://garymarcus.substack.com/p/the-false-glorification-of-yann-lecun | 2025-11-18 | 1969
+- S050 | DeepMind and OpenAI achieve IMO Gold. What does it all mean? | https://garymarcus.substack.com/p/deepmind-and-openai-achieve-imo-gold | 2025-07-22 | 2435
+- S051 | AlphaGeometry2: Impressive accomplishment, but still a long path ahead | https://garymarcus.substack.com/p/alphageometry2-impressive-accomplishment | 2025-02-17 | 2019
+- S052 | Casey (Newton) Strikes Out | https://garymarcus.substack.com/p/casey-newton-strikes-out | 2024-12-11 | 2219
+- S053 | Hard-forked! Casey Newton’s distorted portrait of Gary Marcus and AI skepticism | https://garymarcus.substack.com/p/hard-forked-casey-newtons-distorted | 2024-12-06 | 2437
+- S054 | AlphaProof, AlphaGeometry, ChatGPT, and why the future of AI is neurosymbolic | https://garymarcus.substack.com/p/alphaproof-alphageometry-chatgpt | 2024-07-28 | 2972
+- S055 | OpenAI’s Got 9.9 Problems, and Twitch Ain’t One | https://garymarcus.substack.com/p/openais-got-99-problems-and-twitch | 2024-01-27 | 2339
+- S056 | 𝐩(𝐝𝐨𝐨𝐦) | https://garymarcus.substack.com/p/d28 | 2023-08-27 | 2889
+- S057 | Caricaturing Noam Chomsky | https://garymarcus.substack.com/p/caricaturing-noam-chomsky | 2023-03-12 | 2256
+- S058 | How Not to Test GPT-3 | https://garymarcus.substack.com/p/how-not-to-test-gpt-3 | 2023-02-17 | 2548
+- S059 | What does Meta AI’s Diplomacy-winning Cicero Mean for AI? | https://garymarcus.substack.com/p/what-does-meta-ais-diplomacy-winning | 2022-11-25 | 2518
+- S060 | How New are Yann LeCun’s “New” Ideas? | https://garymarcus.substack.com/p/how-new-are-yann-lecuns-new-ideas | 2022-09-25 | 2528
+- S061 | Did GoogleAI Just Snooker One of Silicon Valley’s Sharpest Minds? | https://garymarcus.substack.com/p/did-googleai-just-snooker-one-of | 2022-09-14 | 3338
+- S062 | Three ideas from linguistics that everyone in AI should know | https://garymarcus.substack.com/p/three-ideas-from-linguistics-that | 2022-06-22 | 3902
+- S063 | Does AI really need a paradigm shift? | https://garymarcus.substack.com/p/does-ai-really-need-a-paradigm-shift | 2022-06-11 | 2597
+- S064 | Dear Elon Musk, here are five things you might want to consider about AGI | https://garymarcus.substack.com/p/dear-elon-musk-here-are-five-things | 2022-05-31 | 2102
+- S065 | Horse rides astronaut | https://garymarcus.substack.com/p/horse-rides-astronaut | 2022-05-28 | 2406
+- S066 | Noam Chomsky and GPT-3 | https://garymarcus.substack.com/p/noam-chomsky-and-gpt-3 | 2022-05-21 | 2482
+- S067 | A knockout blow for LLMs? | https://garymarcus.substack.com/p/a-knockout-blow-for-llms | 2025-06-07 | 1748
+- S068 | LLMs are not like you and me: and never will be. | https://garymarcus.substack.com/p/llms-are-not-like-you-and-meand-never | 2025-08-12 | 1751
+- S069 | Why my p(doom) has risen, dramatically | https://garymarcus.substack.com/p/why-my-pdoom-has-risen-dramatically | 2025-07-15 | 1723
+- S070 | LLMs: Dishonest, unpredictable and potentially dangerous. | https://garymarcus.substack.com/p/llms-dishonest-unpredictable-and | 2025-06-22 | 1531
+- S071 | OpenAI’s Waterloo? [with corrections] | https://garymarcus.substack.com/p/openais-waterloo | 2025-08-14 | 1496
+- S072 | No, Anderson Cooper, AI is not going to kill all humans by 2030 | https://garymarcus.substack.com/p/no-anderson-cooper-ai-is-not-going | 2026-09-10 | 1825
+- S073 | There are no heroes in commercial AI | https://garymarcus.substack.com/p/there-are-no-heroes-in-commercial | 2026-03-08 | 1487
+- S074 | 5 lessons from the OpenAI / Hugging Face incident | https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging | 2026-08-28 | 1757
+- S075 | Richard Dawkins and The Claude Delusion | https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion | 2026-05-02 | 1476
+- S076 | China has all but caught up. The US is not going to “win” the AI war. Here’s what we should do instead. | https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us | 2026-07-20 | 1661
+- S077 | OpenClaw (a.k.a. Moltbot) is everywhere all at once, and a disaster waiting to happen | https://garymarcus.substack.com/p/openclaw-aka-moltbot-is-everywhere | 2026-02-01 | 1447
+- S078 | Nonsense on Stilts | https://garymarcus.substack.com/p/nonsense-on-stilts | 2022-06-12 | 1637
+- S079 | #54 Prof. GARY MARCUS + Prof. LUIS LAMB - Neurosymbolic models | https://www.youtube.com/watch?v=nhUt6mKCPf8 | undated | 24837
+- S080 | AI Doomsday Fears, Hacking & the Fight for Control with Gary Marcus / The Real Eisman Playbook Ep 79 | https://www.youtube.com/watch?v=P7stqAvmfR8 | undated | 9889
+- S081 | The AI All-You-Can-Eat Buffet Is Ending with Gary Marcus / The Real Eisman Playbook Ep 62 | https://www.youtube.com/watch?v=NRSvQqG6BgE | undated | 9157
+- S082 | Jim Chanos & Gary Marcus: This Is What Breaks the AI Boom | https://www.youtube.com/watch?v=g9KdLg9sTX4 | undated | 18601
+- S083 | The Trouble with AI: A Conversation with Stuart Russell and Gary Marcus (Episode #312) | https://www.youtube.com/watch?v=GzmaLcMtGE0 | undated | 15657
+- S084 | AI Is Dumber Than Investors Think | https://www.youtube.com/watch?v=_pSivPlRx5o | undated | 11243
+- S085 | NYU’s Gary Marcus on Building AI We Can Trust | https://www.youtube.com/watch?v=WzuUDnC8fEQ | undated | 5604
+- S086 | Silicon Valley doesn't want you to hear this / GARY MARCUS | https://www.youtube.com/watch?v=E_Y4SU5YaXk | undated | 6489
+- S087 | Could an Alternative AI Save Us From a Bubble? (Gary Marcus) | https://www.youtube.com/watch?v=Q72flbyc2yQ | undated | 10362
+- S088 | Gary Marcus Makes the Strongest Case Yet That AI Is a Bubble | https://www.youtube.com/watch?v=LZcLEOCmmNE | undated | 817 | not used
+- S089 | Rogue AI Agents: How Scared Should We Be? / Gary Marcus | https://www.youtube.com/watch?v=TtYeEgBQI94 | undated | 9114
+- S090 | Explosive AI Timeline Predictions [Gary Marcus, Daniel Kokotajlo, Dan Hendrycks] | https://www.youtube.com/watch?v=j13ySJLvdOc | undated | 25923
+- S091 | Unveiling AI's Illusions: with Gary Marcus and Michael Wooldridge | https://www.youtube.com/watch?v=V5c4tVAL5OQ | undated | 4762
+- S092 | Ben Goertzel and Gary Marcus / The Reckoning of Control | https://www.youtube.com/watch?v=ATXP3x4DGkQ | undated | 3520
+- S093 | The Problem With ChatGPT, With Gary Marcus | https://www.youtube.com/watch?v=T-23eOi8rgA | undated | 4858
+- S094 | Rebooting AI: What's Missing, What's Next with Gary Marcus - TWIML Talk #298 | https://www.youtube.com/watch?v=4jj1x1uBFjM | undated | 9454
+- S095 | Top AI Expert: AI Won’t Replace Your Job - Here’s the Truth | https://www.youtube.com/watch?v=ZOqGaiY4ShQ | undated | 9995
+- S096 | Spontaneous Debate Between AI Optimist Daniel Newman and AI Critic Gary Marcus, in Davos at AI Salon | https://www.youtube.com/watch?v=NwUmAqksdAQ | undated | 1281
+- S097 | Is AI a Bubble? Gary Marcus on GPT-5 Hype and the Future of AI | https://www.youtube.com/watch?v=sbfCcLra2IE | undated | 6408
+- S098 | FutureTech Conference 2025 The Grand AGI Delusion and What It May Cost Us by Gary Marcus | https://www.youtube.com/watch?v=O0H1-omYMGA | undated | 9507
+- S099 | Dr Gary Marcus: The Grand AGI Delusion | https://www.youtube.com/watch?v=s-qKiBjabY0 | undated | 7087
+- S100 | Gary Marcus: 'LLMs are not the way to alignment' / TAIS 2026 | https://www.youtube.com/watch?v=_jhvM8Af-bM | undated | 5545
+- S101 | "No AGI without Neurosymbolic AI" by Gary Marcus | https://www.youtube.com/watch?v=zj0Ek32Xoec | undated | 7359
+- S102 | Rebooting AI: Adding Knowledge to Deep Learning / Gary Marcus / Knowledge Connexions 2020 | https://www.youtube.com/watch?v=06r0_ycztKk | undated | 7889
+- S103 | Gary Marcus - Taming Silicon Valley / Starmus VII, Slovakia 2024 | https://www.youtube.com/watch?v=Gb6nUC3IAn8 | undated | 6732
+- S104 | Taming Silicon Valley: Peter Norvig in Conversation with Gary Marcus | https://www.youtube.com/watch?v=QFMyyAKOOQ0 | undated | 11723
+- S105 | Gary Marcus with Julia Angwin: Taming Silicon Valley / LIVE from NYPL | https://www.youtube.com/watch?v=PNkkZd-LYgg | undated | 12101
+- S106 | Taming Silicon Valley and Governing AI, with Dr. Gary Marcus | https://www.youtube.com/watch?v=mSjloYJNvsk | undated | 13108
+- S107 | Gary Marcus: Taming Big Tech and AI | https://www.youtube.com/watch?v=hPTRmGp3PfY | undated | 11456
+- S108 | Seattle University / Gary Marcus, Leading Voice on AI | https://www.youtube.com/watch?v=BbGXtyI9ihg | undated | 13804
+- S109 | The Limits & Liabilities of Generative Models | https://www.youtube.com/watch?v=Nr_g3TQIf8s | undated | 5963
+- S110 | The ACTUAL Danger of A.I. with Gary Marcus - Factually! - 218 | https://www.youtube.com/watch?v=TVlNn4GnWEQ | undated | 12314
+- S111 | Gary Marcus vs. Liron Shapira: AI Doom Debate | https://www.youtube.com/watch?v=v515svJ55PU | undated | 24858
+- S112 | ‘We Have to Get It Right’: Gary Marcus On Untamed AI | https://www.youtube.com/watch?v=BHzw1Lmgk4c | undated | 8629
+- S113 | AI’s Leading Critic: Gary Marcus on the Risks, Myths, and Failures of AI | https://www.youtube.com/watch?v=znC-pzRTy1M | undated | 7926
+- S114 | KLUGE: The Haphazard Construction of the Human Mind / Gary Marcus / Talks at Google | https://www.youtube.com/watch?v=P0fsz8qibCU | undated | 13963
+- S115 | Gary Marcus: It's never too late to learn something new | https://www.youtube.com/watch?v=XWrlWDel3dI | undated | 972

@@ -1,6 +1,6 @@
 # Sources: Leila Hormozi
 
-48 sources (48 video), 471,930 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+107 sources (107 video: 17 long interviews where she is the main guest and 90 of her own channel talks, live Q&As, workshops, and team vlogs), 912,857 words. Video dates are upload dates: 48 are dated, from 2021-07 to 2026-10, and 59 have no upload date in the fetch and are marked undated. No sources were excluded as junk. Every quote in this brain carries one of these ids.
 
 Format: id | title | url | date | words
 
@@ -20,8 +20,8 @@ Format: id | title | url | date | words
 - S014 | The Money Expert: “I Was Arrested 6 Times in 18 Months!” How I Still Built $100M+ Net Worth By 29! | https://www.youtube.com/watch?v=ENDfTSk9lrc | 2025-02-19 | 14102
 - S015 | 3 Things to Do Before You Fire Them | https://www.youtube.com/watch?v=I0WoAw2Wn4o | 2026-09-02 | 5312
 - S016 | In 22 Minutes, I'll Make You Insanely Decisive | https://www.youtube.com/watch?v=KscKn4fS-rI | 2026-09-16 | 4715
-- S017 | Stop Solving Problems. Delete Them. | https://www.youtube.com/watch?v=ZcerO48qbkI | 2026-10-14 | 3103
-- S018 | Why Ambitious People Burn Out (And how to Fix It) | https://www.youtube.com/watch?v=9SUB33ph1pw | 2026-08-26 | 8268
+- S017 | Why You Should DELETE Your Problems Instead Of Solving Them. | https://www.youtube.com/watch?v=ZcerO48qbkI | 2026-10-14 | 3085
+- S018 | Why Ambitious People Burn Out (And how to Fix It) | https://www.youtube.com/watch?v=9SUB33ph1pw | 2026-08-26 | 9490
 - S019 | How to Master Every Level of Business in 2026 | https://www.youtube.com/watch?v=oJsLMjaspG0 | 2026-02-20 | 9572
 - S020 | The Invisible Actions That Make You A Leader | https://www.youtube.com/watch?v=hT4ilfJVZeQ | 2026-01-30 | 4273
 - S021 | what it's really like running a ultra-fast growing company | https://www.youtube.com/watch?v=DGlyFYkhPmE | 2025-06-12 | 4887
@@ -52,3 +52,62 @@ Format: id | title | url | date | words
 - S046 | How to have HARD CONVERSATIONS with employees. My 6 STEP FORMULA | https://www.youtube.com/watch?v=P0WEnjv2JiE | 2021-07-19 | 3897
 - S047 | How WORLD CLASS Leaders Hold Employees Accountable | https://www.youtube.com/watch?v=ob8NUa_LjpE | 2021-07-07 | 3240
 - S048 | The BEST interview FRAMEWORK for finding TOP TALENT...that you won't need to fire later.. | https://www.youtube.com/watch?v=9tiInaJ_klA | 2021-12-15 | 4083
+- S049 | How To Master Business: A Deep Dive With Leila Hormozi | https://www.youtube.com/watch?v=ZmGBqGGshzs | undated | 17519
+- S050 | Leila Hormozi on Scaling Smarter, Not Harder | https://www.youtube.com/watch?v=IIqiRSw-fRE | undated | 3370
+- S051 | The $100M Founder Who Solved Social Media for Business (ft. Leila Hormozi) | https://www.youtube.com/watch?v=5CJJ7H3VEaA | undated | 11038
+- S052 | Give Me 42 Minutes To Destroy Your Self-Doubt | https://www.youtube.com/watch?v=U4qrZYiYdc8 | undated | 8852
+- S053 | Take Action Despite the Fear | https://www.youtube.com/watch?v=HvrJmXOEd6o | undated | 10528
+- S054 | The Truth About Balance Nobody Told You | https://www.youtube.com/watch?v=X6S2D1OEaQo | undated | 11591
+- S055 | You Need to Get Comfortable Disappointing People / BUILD | https://www.youtube.com/watch?v=5ccMbDYjwKw | undated | 3592
+- S056 | Success is Hard Until You Build Systems Like This | https://www.youtube.com/watch?v=9OkBN4uor5M | undated | 5370
+- S057 | Give me 17 minutes, and I’ll Make You Dangerously Consistent | https://www.youtube.com/watch?v=cXytK82N93Y | undated | 4446
+- S058 | Thinking of Quitting Your Job? Watch This First. | https://www.youtube.com/watch?v=LCc-wecNPKg | undated | 3958
+- S059 | How to Think Like the Top 1% | https://www.youtube.com/watch?v=6by3XnwdsMQ | undated | 4959
+- S060 | Brutally Truths Every Entrepreneur Needs To Hear | https://www.youtube.com/watch?v=Qq3Ur50MPns | undated | 14821
+- S061 | Learn These 5 Skills or Stay BROKE | https://www.youtube.com/watch?v=_k7IuTh71k8 | undated | 5691
+- S062 | You're not LAZY: My 3 Step System to ACTUALLY Get Sh*t Done (no matter what) | https://www.youtube.com/watch?v=X2szta-M4LQ | undated | 5890
+- S063 | Elon Musk's 6 Rules to Get Ahead of 99% of Businesses | https://www.youtube.com/watch?v=YXuTNGP_ZcM | undated | 5759
+- S064 | How Nvidia Built a $1.7 Trillion Company by Breaking EVERY Rule | https://www.youtube.com/watch?v=sjklpM_DiFk | undated | 4910
+- S065 | A video for when you feel behind in life (especially if you are ambitious) | https://www.youtube.com/watch?v=JbTFqWe-Bbs | undated | 4966
+- S066 | Principles for Making Money | https://www.youtube.com/watch?v=LuJxo_I1iNc | undated | 6972
+- S067 | How To Get Promoted So Fast It Feels Like Cheating | https://www.youtube.com/watch?v=kuTXkRHWcLM | undated | 6867
+- S068 | Hiring Advice EVERY Entrepreneur Needs to Know | https://www.youtube.com/watch?v=oVKaXNY2cYU | undated | 3295
+- S069 | Hiring is Boring, But You’ll 3x Your Business | https://www.youtube.com/watch?v=e10uOKjXjoc | undated | 3511
+- S070 | $100 Million CEO Tells All | https://www.youtube.com/watch?v=MkGXdWTl01o | undated | 12542
+- S071 | "Who we NEED to be" - Leila Hormozi [Ep 019] | https://www.youtube.com/watch?v=tK3AXxmf3js | undated | 4117
+- S072 | Answering Questions [Live Workshop] | https://www.youtube.com/watch?v=jPLmQyWkbGY | undated | 10518
+- S073 | Answering Your Questions [Live Workshop] | https://www.youtube.com/watch?v=_2J1QXvJ6-c | undated | 10646
+- S074 | the Shift you NEED to be a Better Leader | https://www.youtube.com/watch?v=B7Le7DEmezI | undated | 3726
+- S075 | 10 Years Of Brutally Honest Business Advice in 30 Mins | https://www.youtube.com/watch?v=xCFaBCDot9Q | undated | 6303
+- S076 | how this ONE SKILL can scale your business | https://www.youtube.com/watch?v=cB-5ZSdmWIw | undated | 5626
+- S077 | 99% of Success Depends on This Person | https://www.youtube.com/watch?v=rMRZ38kVtAk | undated | 6018
+- S078 | How to Turn Angry Customers into Raving Fans | https://www.youtube.com/watch?v=7zAMYtzs5CY | undated | 8910
+- S079 | 10 Years of Business Advice for Women in 52min | https://www.youtube.com/watch?v=Dr4oVH9t84o | undated | 10375
+- S080 | The ONLY thing stopping you from SUCCESS | https://www.youtube.com/watch?v=MpTjNR1XnmI | undated | 9213
+- S081 | EVERY BUSINESS OWNER SHOULD WATCH | https://www.youtube.com/watch?v=oRrGxcOv2PA | undated | 6465
+- S082 | 99% of my time goes to this one skill | https://www.youtube.com/watch?v=owu6UGAP3Xs | undated | 5834
+- S083 | Humility in Business is a Cheat Code | https://www.youtube.com/watch?v=CJwlvthiM0w | undated | 7764
+- S084 | If Your Business is Failing, This Is Why | https://www.youtube.com/watch?v=hJIF2w4QHNs | undated | 6757
+- S085 | The REAL Reason No One Wants To Work Anymore | https://www.youtube.com/watch?v=NJVdjtPO5S4 | undated | 4632
+- S086 | How to beat 97% of Businesses | https://www.youtube.com/watch?v=SiyAANZhrJ4 | undated | 6358
+- S087 | How to get ahead of 99% of businesses (in 2024) | https://www.youtube.com/watch?v=kImzZfCCxTs | undated | 6340
+- S088 | We Taught 100 People How to Grow Their Businesses in 1 Day (At Our New HQ) [Ep 016] | https://www.youtube.com/watch?v=RPGGKKZxRZw | undated | 10048
+- S089 | 7 Million Dollar Lessons I Wish I Knew Earlier | https://www.youtube.com/watch?v=WlwZnI2PE8s | undated | 5505
+- S090 | These Character Traits Predict 90% of Successful People | https://www.youtube.com/watch?v=mUpF__VeHSY | undated | 7921
+- S091 | Meet the Team Behind Alex and Leila Hormozi (FULL BEHIND THE SCENES) [Ep 010] | https://www.youtube.com/watch?v=kfFdJIL1epE | undated | 9122
+- S092 | How to work less and make more / Leila Answers Live | https://www.youtube.com/watch?v=vis3IwlgsgI | undated | 12095
+- S093 | Teaching Young Business Owners How to Be Better Leaders | https://www.youtube.com/watch?v=pREeerHYn1o | undated | 7855
+- S094 | If I Were Starting a Company In 2024, This is What I'd Do [FULL 0-$100M GUIDE] | https://www.youtube.com/watch?v=C-rp7JLqqD8 | undated | 7857
+- S095 | Boring Sh*t That Will Make You Rich | https://www.youtube.com/watch?v=QDs1fI9zsRA | undated | 10983
+- S096 | Giving honest advice to 9 Business Owners / Leila Answers Live | https://www.youtube.com/watch?v=cIAnRWcLHlo | undated | 11597
+- S097 | From Minimum Wage to $100 Million Net Worth By 29 (My Story) | https://www.youtube.com/watch?v=EmaL_7j0uWk | undated | 7130
+- S098 | From SLEEPING IN MOTELS to $100M by age 28 | https://www.youtube.com/watch?v=2XpVyjhV3uo | undated | 14293
+- S099 | The secret to scaling your business… | https://www.youtube.com/watch?v=JiV347H7vNQ | undated | 9411
+- S100 | How MILLIONAIRES communicate...[tactical training] | https://www.youtube.com/watch?v=ErKqopYErdk | undated | 6875
+- S101 | 12 Lessons I Learned From SELLING my Businesses for $50,000,000 at age 29 | https://www.youtube.com/watch?v=fojKrbA41cE | undated | 6961
+- S102 | We fired half our team…this is why.. | https://www.youtube.com/watch?v=5pDhvfdYQk0 | undated | 6665
+- S103 | Watch this if you want to scale… | https://www.youtube.com/watch?v=BDKx2xCiIVE | undated | 7520
+- S104 | 5 Mistakes That Make Good Employees Quit | https://www.youtube.com/watch?v=Z_-IwXFBOEY | undated | 4423
+- S105 | If You Want to Scale, STOP Doing This... | https://www.youtube.com/watch?v=krF-WJfRydc | undated | 5449
+- S106 | 5 Things you Need to Know BEFORE hiring Employees [watch before you interview] | https://www.youtube.com/watch?v=LeuDS5yIvrY | undated | 3667
+- S107 | MY 5 RULES for hiring an EXECUTIVE ASSISTANT in 2021 | https://www.youtube.com/watch?v=QyUdcGSYZ4w | undated | 4297

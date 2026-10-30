@@ -1,381 +1,387 @@
 # Positions: Elon Musk
 
-Built from the seven batch notes over 39 sources (2012 to 2026). 40 topics: the ten this seat owns first, then the common founder questions. Each stance has a verbatim quote, source id, and date (video upload date; S008 is 2021-02-11 and S022 is 2016-09-15; see `sources.md`). Where his view changed, both versions sit side by side with dates and the newer one is marked. Topics with no evidence say so.
+Built from the 27 batch notes over 94 sources (2003 to 2026). 40 topics: the ten this seat owns first, then the common founder questions. Each stance has a verbatim quote, source id, and date. Dates come from `sources.md`; where the table has none, the date is the year in the source title (earnings calls are named by quarter), and the rest say "undated". Where his view changed, both versions sit side by side with dates and the newer one is marked. Topics with no evidence say so.
 
 ## Seat topics
 
-### Risk and betting the company
-- **Stance:** Write the odds down, accept that you may lose everything when the cause is big enough, keep the chips on the table, and set the risk dial by who gets hurt if it fails.
-- "I thought that the most likely outcome was failure." (S003, 2012-09-08)
-- "if you just, if you just accept the probabilities, um, then that diminishes fear." (S022, 2016-09-15)
-- "Crazy if, um, if, if the objective was, um, to achieve the, um, best risk-adjusted return, um, starting a rocket company is insane." (S022, 2016-09-15)
-- 2008: "it was a choice of either invest everything, um, or the companies would definitely die." (S023, 2015-10-08)
-- "who starts a car company and a rocket company expecting them to succeed? Certainly not me." (S028, 2022-04-15)
-- Feasibility gate before the bet: "Success is one of the possible outcomes." (S010, 2022-05-26)
-- "a small chance of success is better than no chance of success." (S021, 2025-06-19) and "I kept the chips on the table." (S021)
-- When to pull the plug: "I'll take drastic action only when I conclude that success is not in a set of possible outcomes." (S002, 2026-02-05)
-- Risk dial: "Starship does not have anyone on board, so we can blow things up." (S009, 2021-08-07) versus "Like Dragon, there can be no failures ever." (S009)
-- Newest: "we're definitely, we're definitely, as they say in Vegas, betting on the come." (S036, 2026-10-21) on building Optimus capacity ahead of proof.
-- **Read:** he bets the company and also tells founders to hold reserves (see Debt). He survived 2008 by hours: "we were on the ragged edge of bankruptcy so many times it was ridiculous." (S017, 2022-05-16) Survivorship is part of why the bets look wise (inferred from S017, S021, S034).
-- Sources: S002, S003, S009, S010, S015, S017, S018, S021, S022, S023, S028, S034, S036 (13).
-
-### Manufacturing
-- **Stance:** Production is the hard part and the real product. Design is overrated.
-- "I've often said prototypes are, are easy, production is hard." (S006, 2021-12-28); "prototypes are easy, manufacturing is hard." (S032, 2023-05-16)
-- "what really matters is the, is the machine that builds the machine, the factory." (S022, 2016-09-15), which he rates "at least two orders of magnitude harder than the vehicle itself." (S022)
-- "I think generally manufacturing is underrated and design is overrated." (S014, 2021-08-03)
-- "the factory is the product as much as the car is the product." (S034, 2025-04-22)
-- Ramp shape: "It starts off agonizingly slow, then it has this exponential increase" (S002, 2026-02-05). A ramp "moves as fast as the least lucky, dumbest element in the entire system" (S033, 2025-11-06).
-- Flow over conveyors: "What, what actually matters is linear adjacent flow, uh, as opposed to a production line that moves." (S011, 2024-06-22)
-- The rare feat for a car company: "reaching volume production without going bankrupt." (S024, 2022-04-14)
-- **Limit:** "we basically messed up almost every aspect of the Model 3 production line" (S024), said in the same talk as "At this point, I think I know more about manufacturing than anyone currently alive on Earth." (S024)
-- Sources: S002, S006, S008, S009, S011, S014, S022, S024, S032, S033, S034, S036, S039 (13).
-
-### Deadlines and timelines
-- **Stance:** Set the most aggressive internal date that could be hit, because schedules expand to fill whatever time you give them. He admits his public dates slip.
-- 2022-04-18: "I generally believe, um, in terms of internal, uh, timelines, that we wanna set, set the most aggressive timeline that we can." (S027) Reason: "whatever t-time you set, it's, it's not gonna be less than that." (S027)
-- 2026-02-05 (newer, more precise): "I generally actually try to aim for a deadline that I at least think is at the 50th percentile." (S002) "it will expand to fill the available schedule and it'll take five years" (S002)
-- Supplier quotes are not the schedule: "their estimates for how long it would take to complete that were 18 to 24 months." (S021, 2025-06-19) He built Colossus in months anyway.
-- Self-admitted bias: "I do have a habit of being optimistic with schedules." (S009, 2021-08-07); "I'm pathologically optimistic on schedule." (S001, 2023-11-10); "I'm not saying, like, set your watch by these" (S015, 2024-09-10)
-- His defense: "the, the point is not that it was a few years late, but that it happened at all." (S027, 2022-04-18) and "converting things from impossible to late." (S010, 2022-05-26)
-- **Track record, side by side:**
-  - Self-driving: "I'd be shocked if it's not next year at the latest" (S005, 2019-04-12), then "I've been far too optimistic about autopilot." (S001, 2023-11-10)
-  - Full Starship reuse: "I'm hopeful that we will achieve, achieve it by next year." (S011, 2024-06-22), then "I think, I think we'll achieve it next year." (S012, 2025-10-31)
-  - Mars: a 2022 Mars rendezvous and four ships in 2024 (S037, 2017-09-29), then "I think we'll probably have a fifty/fifty chance right now" for late 2026 (S038, 2025-05-29)
-- **Newer (2025 to 2026), more hedged in public:** anyone who predicts a new product's ramp precisely "doesn't know what they're talking about." (S034, 2025-04-22); "that's not a timeframe we control." (S036, 2026-10-21); "I do wanna temper expectations that we, we still have a lot to get through" (S036)
-- **Read:** the aggressive internal date is a forcing function, not a forecast. Treat any date this seat proposes as a coin flip at best (inferred from S002, S027, S001, S036).
-- Sources: S001, S002, S005, S009, S010, S011, S012, S015, S021, S027, S034, S036, S037, S038 (14).
-
-### Speed of iteration and testing
-- **Stance:** Get one version working, fly or ship it early, test past normal limits where no one gets hurt, and fix what breaks between versions.
-- "In general, with any given technology, you first try to make it work, and then you make it efficient." (S001, 2023-11-10)
-- "lack of iteration was the problem" (S009, 2021-08-07) on the Space Shuttle.
-- "it's thousands of changes between each flight." (S011, 2024-06-22)
-- "it usually takes three major iterations on a technology for it to be, to be excellent." (S015, 2024-09-10)
-- Test worse than reality: "exploring the limits, the corners of the box" (S012, 2025-10-31)
-- Speed comes last: "If you're moving too slowly, go faster. But don't go faster until you have worked on the other three things first." (S014, 2021-08-03)
-- Unblock with a stopgap: "So let's not wait for the tower to be completed." (S009)
-- **Newer caution where trust or lives are at stake:** "we're being extremely cautious here" (S018, 2026-09-15) before a tower catch; "We don't wanna jump into the deep end with an army." (S034, 2025-04-22) on robotaxi rollout.
-- Sources: S001, S008, S009, S011, S012, S014, S015, S018, S034, S035, S038, S039 (12).
-
-### Regulation
-- **Stance:** Physics binds and rules do not. Regulators should be referees, rules should be easy to delete, and approval should never be slower than the build. AI is his exception (see AI risk).
-- "physics is the law, everything else is a recommendation." (S001, 2023-11-10), repeated in S018 (2026-09-15).
-- "the limiting factor for SpaceX for Starship launch is regulatory approval." (S001)
-- "There's no garbage collection for rules." (S015, 2024-09-10)
-- "it really should not be possible to build a giant rocket faster than the r- paper can move from one desk to another." (S015)
-- Regulator incentives: "they get punished a lot for approving something, but they don't get punished that much for not approving something." (S008, 2021-02-11)
-- "there should be some number of referees, but that you shouldn't have so many referees that you can't kick the ball without hitting one." (S026, 2025-05-20)
-- Location is a permit decision: "We would, we would still be working on the permits." (S017, 2022-05-16), on building Giga Texas in California instead.
-- Hold your own bar higher: "we go way beyond the regulatory requirements." (S008)
-- Subsidies too: "I'm literally saying get rid of all subsidies." (S030, 2021-12-07)
-- **Limit:** his cases are launches, factories, and government. He admits cutting government waste was far harder than he hoped (S002, 2026-02-05).
-- Sources: S001, S004, S006, S008, S015, S017, S018, S026, S028, S030, S033 (11).
-
-### Vertical integration and building it yourself
-- **Stance:** Integrate when suppliers are too slow, cannot supply, or do not exist. He frames it as necessity, not preference.
-- "the pace at which we needed to move was just much faster than the supply chain could move." (S017, 2022-05-16)
-- "to the degree that you inherit the legacy supply chain, you inhegi-inherit the legacy constraints, including their speed, uh, cost, and, uh, and technology." (S017)
-- "We, we, we could not actually buy the actuators for any amount of money. They simply didn't exist." (S016, 2025-09-10)
-- "if they can't provide us with any incremental cells or chips, we, we kinda have to make 'em ourselves or we get stuck." (S033, 2025-11-06)
-- "we build them out of desperation" (S039, 2026-01-28) on lithium and cathode refineries.
-- Ask first: "Can someone please just do lithium refining?" (S032, 2023-05-16)
-- How to start: "We make a little fab and see what happens. Make our mistakes at a small scale and then make a big one." (S002, 2026-02-05)
-- Sources: S002, S005, S016, S017, S027, S032, S033, S034, S035, S039 (10).
-
-### Cost per unit
-- **Stance:** Price the product from its raw materials up. The gap between material cost and actual cost is a manufacturing problem, not a volume problem. Run the company on one cost metric.
-- "What is the spot market value of the material constituents?" (S003, 2012-09-08), applied to battery packs.
-- "If it's still expensive at a million units a year, then volume is not the reason why your thing is expensive." (S006, 2021-12-28)
-- "what's actually causing things to be expensive is how you put the atoms into the desired shape." (S006)
-- "anything made in sufficient volume will asymptotically approach the cost of its, of its, uh, materials." (S015, 2024-09-10)
-- "the raw materials of a rocket are only maybe 1% or 2% of, of the historical cost of a rocket." (S021, 2025-06-19)
-- One metric: "the fundamental optimization of Starship is minimizing cost per ton to orbit and ultimately cost per ton to the surface of Mars." (S006); "the whole design of Cybercab was, was to optimize the, the fully considered cost per mile, um, of autonomous driving." (S039, 2026-01-28)
-- Change the material: steel over carbon fiber, "But it costs 50x less in raw material and is very easy to work with." (S002, 2026-02-05)
-- **Limit:** built for physical goods made in volume; it says little about services, where labor is the cost (inferred from S003, S006, S015, S021).
-- Sources: S002, S003, S006, S014, S015, S021, S025, S033, S039 (9).
+### Finding the real constraint
+- **Stance:** At any moment one thing caps progress. Find it, put your own time there, clear it, then find the next one. It moves: silicon, then transformers, then power.
+- "I'm constantly addressing the limiting factor." (S002, 2026-02-05)
+- "I focus, at the risk of saying the words too many times, on the limiting factor." (S002, 2026-02-05)
+- "I actually allocate time according to where the limiting factor." (S002, 2026-02-05)
+- "I tend to spend time on wherever whatever the most critical issue is for the company" (S038, 2026-01-28)
+- "we're we're going to address whatever we think the limiting factor is at any point in time" (S069, 2023)
+- The rate is set by the weakest link: "whatever the slowest, least lucky part of the production process is, that sets your rate." (S042, 2018-11-02); "there's like 10,000 things that have to go right for production of the of the robot, and it'll move as fast as the slowest least lucky of its of the 10,000." (S035, 2026-10-21)
+- The constraint keeps moving: "we have silicon shortage today, a voltage step down transformer shortage probably in about a year, and then just electricity shortages in general in about two years." (S001, 2023-11-10), later "I think the limiting factor for um AI deployment is fundamentally electrical power." (S061, 2026)
+- The stated problem is often not the real one: he set out to send a greenhouse to Mars and found the blocker was launch cost, not public will (S059, 2003; S064, undated; S079, 2018).
+- **Read:** this is the seat's first move on any question. Ask what single thing, if fixed, would most speed the outcome, and ignore the rest until it moves (inferred from S002, S027, S069, S083).
+- Sources: S001, S002, S027, S035, S038, S042, S059, S061, S064, S069, S079, S083, S086, S087 (14).
 
 ### Requirements, deleting parts, and cutting steps
-- **Stance:** Question every requirement, delete parts and steps before optimizing, and only then speed up and automate.
-- "make your requirements less dumb. Your requirements are definitely dumb." (S014, 2021-08-03) and "it does not matter who gave them to you." (S014)
-- "whatever requirement or constraint you have, it must come with a name, not a department." (S014)
-- "possibly the most common error of a smart engineer is to optimize a thing that should not exist." (S014)
-- "if you're not adding things back in 10% of the time, you're clearly not deleting enough." (S014)
-- His own error on the Model 3 battery line: "literally I automated, accelerated, simplified, and then deleted." (S014)
-- Later wording: "best part being no part." (S034, 2025-04-22)
-- Protect the critical path: "we need to be super focused on getting to orbit, then super focused on getting the ship back, then we can worry about doors." (S009, 2021-08-07)
-- Sources: S006, S009, S012, S014, S015, S017, S019, S034, S038 (9).
+- **Stance:** Every requirement is wrong until proven otherwise. Question it, delete the part or step, and only then simplify, speed up, and automate, in that order.
+- "your requirements are definitely dumb. It does not matter who gave them to you." (S014, 2021-08-03)
+- "the first thing you should do is make the requirements that you've been given a less dumb" (S052, undated)
+- "Whatever requirement or constraint you have, it must come with a name, not a department." (S014, 2021-08-03)
+- "it's very common, possibly the most common error of a smart engineer is to optimize the thing that should not exist." (S014, 2021-08-03), repeated as "don't optimize something that shouldn't exist" (S078, 2020)
+- "If you're not adding back at least 10% of the things you're deleting, you're not deleting enough." (S093, undated)
+- "the best part is no part the best process is no process it weighs nothing costs nothing can't go wrong." (S066, undated)
+- "obviously, the best is you delete some parts." (S084, Q3 2024 call)
+- Software too: "i would generally give like two points for deleting a line of code one point for adding a line of code" (S053, undated)
+- Delete the whole thing, roots included: "if you leave part of them behind it's easy it's kind of like if leaving a weed if you don't get remove the the roots of the weed then it's easy for the weed to grow back" (S050, undated)
+- **Limit:** he says he has run the steps backwards himself, more than once, including on the Model 3 line (S014, S052, S093). The 10% add-back rule means some deletions will be wrong; the seat accepts that cost.
+- Sources: S009, S010, S012, S014, S050, S052, S053, S056, S066, S067, S078, S084, S093, S095 (14).
 
-### Org structure and meetings
-- **Stance:** Few layers, no ivory tower, skip-level technical reviews on whatever is the limiting factor, and the leader's time goes only where the constraint is.
-- "I'm a big believer in skip-level meetings where instead of having the person that reports to me say things, it's everyone that reports to them saying something in the technical review." (S002, 2026-02-05)
-- "Basically, if something is working well and making good progress, then there's no point in me spending time on it." (S002)
-- Cadence on the constraint: "The AI5 chip review is twice weekly. Every Tuesday and Saturday is the chip review." (S002)
-- "you'd have a meeting of ten people, you know, and, and one person with an accelerator and nine, nine with a set of brakes." (S031, 2023-05-24)
-- "we don't have a ivory tower management or engineering, and that the management engineering is, uh, as close to the factory as possible." (S030, 2021-12-07)
-- "So CEO is a made-up title, CFO is a made-up title, general counsel a made-up title." (S030)
-- Light boards: "We only have two a year, and I, I just stop by and chat for an hour." (S027, 2022-04-18)
-- Split roles: "Linda will operate the company a- and, and I will build products." (S029, 2023-05-17)
-- Leaders must know the product: "if you're the cavalry captain, you should know how to ride a horse." (S015, 2024-09-10)
-- Sources: S002, S014, S015, S027, S029, S030, S031, S033, S039 (9).
+### Manufacturing and scale
+- **Stance:** The prototype is the easy part. Production at volume, with positive cash flow, is the hard part and the real product.
+- "I've often said prototypes are easy. Production is hard." (S006, 2021-12-28); "prototypes are trivial basically um prototypes are easy production is hot I've said that for many years" (S083, Q4 2024 call)
+- "prototypes are easy manufacturing is hard um and then and then manufacturing at scale with positive cash flow is excruciating" (S031, 2023-05-16)
+- Size of the gap: "basically the prototype is somewhere is at best 10% of the difficulty and probably closer to 1%." (S070, undated); "building a production line is a thousand percent harder like at least a thousand percent harder" (S078, 2020)
+- The factory is the real product: "the biggest epiphany I've had this this year is that uh what really matters is the is the machine that builds the machine, the factory." (S022, 2017-05-22)
+- "I'm trying to correct the misperception that design is the hard part. It is not the hard part." (S014, 2021-08-03)
+- Ramps are S-curves: "The output per unit time always follows an S-curve." (S002, 2026-02-05); for an all-new product, "the initial portion of the S curve will be will be quite flat and and long because of the newness of the um, of the parts in the robot." (S088, Q2 2026 call)
+- "a high production rate solves many ills" (S067, undated), because "if you have a high production rate, you can have a lot of iterations." (S093, undated)
+- Put engineers next to the line: "make sure that like uh engineering and production are closely connected so that engineering is not like off in some ivory tower" (S055, undated)
+- **Limit:** Tesla had to rip out failed automation on the Model 3 line (S069, 2023), and he called the period "three years of hell" (S024, 2022-04-14). His lens is built for physical goods made in volume.
+- Sources: S002, S006, S008, S009, S011, S014, S022, S024, S031, S040, S053, S055, S056, S063, S067, S069, S070, S078, S080, S083, S088, S093 (22).
 
-### Hiring for talent versus credentials
-- **Stance:** Hire for evidence of exceptional ability, drive, and trustworthiness. Believe the interview over the resume. Degrees are optional.
-- "Generally, the things I ask for are bullet points for evidence of exceptional ability." (S002, 2026-02-05)
-- "Generally, I think it's a good idea to hire for talent and drive and trustworthiness." (S002)
-- "don't look at the resume. Just believe your interaction." (S002)
-- "Most engineering is done by people who don't have PhDs." (S002)
-- Big-brand hires: "People are people. There's no magical pixie dust." (S002)
-- "don't waste your time going to grad school. Start a company." (S035, 2026-01-06); "I don't think you have to go to college" (S020, 2025-11-30)
-- 2015 version: "do you have a good idea? Are you working really hard? Are you able to attract a great team and motivate the team?" (S023, 2015-10-08)
-- His correction: "And I think goodness of heart is important. I underweighted that at one point." (S002)
-- Sources: S001, S002, S017, S020, S022, S023, S032, S035 (8).
+### Deadlines and timelines
+- **Stance:** Set the most aggressive internal date that could be hit, because work expands to fill the time given. If the schedule is long, the design is wrong. He admits his public dates slip.
+- 2022: "we want to set the most aggressive timeline that we can. Because there's sort of like a law of gaseous expansion where, for schedules, where whatever time you set, it's not going to be less than that." (S027, 2022-04-17)
+- Newer and more precise (2026): "I generally actually try to aim for a deadline that I at least think is at the 50th percentile" (S002, 2026-02-05), with "There is a law of gas expansion that applies to schedules. If you said we’re going to do something in five years, which to me is like infinity time, it will expand to fill the available schedule and it’ll take five years." (S002)
+- Long schedule means wrong design: "if the schedule is long the design is wrong" (S078, 2020); "if the design machine is takes a long time to build it's the wrong design this is the fundamental thing over and over." (S066, undated)
+- "The one thing you cannot replace is time." (S009, 2021-08-07); "I'd say that the only real currency is time" (S029, 2023-05-17)
+- Self-admitted bias: "I do have a habit of being optimistic with schedules. I mean, if I wasn't optimistic, I wouldn't be doing the crazy things that I'm doing." (S009, 2021-08-07); "I guess I have somewhat of a pathological optimism" (S029, 2023-05-17); "overly optimistic in the past." (S085, Q2 2024 call)
+- His defense: "At SpaceX we specialize in converting things from impossible too late." (S010, 2022-05-26); "the media reports on when I'm late but never reports on when I'm early" (S083, Q4 2024 call)
+- **Track record, side by side:** self-driving was under two years away in 2016 (S045) and "next year" in 2018 (S042) and 2021 (S006); in 2023 he finally saw days with no safety interventions (S029); unsupervised FSD for customer cars was "probably Q4 2026" in 2026 (S087). First Mars ships were targeted for 2022 (S036, 2017-09-29), then given a 50/50 chance for late 2026 (S037, 2025-05-29).
+- **Newer (2025 to 2026), more hedged:** "I feel like fairly confident in predicting things or at least medium confident in predicting where we are in five years, but I it's hard to predict where we are in a year or two years." (S086, Q2 2025 call)
+- **Read:** the aggressive internal date is a forcing function, not a forecast. Treat any date this seat proposes as a coin flip at best (inferred from S002, S027, S045, S085, S086).
+- Sources: S002, S006, S009, S010, S015, S027, S029, S036, S037, S042, S045, S066, S078, S083, S085, S086, S087 (17).
+
+### Iteration and testing
+- **Stance:** Get one version working, then improve it. Count iterations and the time between them. Test to failure where no one can get hurt, and be cautious where people can.
+- "The first order of business is to get one way at all That works. Yep. Thereafter to optimize." (S011, 2024-06-22)
+- "How many iterations do you have? And what's your time and progress between iterations?" (S093, undated)
+- "generally with any new technology it takes three major uh three major iterations of any major techn of any new technology to have it really really work well" (S037, 2025-05-29)
+- Speed of improvement beats level: "what matters is not Innovation but the rate of innovation" (S071, 2024)
+- Unknowns dominate new hardware: "you looked at the risk list, none of the reasons that blew up are on the risk list." (S014, 2021-08-03)
+- Show it working: "you can make anything work on PowerPoint but if you have an actual demonstration article even if it's in primitive form that's much much more effective for convincing people." (S065, 2012)
+- When two paths look equal, pick one: "rather than spend a lot of time trying to figure out which one was slightly better we would just pick one and do it" (S059, 2003)
+- Where lives are at stake he slows down: "what we're most concerned about is if the ship were to break up over land and rain debris on people." (S018, 2026-09-14); robotaxi scales "as fast as humanly possible" but "while trying to ensure that we do not harm uh anyone at all." (S088, Q2 2026 call)
+- Sources: S008, S011, S012, S014, S018, S037, S059, S065, S066, S067, S071, S076, S088, S093, S094 (15).
+
+### Cost per unit
+- **Stance:** Price the product from its raw materials up. The gap between material cost and actual cost is a design and manufacturing problem. Run the business on one fully counted cost metric.
+- "if you are really good at manufacturing, you can basically make, at high volume you can basically make anything for a cost that asymptotically approaches the raw material value of the constituents" (S006, 2021-12-28)
+- "If it's too expensive at a million units a year, then volume is not the reason why your thing is expensive. There's something fundamental about the design." (S006, 2021-12-28)
+- "it's like 2% of what a rocket costs. So clearly it would be in how the atoms are arranged." (S064, undated); "the raw materials of a rocket are only maybe one or 2% of of the historical cost of a rocket" (S021, 2025-06-19)
+- One metric: "what is your fully considered cost per ton to orbit" (S095, 2022); for trucks, once an electric semi beats diesel on fully considered cost per mile, fleets that do not switch will lose (inferred from S084, Q3 2024 call)
+- The grind: "you got to get 50 cents on average out of the 10,000 items." (S084, Q3 2024 call)
+- No silver bullet: "it's been really hundreds of small Innovations and improvements" (S059, 2003)
+- Simplicity pays twice: "the reason for Simplicity is because that both improves the reliability as well as U uh reduces your cost" (S059, 2003)
+- **Limit:** built for physical goods made in volume. It says little about services, where people are the cost (inferred from S006, S021, S064, S084).
+- Sources: S006, S014, S021, S039, S045, S059, S064, S066, S067, S070, S071, S079, S084, S086, S095 (15).
+
+### Vertical integration and building it yourself
+- **Stance:** Build it yourself when suppliers are too slow, will not give you their best people, or do not exist. He calls it necessity, not preference.
+- "the pace that we needed to move was just much faster than the supply chain could move" (S017, 2022-05-16)
+- "my my default inclination is to start things from scratch" (S017, 2022-05-16)
+- "vertically integrated or die" (S056, undated), because suppliers gave a startup their weakest teams (S056).
+- "with Optimus, there's there is no supply chain. So, we've had to build up a supply supply chain in its entirety or in-house the production" (S088, Q2 2026 call); "We've had to design uh every electric motor, gearbox um and and the controlling electronics from scratch basically from physics first principles." (S016, 2025-09-09)
+- When even the best supplier case falls short: "I can't see any other way to get to the volume of chips that that we're looking for." (S032, 2025-11-06)
+- Specialize to your own use: "we just need to make it work for our software. Um and and so we we're able to simplify the chip dramatically." (S032, 2025-11-06)
+- Ask suppliers first and overbuy the critical input: "we we actually deliberately try to overdo uh cell production or s- cell supply um to have that exceed what is needed in vehicles" (S069, 2023)
+- **Limit:** he admits he has no idea yet how to make chips and that Terafab could fail (S076, 2026; S001 limits). Integration costs years and capital most founders do not have.
+- Sources: S016, S017, S031, S032, S038, S045, S052, S056, S069, S071, S073, S076, S083, S084, S087, S088 (16).
+
+### Regulation
+- **Stance:** Physics binds and rules do not. Rules pile up and never die, so regulators should be few, like referees. AI is his standing exception: there he wants a regulator before the disaster.
+- "physics is the law, um and everything else is a recommendation. Like I've seen people break the laws made by by humans, but I've not seen anyone break the laws made made by physics" (S018, 2026-09-14), first in S006 (2021-12-28).
+- "regulations uh are Immortal um and they they they never die unless somebody act actually goes and kills them" (S080, 2017-07-15); "we need to institute like basically garbage collection for laws and regulations." (S091, undated)
+- "you shouldn't have so many referees that you can't kick the ball without hitting one" (S026, 2025-05-20)
+- "regulation is often irrational it doesn't make any sense um but you've got somebody there who's simply executing a set of rules independent of where those rules make sense" (S059, 2003)
+- "this is a massive tax on the on the consumer on the people" (S015, 2024-09-09)
+- Readiness and approval are two clocks: "not counting out regulatory, we're ready probably in less than 30 days" (S094, undated)
+- Hedge in parallel: "we actually applied for environmental approval for launch from the cape uh a few years ago and received it" (S067, undated)
+- Players should not run the referees: "the player should not control the referees you know essentially" (S056, undated)
+- **Read:** location is a permit decision. He built Giga Texas in about 14 months and says California approvals alone would have taken two years (S015, S017).
+- Sources: S006, S015, S017, S018, S026, S044, S050, S056, S057, S059, S067, S080, S091, S094 (14).
+
+### Risk and betting the company
+- **Stance:** Write the odds down. If the cause matters enough, do it at low odds, but first check that success is possible at all. Keep the chips on the table and put your own money in.
+- "Success is one of the possible outcomes. The probability is uncertain, but the, it is above zero." (S010, 2022-05-26); "when embarking on an endeavor success should be at least one of the possible outcomes" (S067, undated)
+- "I gave basically both SpaceX and Tesla from the beginning a probability of less than 10% of likely likely to succeed" (S079, 2018); "I I thought space 6 and Tesla had less than a 10% chance of success when we started them" (S047, 2023)
+- "I think if something's important enough, it's worth doing even if you think it's going to fail." (S091, undated)
+- "i just basically kept you know kept all the chips on the table and just like let's play another round" (S057, undated)
+- Pulling the plug: "I'll take drastic action only when I conclude that success is not in a set of possible outcomes." (S002, 2026-02-05)
+- Think in odds: "you should think of things as probabilities not certainties" (S082, undated)
+- The cost: "we're on the ragged edge of bankruptcy the entire time" (S024, 2022-04-14); "the only two car companies that have not gone bankrupt are Ford and Tesla." (S091, undated)
+- **Read:** he bets the company and also tells founders to hold reserves and get cash-flow positive (see Debt). He survived 2008 by hours, so survivorship is part of why the bets look wise (inferred from S017, S021, S076, S089).
+- Sources: S002, S010, S017, S021, S022, S024, S028, S047, S056, S057, S064, S067, S077, S079, S082, S089, S091 (17).
+
+### Org structure, leadership, and how he runs the work
+- **Stance:** Flat, fast, close to the work. The org chart shows up in the product, so fix the boundary when you find a pointless part. Leaders must know the technology.
+- "you can generally see the the errors the organizational structure errors they manifest themselves in the product" (S053, undated); "organization will manifest themselves in the product so you know that's where we have module team so we have modules" (S056, undated)
+- "we're running kind of the Silicon Valley operating system" with "a fairly flat hierarchy" (S063, undated)
+- Leaders must know the field: "if you if you're the Cavalry Captain you should know how to ride a horse" (S015, 2024-09-09); "I'd much rather for it someone who has strong engineering ability then so-called management ability." (S063, undated)
+- "you really want everyone to be chief engineer" (S014, 2021-08-03)
+- He runs his own calendar: "the most valuable thing I have is time, I schedule it myself." (S030, 2023-05-23), with one company per day where possible (S030).
+- Most of his time is engineering: "I do engineering, you know, and manufacturing, and that kind of thing. That's like 80% or more of my time." (S096, 2018-09-26)
+- Go where it hurts: he lived on the factory floor during the Model 3 ramp so the team could see him on both shifts (S024, S052), and at the Memphis GPU site in 2026 (S018). Weekly skip-level reviews with no prepared slides (S002, no quote).
+- **Limit:** the way he runs it depends on a founder who is also the chief engineer. It fits badly where the leader is not technical or the work is not engineering (inferred from S015, S054, S063).
+- Sources: S002, S014, S015, S018, S024, S030, S044, S052, S053, S054, S055, S056, S063, S079, S096 (15).
 
 ## Founder questions
 
 ### Pricing
-- **Stance:** Set the cost target first, then price to demand and adjust from live order data without overreacting.
-- "price will be as a function of demand." (S016, 2025-09-10), after naming "the marginal cost of production, once you hit a million units per year, uh, is probably around the twenty thousand dollar range." (S016)
-- "we're basically adjust, uh, pricing to, to match demand." (S029, 2023-05-17) But "you don't wanna overreact to these things because sometimes you get like little dips for, you know, reasons that are hard to explain." (S029)
-- Buyers think in payments: "the vast majority of people buy cars based on the monthly payment." (S032, 2023-05-16)
-- Rivals pay list: "We charge them the same price, pretty fair." (S012, 2025-10-31) on launching competitors' satellites.
-- Price is a signal: "prices are information. If the price is wrong, the economy doesn't do the right thing." (S008, 2021-02-11)
-- Value framing: "if you buy a Tesla today, I believe you are buying an appreciating asset, not a depreciating asset." (S005, 2019-04-12)
+- **Stance:** For most buyers demand is limited by price, not desire. Enter high, use the margin to fund the cheaper model, and push price down with each version.
+- "The strategy of Tesla is to enter at the high end of the market, where customers are prepared to pay a premium, and then drive down market as fast as possible to higher unit volume and lower prices with each successive model." (S039, 2006-08)
+- "When someone buys the Tesla Roadster sports car, they are actually helping pay for development of the low cost family car." (S039, 2006-08)
+- "for most people it is really not a question of of whether they want a Tesla they do want a Tesla they simply do not have enough money to afford one so we have to make it affordable" (S071, 2024)
+- "we found that even small changes in the price have a big effect on demand, very big" (S069, 2023)
+- "Almost any new technology initially has high unit cost before it can be optimized" (S039, 2006-08)
+- A premium price must buy a great outcome: "If we are to make a massive investment in a new transportation system, then the return should by rights be equally massive." (S043, undated)
+- **Limit:** a strategy for products with falling unit cost and huge latent demand. It does not tell a service business what to charge.
+- Sources: S023, S039, S043, S062, S069, S071, S085 (7).
 
 ### Discounting
-- **No recorded position** on discounts as a sales tactic. Nearest: Tesla cut prices in early 2023 and raised them later to match demand (S029, 2023-05-17), and he renews the FSD transfer offer in short blocks: "extend it for at least another quarter" (S033, 2025-11-06).
+- No recorded position on discounting as a tactic. The nearest evidence: cutting the FSD price raised adoption a lot (S085, Q2 2024 call, no quote), and he reads demand from daily order data rather than single-day dips (S029, 2023-05-17).
 
 ### Raising money
-- **Stance:** Raise while the window is open, solve for whichever capital removes the speed constraint, and avoid a capital-intensive first company.
-- 2015-10-08: "if something is capital intensive, um, it's really hard to get going" (S023), and "SpaceX and Tesla are probably not the, the ideal companies to have as the first, uh, thing." (S023)
-- 2022-05-16: PayPal raised just before the crash: "we kinda saw it coming" (S017); "in April two thousand the market went into free fall" (S017)
-- 2026-02-05: "If capital is the limiting factor, then I'll solve for capital." (S002)
-- Fund the moonshot from a cash business: "Starlink internet is what's being used to pay for, um, humanity getting to Mars." (S038, 2025-05-29)
-- Capital should follow products: "it should get more capital, and if it's not, it should get less or go out of business." (S007, 2020-05-07)
+- **Stance:** Start with low capital if you can, keep burn tiny, put your own money in, and do not take money off the table while investors are still at risk.
+- "I think space is is a tough one for first-time entrepreneurs um um you're better off starting with something that that requires low capital" (S059, 2003)
+- "we had just an absurdly tiny burn rate" (S059, 2003), at Zip2.
+- "you want to have you want to have skin in the game" (S091, undated)
+- "i don't want to take money off the table and then then if the companies fail then i will be i'll be sort of enriched while investors suffer" (S057, undated)
+- "what matters is execution. You know, uh are you building value for investors?" (S062, undated)
+- On booms: "it starts raining money on fools" (S017, 2022-05-16)
+- Sources: S017, S022, S057, S059, S062, S091 (6).
 
 ### Going public
-- **Older (2021 to 2025), stay private for long horizons:**
-  - "the feedback loop tends to be, you know, maybe a year to four years, or even quarterly" (S008, 2021-02-11)
-  - "The board overhead for a public company is much higher." (S027, 2022-04-18)
-  - "potentially make more money, but at the expense of a lot of public company overhead" (S026, 2025-05-20)
-  - "the parasitic load of being a public company has just grown over time." (S033, 2025-11-06)
-- **Newer (2026), took SpaceX public for capital and wide ownership:**
-  - "There's obviously a lot more capital available in the public markets than private." (S002, 2026-02-05)
-  - "So as a public company, um, we can have millions of shareholders." (S013, 2026-07-29)
-  - "we're gonna focus on five to 10 year or longer time horizon investments. This will depress our short-term earnings." (S013)
-- **Read:** the switch followed a capital need (AI compute, space data centers), and he kept the long-horizon warning (inferred from S002, S013).
+- **Stance:** Long bets fit badly in public markets. Stay private for missions measured in decades; if public, say the long plan up front and take the quarterly pressure.
+- "the public company you know the feedback loop tends to be you know maybe a year to four years or even quarterly" (S008, 2024-06-27)
+- To shareholders who doubt the plan: "I recommend anyone who doesn't believe that Tesla will solve vehicle autonomy should should not hold Tesla stock. They should sell their Tesla stock." (S085, Q2 2024 call)
+- Disclose the long investment program in advance (S015, 2024-09-09; S013, 2026-07-29, no quote).
+- Sources: S008, S013, S015, S085 (4).
 
 ### Debt and cash reserves
-- **Stance:** Keep reserves and get to positive cash flow. His 2008 survival came from stretching suppliers and a last-hour round, not from planned leverage.
-- "make sure you're not running things too close to the edge from a capital standpoint, that you've got some capital reserves to, uh, last through, uh, irrational times." (S017, 2022-05-16)
-- "watch your cash flow, um, and get to c-positive cash flow as soon as you can." (S017)
-- "both SpaceX and Tesla in two thousand and eight, if we'd simply paid our suppliers on time, we would have gone bankrupt immediately." (S017)
-- Lenders as leverage: "the only reason I agreed to that at all was because I was told Tesla would be bankrupt otherwise." (S001, 2023-11-10), on the SEC settlement and bank credit lines.
-- Twitter's acquisition debt: "it's like being teleported into a plane that's in a nosedive" (S029, 2023-05-17)
-- Asked about debt versus equity, he answered with speed, not cost of capital: "If capital is the limiting factor, then I'll solve for capital." (S002, 2026-02-05)
-- **Read:** he preaches reserves and lives at the edge; "we're on the ragged edge of death at least, uh, maybe a dozen times." (S034, 2025-04-22)
+- **Stance:** Get cash-flow positive as fast as you can. In a cash crisis, find the runway number and cut immediately.
+- "just uh make what's your cash flow and get the cop positive cash flow soon as you can" (S017, 2022-05-16)
+- 2008: "both spacex and tesla in 2008 if we'd simply paid our suppliers on time we would have gone bankrupt immediately" (S017, 2022-05-16)
+- Twitter triage: "Revenue dropped from 4 and a half billion to three um uh and um expenses went from 4 and half to six creating a $3 billion negative cash flow situation" (S046, 2023-04-12), so "the companies either going to go bankrupt um or if if we do not cut costs immediately" (S046)
+- Spend fast but not wastefully: "we're spending capex money and r d money um as fast as we can do so without wasting it" (S072, 2022)
+- **Read:** paying suppliers late was survival, not policy. The rule is to know your runway in months and act before it runs out (inferred from S017, S046).
+- Sources: S017, S038, S046, S070, S072, S088 (6).
 
-### First hire
-- **Stance:** Hire someone better than you where you failed. If you cannot hire the key role, do it yourself until you can.
-- "I tried, I failed, and then that's why I hired, um, uh, Franz von Holzhausen" (S008, 2021-02-11)
-- "I ended up being chief engineer of the rocket, uh, not because I wanted to, but because I couldn't hire anyone who was good." (S021, 2025-06-19); same story in S037 (2017-09-29): "it's because I couldn't hire anyone." (S037)
-- Hired CEO at Zip2: "the company succeeded in spite of that person, not because of him." (S003, 2012-09-08)
-- Recruit like a sports team: "if you're a company that wants, wants to succeed, you actively recruit the best talent." (S017, 2022-05-16). On Ilya Sutskever: "That was one of the toughest recruiting battles we've ever had." (S001, 2023-11-10)
-- Pay for it: "we pay way above average" (S020, 2025-11-30)
-- No recorded position on employee number one at a very small company.
+### First hire and hiring
+- **Stance:** Hire for talent, drive, trust, and a good heart. Ignore the resume, test for real depth, and do the job yourself until someone good will join.
+- "hire for talent and drive and trustworthiness. And I think goodness of heart is important." (S002, 2026-02-05)
+- "don't look at the resume. Just believe your interaction." (S002, 2026-02-05)
+- Depth test: "the people that really solved the problem, they know exactly how they solved it. They know the little details." (S049, 2017)
+- Character over intellect: he says his hiring mistakes came from "looking too much at their intellectual capability alone and not on how they affect those around them." (S063, undated)
+- "the reason that I ended up being the chief engineer or chief designer there's not because I want it to you it's because I couldn't hire anyone yet nobody good were join so I ended up being that by default." (S036, 2017-09-29)
+- Talent decides who wins: "if you look at any given company and say where are the most smartest most driven people going to work that company is going to win" (S031, 2023-05-16)
+- Promote only on "skills, talents, and uh their integrity, and that's it." (S062, undated)
+- Changed view: earlier he weighed intellect most; by 2026 he explicitly asks whether the person is good (S002 limits, S063).
+- Sources: S002, S021, S031, S036, S049, S056, S062, S063, S072, S078, S092 (11).
 
 ### Firing and headcount
-- **Stance:** Judge by results, cut fast in a crisis and accept that some cuts will be wrong, and expect the executive team to turn over as the company grows.
-- "If somebody gets things done, I love them, and if they don't, I hate them. So it's pretty straightforward." (S002, 2026-02-05)
-- Twitter, about 7,800 down to 1,500: "desperate times call for des- desperate measures." (S029, 2023-05-17) and "some of the people who were let go probably shouldn't have been let go, because we, w- we simply did not have the time to figure out" (S029)
-- Teams change with size: "It's just not the same team. It's not always the same team." (S002)
-- AI and headcount, 2026: "We would not reduce our headcount. We would increase our headcount, to be clear." (S002); "we actually expect to increase headcount over time." (S039, 2026-01-28)
+- **Stance:** When the company is about to die, cut fast and broadly and accept that some cuts are wrong. Outside a crisis, act hard only when success is off the table.
+- "desperate times call for desperate measures" (S029, 2023-05-17)
+- "we reduced the staff by 80% but at the same time improved the functionality and capabilities of the site dramatically" (S050, undated)
+- "the system despite being at alltime highs of of usage is fast it's responsive it's more responsive than it was before the before the Takeover" (S046, 2023-04-12)
+- He admits some Twitter layoffs were wrong because there was no time to judge individuals (S029), and that shutting a data center he thought was redundant broke the site (S046).
+- Not always cuts: he expects Fremont headcount to grow as autonomy and Optimus scale (S038, 2026-01-28, no quote).
+- Sources: S002, S029, S030, S038, S046, S048, S050 (7).
 
 ### Partners and cofounders
-- **Stance:** Start with the partner you trust, keep deals short and plain, and do not give control to partners whose interests pull the product elsewhere.
-- "JB and I should have just started the car company ourselves." (S017, 2022-05-16); "the worst business decision I ever made was, um, not starting Tesla with just JB Straubel." (S024, 2022-04-14)
-- "just keep any kind of deal very, very short and simple, plain language." (S006, 2021-12-28) and "just make sure there's clarity of understanding. That's the most important thing." (S006)
-- Zip2: "the really the mistake was having too much, uh, shareholder and board control from legacy media companies" (S021, 2025-06-19)
-- Supplier partners: "We will guarantee to buy the output of those fabs." (S002, 2026-02-05)
-- Operator partner: Gwynne Shotwell runs legal, finance, and sales at SpaceX so he can stay on engineering (S022, 2016-09-15).
+- **Stance:** Do not hand the company to someone else to run while you play with the technology. Verify a partner's numbers yourself. License only at very high volume.
+- "the actual moral error here was me trying to have my cake and eat it too" (S017, 2022-05-16), on trying not to be Tesla's CEO.
+- "the company succeeded in spite of that person not because of them" (S003, 2012-09-07), on the VC-installed CEO at Zip2.
+- He calls not starting Tesla with JB Straubel his worst business decision (S024, 2022-04-14). An investor audit found the Roadster's cost had been understated by more than 2x (S056).
+- "we're only going to entertain situations where the volume would be very high otherwise it is not worth the complexity" (S083, Q4 2024 call)
+- Sources: S003, S017, S023, S024, S056, S083, S085 (7).
 
 ### OpenAI, a partnership that went wrong
-- 2023-05-17: "I fully admit to being a huge idiot here." (S029), on not securing governance; "At any point, Microsoft could cut off OpenAI." (S029)
-- 2023-11-10: "it was created as a nonprofit open source, and now it is a closed source for maximum profit, which I think is not good karma." (S001)
-- 2025-10-31: "the reason I wanted to create OpenAI was to serve as a counterweight to Google" (S019)
-- **Newer, 2026-07-29:** "So it just seems like all roads lead to acceleration of AI." (S013) His conclusion is to build his own lab and participate.
-- **Read:** funding something without governance gives up control of the outcome (inferred from S001, S026, S029).
+- **Stance:** Money without governance buys no control. He funded and named OpenAI as an open nonprofit counterweight to Google; it became closed and for profit.
+- "it was intended to be a nonprofit uh open-source company and now it is they're trying to change that for their own financial benefit uh into a for-profit company that is closed source" (S026, 2025-05-20)
+- "it needs to change its name to closed for maximum profit AI" (S019, 2025-10-31); earlier "it should be name renamed super closed source for maximum profit AI" (S047, 2023)
+- He admits not securing governance rights for his roughly $50 million was a big mistake (S029, 2023-05-17).
+- Sources: S019, S026, S029, S045, S047, S051, S081 (7).
 
 ### Equity and control
-- **Stance:** Give everyone stock. Keep enough voting control to steer and not so much that you cannot be removed.
-- "everyone at the company is given stock" (S008, 2021-02-11), at SpaceX.
-- "I need to have something like a twenty-five percent vote, um, which is enough of a vote to have a strong influence, uh, but not so much of a vote that I can't be fired if I go insane." (S019, 2025-10-31)
-- "It's not a money thing; it's a, a reasonable control thing over the future of the company" (S026, 2025-05-20)
-- "sufficient voting control such that, um, I cannot be ousted by activist investors is what matters to me" (S026)
-- No automatic family shares: "I'm definitely not, not of the school of automatically giving my kids, uh, a, you know, some share of the companies" (S031, 2023-05-24)
+- **Stance:** Voting control matters more than money when the mission takes decades. He wants enough to not be ousted, not so much he cannot be removed.
+- "sufficient voting control such that um I cannot be ousted by activist investors is what matters to me." (S026, 2025-05-20)
+- He puts the number at about 25%, enough for strong influence but not enough to stay if he "went insane" (S019, 2025-10-31, paraphrase).
+- "spacex and tesla came very close to bankruptcy many times even when bankruptcy was literally weeks away i did not sell stock" (S057, undated)
+- Zip2 lesson: do not cede board control to investors or customers whose interests pull the product elsewhere (S003, S023).
+- Sources: S003, S019, S023, S026, S057 (5).
 
 ### Focus versus diversification
-- **Stance:** He advises against running more than one company while running several. He copes by giving each day mostly to one company, by sending his time to the constraint, and by refusing new lines.
-- 2012-09-08: "the idea of running two companies, that's a lot of work." (S003)
-- 2015-10-08: "I wouldn't recommend running two companies." (S023)
-- 2021-02-11: "But my brain will explode if I do planes." (S008)
-- 2022-05-16: "I have a habit of biting off more than I can chew and then just sitting there with, like, chipmunk cheeks." (S017)
-- 2023-05-24: "fear is not the mind killer, context switching is." (S031) and "I do generally try to divide, uh, companies that's predominantly one company on one day." (S031)
-- 2025-10-31: "I'm not working on, on a, on a phone." (S012)
-- Consolidate products: one vehicle that "replaces Falcon Nine, Falcon Heavy, and Dragon." (S037, 2017-09-29)
-- **Read:** his advice and his life disagree; a founder should take the advice, not the example (inferred from S003, S017, S023, S031).
+- **Stance:** Focus on one critical step at a time and one high-volume platform. His own spread across companies is the exception he warns against.
+- "we need to be super focused on getting to orbit then super focused on getting the ship back, then we can worry about doors" (S009, 2021-08-07)
+- "it's better for us to achieve very high volume with Optimus than to have a wide range of robots uh that have lower volume" (S071, 2024)
+- "prioritizing has usually been out of desperation not choice" (S056, undated)
+- He says running two companies is not recommended because it cuts your freedom a lot (S023), and that giving Tesla only about 20% of his time early nearly destroyed it (S079).
+- Bandwidth limit: "my brain will explode if i do planes literally" (S008, 2024-06-27)
+- When behind, merge efforts: he folded Dojo into the AI5 chip to get one focused target (S051, undated).
+- Sources: S008, S009, S023, S030, S051, S054, S056, S071, S079 (9).
 
 ### Side projects
-- **Stance:** Weigh any side effort against the main mission. Run it cheap and small, or drop it.
-- "Or should I be allocating that time to getting us to Mars? I should probably do the latter." (S007, 2020-05-07), on designing a dream house.
-- Boring Company at "maybe two or three percent." (S025, 2017-05-03) of his time: "we bought, you know, um, m- some secondhand machinery, and it's just, it's kind of puttering along, but it's making good progress" (S025)
-- DOGE: "That was a hell of a side quest." (S016, 2025-09-10); "I gotta get back to the main quest here." (S021, 2025-06-19); newest: "I think I got a little too involved in politics. Got carried away, frankly." (S013, 2026-07-29)
-- Leave non-core work to specialists: "I think it's best to le- leave that to the custom shops." (S012, 2025-10-31)
+- **Stance:** Ideas are cheap and bandwidth is not. He calls politics and DOGE a side quest and says he got carried away.
+- "I have a fountain of ideas I mean I have more ideas than I can possibly execute" (S047, 2023); "Innovation is not the not the problem execution is the problem" (S047)
+- "I've generally found that when I get involved in politics, it ends up badly." (S020, 2025-11-30)
+- Newest (2026): he "got carried away." (S013, 2026-07-29) on politics; "there's been some blowback for the time that I've been spending in government." (S033, 2025-04-22)
+- Trade every big decision against the mission: "what's more important mars or a house i like mars" (S007, 2020-05-07)
+- Sources: S007, S013, S016, S020, S021, S033, S047 (7).
 
 ### Niche and where to start
-- **Stance:** Size the opportunity by improvement times people reached, ship the volume product before the halo product, and start new tech where the work is continuous, dull, or dangerous.
-- "what would be the, um, utility delta compared to the current state-of-the-art times how many people it would affect?" (S022, 2016-09-15)
-- "Roadster's kinda like dessert." (S007, 2020-05-07), after Model Y and the factories.
-- "The best use for robots in the beginning will be any continuous operation, any 24/7 operation, because they can work continuously." (S002, 2026-02-05)
-- Know where your product fits: "Starlink is great for low to medium population density." (S008, 2021-02-11)
-- When the category flips, do not make variants: "They should have made the iPhone." (S034, 2025-04-22), on Nokia.
-- "we wouldn't be constrained by our customers, go direct to consumer." (S021, 2025-06-19), the lesson he took from Zip2.
+- **Stance:** Start where buyers will pay a premium and where the product changes perception, then move down market. Do not start capital-heavy if this is your first company.
+- "we had to change people's perception of an electric vehicle because they used to think of it as something that was slow and ugly and had low range kind of like a golf cart." (S065, 2012)
+- "Starting a car company is idiotic and an electric car company is idiocy squared." (S040, 2016-07)
+- "I really wouldn't recommend anyone start a card company I really wouldn't recommend it it's not a recipe for happiness and freedom" (S080, 2017-07-15)
+- For new robots and autonomy, start with dangerous, repetitive, round-the-clock industrial work before consumers (S035, 2026-10-21, no quote). "The best use for robots in the beginning will be any continuous operation, any 24/7 operation, because they can work continuously." (S002, 2026-02-05)
+- Go direct: take a great technology all the way to the end customer instead of handing it to a legacy company (S079, 2018; S023, 2015-10-08).
+- Sources: S002, S010, S023, S035, S039, S040, S059, S065, S079, S080 (10).
 
 ### Content and media
-- **Stance:** Keep press time tiny, favor long form and live, and expect most content to become AI generated.
-- "like for press stuff like this is maybe two or three percent of my time." (S023, 2015-10-08)
-- "it is actually better to do things that are long form on the system" (S001, 2023-11-10), on X.
-- "I think it's gonna be overwhelmingly AI generated." (S020, 2025-11-30) and "the scarce commodity will be live events." (S020)
-- Honest demos: "a demo that's you can believe what you see type of thing." (S036, 2026-10-21)
-- Judge a feed by regret: "do you regret seeing it or not? And if you don't regret seeing it's a win." (S001)
+- **Stance:** Talk to customers directly and go to the source material. Treat the media as a click machine. Do not post angry or late at night.
+- "the media is best thought of as a click maximizing machine not a truth maximizing machine" (S090, 2024)
+- "the best thing I found for as a rebuttal like if somebody if there's a hoax is just go to the source material" (S044, undated)
+- "I think I should not tweet uh after 3:00 a.m. that's the rule" (S046, 2023-04-12); "save it as a draft and look it it the next day and see if you still want to tweet it" (S046)
+- "I probably shouldn't have attacked journalists, probably shouldn't have done that." (S042, 2018-11-02)
+- **Limit:** he admits his own posts have hurt his companies many times (S042, S046, S047, S081).
+- Sources: S042, S044, S046, S047, S056, S081, S083, S090 (8).
 
-### Paid ads
-- **Stance:** Ads should be close to content and not regretted, and brand ads only count if real humans see them. No recorded position on buying ads for his own products.
-- "you want advertising that is as close to, to content as possible such that you don't regret the time you spent watching it." (S029, 2023-05-17)
-- "for brand advertising, which is really just awareness advertising, it matters if, if real humans are seeing that or not." (S017, 2022-05-16)
-- Trial over promotion: staff sit with buyers until they try FSD, "You should at least try it once." (S033, 2025-11-06)
+### Paid ads and growth
+- **Stance:** Spend on the product, not on selling it. Growth should come from one customer bringing the next. Ads are fine only if people do not regret seeing them.
+- "both Z two and PayPal were very product focused companies um you know that's we're just incredibly obsessive about how do we build something that is really going to be the you know the best possible uh customer experience" (S059, 2003)
+- "the essence of viral marketing is do you have something that um One customer is going where One customer is going to sell another customer without you having to do anything" (S059, 2003)
+- "It's just like bacteria in a Petri dish. So what you want to do is try to have one customer generate like two customers." (S064, undated)
+- On ads: "it should be something that you don't regret watching after it's done" (S029, 2023-05-17)
+- Awareness is the gap: most people do not know FSD exists, and about half of owners who could use it have never tried it (inferred from S086, Q2 2025 call); once people try it "for even just a few days" they keep it (S032, 2025-11-06)
+- Sources: S029, S032, S047, S059, S064, S081, S086 (7).
 
 ### Brand and design
-- **Stance:** Design and beauty matter and good design costs the same as bad, but features past the mission are hubris.
-- "But it costs the same either way." (S003, 2012-09-08) and "caring about every millimeter of the car." (S003)
-- "the value of beauty and inspiration is, is very much underrated, no question." (S025, 2017-05-03)
-- Model X: "those doors are an exercise in hubris." (S008, 2021-02-11) and "We just got carried away." (S008)
-- "Form does follow function in the case of the Cybertruck" (S012, 2025-10-31)
-- Names: "the simplest, um, most straightforward, uh, ideally lowest ego terms are, th-those are generally a good way to go." (S021, 2025-06-19)
-- Fun is allowed when cheap: "Everyone thought it would be funny if we made the rocket more pointy, so we did." (S008)
-
-### AI in the business
-- **Stance:** AI-only companies will beat companies with people in the loop. You compete on talent, compute, and data, and digital jobs go first.
-- 2023-05-24: "You need, uh, talent, talented people, um, you need, um, a lot of compute, expensive compute, and you need access to data." (S031)
-- 2025-10-31: "AI is gonna take over those jobs like lightning." (S012)
-- 2026-01-06: "anything short of shaping atoms, um, AI can do probably half or more of those jobs right now." (S035) and "it's not a human productivity amplifier. It's an independent productivity generator." (S035)
-- 2026-02-05: "Corporations that are purely AI and robotics will vastly outperform any corporations that have people in the loop." (S002)
-- 2026-07-29: "we already have a situation where AI is better than at least ninety percent of humans, um, at writing software" (S013)
-- Hype check: "it does run ahead of the revenue right now." (S015, 2024-09-10); "it is eye-watering to see some of these valuations." (S021, 2025-06-19)
-- **Limit:** it failed on his own hardware work: "I tried to do some circuit design actually with, uh, AI recently" (S035), and it did not work yet.
-
-### AI risk and AI regulation
-- **Older (2019 to 2021), regulate it:**
-  - "there should be, in my view, a government agency that oversees anything related to AI" (S004, 2019-11-12)
-  - "probably our biggest existential threat." (S008, 2021-02-11)
-- **Middle (2024 to 2025), name the odds and join in:**
-  - "I do have to go engage in some degree of, of deliberate suspension of disbelief with respect to AI in order to sleep well." (S015, 2024-09-10)
-  - "maybe it's a ten to twenty percent chance of annihilation." (S021, 2025-06-19) and "you could either be a spectator or a participant." (S021)
-  - "my opinion on AI safety is the most important thing is that it be maximally truth-seeking" (S012, 2025-10-31)
-- **Newer (2026), no stop button, labs check each other:**
-  - "even if there was a stop button, we probably shouldn't press it" (S013, 2026-07-29)
-  - "the leading AI companies all test each other's models before release." (S018, 2026-09-15) and "instead of kind of grading your own homework, you would at least have competitors grading your homework." (S018)
-- Constant across the shift: "the new fields, like artificial intelligence, are under-regulated. In fact, there is no regulator at all." (S026, 2025-05-20)
-
-### Remote work
-- **Stance:** Work in person and on the floor. No change in this view is recorded in the corpus.
-- "I'm a big believer that, that, that, that people need to, are more productive when they're in person." (S029, 2023-05-17)
-- "it's not just a productivity thing, I think it's morally, mor- morally wrong." (S029)
-- "I don't actually have an office here. I, I either walk the floor or I hold meetings in this room." (S029)
-- The Twitter headquarters he took over "had, like, 5% occupancy." (S019, 2025-10-31)
-- His prediction that work becomes optional is about AI (S013, S020), not a view on remote work.
-
-### Work hours
-- **Stance:** Hard things need serious hours. He works seven days, asks others for a 40-hour floor, and keeps about six hours of sleep.
-- "if you're trying to make a startup succeed or you're trying to make a company do very difficult things, then you, you definitely need to put in serious hours." (S020, 2025-11-30)
-- "put 40 hours in, you know? And frankly, it doesn't even, even need to be like, you know, Monday through Friday." (S029, 2023-05-17) and "Like, I work seven days a week, but, but I, I'm not expecting others to do that." (S029)
-- "I've tried sleeping less, but then total, uh, productivity decreases." (S008, 2021-02-11)
-- "I really try to work as, as, as much as possible, uh, you know, to, to the edge of sanity, basically." (S027, 2022-04-18)
-- Weekends go to the top constraint: "if I'm s-spending my Saturdays on something, it's, it's gonna be something pretty important." (S039, 2026-01-28)
-
-### Burnout, pain, and fear
-- **Stance:** Pain is the price of hard programs. Accept it, sleep enough to stay productive, and do the important thing in spite of fear.
-- Model 3: "There were three years of hell." (S024, 2022-04-14) and "It's not like I want the pain. I don't like it." (S024)
-- "I have a high pain threshold. That's helpful." (S002, 2026-02-05)
-- "even though I'm awake more hours, I get less done." (S029, 2023-05-17)
-- "there are just times when something is important enough, you believe in it enough that you, you do it in spite of fear." (S022, 2016-09-15)
-- "it's better to err on the side of optimism and be wrong than err on the side of pessimism and be right, for quality of life." (S002); again in 2026: "it is better to be a, an optimist and wrong than a pessimist and right." (S035, 2026-01-06)
-- No recorded position on time off or recovery.
-
-### Selling the company
-- **No recorded position** on when to sell your own company. Nearest: he describes himself as a builder who holds, "I just try to build things, um, and then there happens to be stock of the company that I built." (S020, 2025-11-30)
-
-### Buying companies versus building
-- **Stance:** Default to building from scratch. Buy only when the target is fixable and the price matches the true facts.
-- "my, my default inclination is to start things from scratch." (S017, 2022-05-16)
-- "acquiring it has to be fixable." (S017)
-- "You, you can't pay the same price for something that is much worse than they claimed." (S017), on Twitter's bot count.
-- Afterward: "buying Twitter was a h- a huge pain in the ass" (S012, 2025-10-31)
-- Tesla's chip and AI teams: "They didn't acquire anyone. They just built it." (S034, 2025-04-22)
-
-### Culture
-- **Stance:** Urgency set from the top, everyone thinks like the chief engineer, leaders share the pain on the floor, and bad news gets said out loud.
-- "I have a maniacal sense of urgency. So that maniacal sense of urgency projects through the rest of the company." (S002, 2026-02-05)
-- "you really want, uh, everyone to be chief engineer." (S014, 2021-08-03)
-- "I slept on the floor so that the, so that the, the team who was going through a hard time could see me on the floor" (S024, 2022-04-14)
-- "make sure that this is not just the good news parade." (S032, 2023-05-16)
-- Fear of change kills iteration: "people were too afraid to make change." (S009, 2021-08-07), because "if you make a change and it goes right, small reward." (S009)
-- "you just walk through the factory or walk through the office and catch the vibe." (S033, 2025-11-06)
-- "don't aspire to glory, aspire to work." (S021, 2025-06-19)
-
-### Metrics
-- **Stance:** Pick one physical metric tied to the mission, count real units, and distrust marketing numbers.
-- "what really matters is what's the total, uh, useful, uh, payload to orbit per year." (S010, 2022-05-26)
-- "it's not about press releases, it's about tonnage." (S024, 2022-04-14)
-- "what really matters is, uh, true user seconds of screen time." (S031, 2023-05-24); "you care about, like, number of unique, real people, uh, that are on the system." (S017, 2022-05-16)
-- "Gross profit per employee, uh, f-fully considered, so you gotta include the supply chain in that." (S030, 2021-12-07)
-- Mission metric: "By how many years did we accelerate the advent of sustainable energy?" (S008, 2021-02-11)
-- Line health: "If, if vehicle end of line is not moving, that means there's something upstream that's wrong." (S029, 2023-05-17)
-- "the two nanometer is just a marketing number." (S035, 2026-01-06)
-
-### Competition
-- **Stance:** Friendly competition is fine and copying is welcome because execution is hard to copy. Incumbents lose by not iterating. He rates China as the hardest rival.
-- "I feel like friendly competition is good." (S006, 2021-12-28)
-- "if some fool wants to copy this design, go for it." (S009, 2021-08-07); "It's a hard thing to copy." (S011, 2024-06-22)
-- On GM and the EV1: "If they had just gone EV2, EV3, man, they would've just owned the world." (S008, 2021-02-11)
-- "In the absence of breakthrough innovations in the US, China will utterly dominate." (S002, 2026-02-05); "China is an ass kicker next level." (S039, 2026-01-28)
-- "whichever company can scale hardware the fastest will be the leader." (S002)
-- **Limit:** he tends to call his lead early: "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone." (S005, 2019-04-12); "I'd be stunned if anyone has a robot that is remotely competitive with Optimus" (S036, 2026-10-21)
-
-### Timing
-- **Stance:** Enter when a technology hits the steep part of its curve, raise before downturns, and treat recessions as a cleanup of bad capital.
-- "there does seem to be, like, a time for particular technologies, uh, when they're at a, a steep point in the inflection curve." (S022, 2016-09-15)
-- Booms: "it starts raining money on fools, basically." (S017, 2022-05-16); "There needs to be sort of an economic enema, if you will" (S017)
-- "I expect probably a year of difficulty, uh, globally for everyone." (S032, 2023-05-16)
-- Windows close: "the smart move here is to make life multiplanetary while it's possible to do so." (S001, 2023-11-10)
+- **Stance:** Beauty and inspiration are underrated. Care about every millimeter. Only build something great, not pretty good. Make it fun where it costs little.
+- "I think the value of beauty and inspiration is very much underrated, no question." (S025, 2017-05-03)
+- "caring about every millimeter of the car… that's what results in a good product" (S003, 2012-09-07)
+- "i don't want to just have like a pretty good candies if there's like a great candy" (S057, undated)
+- "being obsessive compulsive is is a good thing in this context" (S059, 2003), on product quality.
+- The Falcon Heavy payload was his Roadster, to "capture the imagination, get people excited about space." (S066, undated)
+- Sources: S003, S008, S025, S042, S053, S057, S059, S066 (8).
 
 ### Customer feedback
-- **Stance:** Ask what people dislike, and treat every action a user has to take as an error to remove.
-- "Tell me what you don't like." (S003, 2012-09-08), because "people just view, like, positive feedback like water off a duck's back." (S003)
-- "view all input as error." (S005, 2019-04-12); "If you have to do something, it's an error." (S008, 2021-02-11)
-- Stated preference is not behavior: "people may think they wanna drive their car, but the reality is that they don't." (S019, 2025-10-31)
-- Take the best critic seriously: "we were rightly criticized for an inefficient design" (S017, 2022-05-16), after the Munro teardown.
+- **Stance:** Seek negative feedback and react to what customers actually do. Do not run surveys on things people have never tried.
+- "actively seek out um and listen very carefully to negative feedback" (S003, 2012-09-07)
+- "it's important to take feedback from your environment you know it's it you want to be as closed-loop as possible." (S065, 2012)
+- "one of the biggest challenges I think is making sure you have a corrective feedback loop, and then maintaining that corrective feedback loop over time, even when people won't to tell you exactly what you want to hear" (S049, 2017)
+- Instead of surveys: "I try to mentally simulate uh what the End customer would be like like that would want this" (S081, 2024)
+- "if somebody is holding a candlet vigil for the rest because they love your product so much maybe you should make more of it" (S089, 2023), on the crushed GM EV1.
+- PayPal's elaborate dashboard drew no interest and the email payment built in a day drew a "wow", so they followed the customers (S059, S064, S065).
+- Sources: S003, S049, S059, S064, S065, S069, S081, S089 (8).
+
+### AI in the business
+- **Stance:** The companies that use AI best will win the transition. Digital desk work goes first; work that moves atoms lasts longer.
+- "the companies that will succeed in this transition period will be the ones that most effectively use AI" (S081, 2024)
+- "anything short of shaping atoms um AI can do probably half or more of those jobs right now." (S034, 2026-01-06)
+- 2018 to 2023, warn and slow down: "I try to convince people to slow down. Slow down AI to regulate AI. That's what's futile. I tried for years, and nobody listened." (S096, 2018-09-26)
+- Newer (2026): "I finally came to the conclusion I can either be a spectator or a participant but I can't stop it." (S034, 2026-01-06)
+- To compete in frontier AI: "You need uh talent, talented people. Um you need um a lot of compute, expensive compute, and you need the access to data." (S030, 2023-05-23)
+- Sources: S012, S019, S030, S034, S051, S081, S096 (7).
+
+### AI risk and AI regulation
+- **Stance:** Advanced AI is a danger to the public, so it needs a referee before the disaster, unlike most fields. Keep AI truthful.
+- "I would argue that A.I. is unequivocally something that has potential to be dangerous to the public and therefore should have a regulatory agency" (S004, 2019-11-12)
+- "AI is far more dangerous than nukes Far so why do we have no regulatory oversight, this is insane" (S079, 2018)
+- "normally regulatory agencies are very reactive um so like for seat belts for example which lack of seatbelts caused i don't know 10 million deaths worldwide" (S057, undated)
+- Newer and smaller ask (2026): "instead of kind of grading your own homework, you would at least have competitors grading your homework" (S018, 2026-09-14)
+- His odds: "I probably agree with Jeff Hinton that it's about um I don't know 10% or 20% or something like that" (S074, 2024)
+- **Read:** he opposes regulation almost everywhere else, so expect him to defend AI oversight as a special case, not a general rule (inferred from S026, S089).
+- Sources: S004, S008, S018, S026, S057, S060, S063, S074, S079, S089, S096 (11).
+
+### Remote work
+- **Stance:** Against it. He requires in-office work and calls remote work bad for output and unfair to people who cannot stay home.
+- "the laptop class is living in la la land" (S029, 2023-05-17)
+- "Twitter gone to almost fully work from home so this building was empty um and Twitter followings around the world were empty so it was just very difficult actually just trying to understand what was going on" (S058, 2022)
+- Sources: S029, S058 (2).
+
+### Work hours
+- **Stance:** Very long hours in a crisis, about 80 a week as a ceiling, and the leader in the same hours as the team.
+- "The pain level for hours increases exponentially. It's like nonlinear above 80." (S042, 2018-11-02)
+- "there were three years of hell" (S024, 2022-04-14), during the Model 3 ramp, much of it living in the factories.
+- The AI5 chip team worked every weekend and holiday for six months to tape out early (S087, Q1 2026 call).
+- **Limit:** he admits that tired, high-pressure stretches led to his worst public mistakes: "Sometimes you're just under a lot of pressure, and ... You're not getting much sleep ... and you make mistakes." (S042)
+- Sources: S024, S042, S052, S076, S087 (5).
+
+### Burnout, pain, and fear
+- **Stance:** Starting a company is pain. Do it only if you are compelled, accept the odds, and stay optimistic because pessimism helps nothing.
+- He passes on a friend's line, "starting a company is like eating glass and staring into the abyss" (S052, undated), and adds "there's some truth to that." (S064, undated)
+- "if you need encouragement don't start a company" (S052, undated)
+- "I'd rather be optimistic and wrong than pessimistic and right." (S096, 2018-09-26), repeated in 2026 (S061).
+- "I don't care about optimism or pessimism. Fuck that, we're gonna get it done." (S006, 2021-12-28)
+- He describes "launch PTSD" before every flight (S067, undated, paraphrase).
+- Sources: S006, S022, S052, S061, S064, S067, S096 (7).
+
+### Selling the company
+- No recorded position on when to sell. The evidence is personal: he sold Zip2 (S059) and rolled each exit into the next company (S091), and never sold SpaceX or Tesla stock when bankruptcy was weeks away (S057).
+
+### Buying companies versus building
+- **Stance:** Build by default. Buy only for a specific technology, and expect scale-up to be the real work. Pay too much and you will regret it.
+- "my my default inclination is to start things from scratch" (S017, 2022-05-16)
+- He bought Maxwell for its dry electrode process, then found a "gigantic gap" between small scale and large scale (S069, 2023, paraphrase).
+- On Twitter's price: "the higher price the acquisition um which is very foolish foolishly high on my vibe" (S058, 2022)
+- After buying, expect hidden layers: "it's like an archaeological dig frankly" (S058, 2022)
+- Sources: S017, S046, S058, S069, S072 (5).
+
+### Culture
+- **Stance:** A company exists to make useful products. Promote on merit, be transparent about mistakes, and assume you are wrong.
+- "your company is just an assemblage of people to create a compelling product or service and if a company does not provide great products and services it should not exist" (S057, undated)
+- "you can aspire to be less wrong ... the tools of physics are very powerful like just assume you're wrong" (S007, 2020-05-07)
+- "always take the position that you are to some degree wrong and your goal is to be less wrong over time" (S049, 2017)
+- "don't aspire to glory aspire to work" (S021, 2025-06-19)
+- Ego breaks feedback: "if your ego to ability ratio is gets too high then you're you're you're going to basically break the feedback loop to reality" (S021, 2025-06-19)
+- "if if you're an engineer, you don't need a button" (S019, 2025-10-31)
+- Sources: S007, S017, S019, S021, S049, S057, S058, S062, S063, S073 (10).
+
+### Metrics
+- **Stance:** Pick the one number that captures the mission and count everything in it. Measure ruthlessly.
+- You cannot improve what you do not measure, and Tesla measures ruthlessly (inferred from S069, 2023)
+- "what is your fully considered cost per ton to orbit" (S095, 2022)
+- "you care about like number of unique real people that are on the system it's extremely fundamental" (S017, 2022-05-16)
+- "the the Metro that's the metric I've got the whole organization focused on is um unregretted user time" (S058, 2022)
+- "it's not about press releases it's about tonnage" (S024, 2022-04-14)
+- Sources: S006, S014, S017, S024, S046, S057, S058, S069, S095 (9).
+
+### Competition
+- **Stance:** Do not study competitors; out-iterate them. The fastest mover wins. Keep new technology hidden until near production.
+- "I don't really think that much about competitors. I just say like, you know, how do we make our cars as good as possible?" (S042, 2018-11-02)
+- "the winner ultimately is the one that is able to move the fastest" (S051, undated); "most companies are incrementalists" (S051)
+- "when thinking about the competitiveness of companies especially if the companies are technology companies i recommend looking at where the smartest engineers want to work" (S072, 2022)
+- "I think there's some value to you know, not showing new technology until it's uh close to production." (S087, Q1 2026 call); "I really have to be careful of the Osborne effect here." (S085, Q2 2024 call)
+- Underestimating rivals: "I always think like people uh sort of outside of China kind of under underestimate China." (S038, 2026-01-28)
+- **Limit:** he declares Tesla far ahead often, and some calls (FSD dates) proved early (S005, S035, S083).
+- Sources: S038, S042, S051, S071, S072, S080, S085, S087 (8).
+
+### Timing
+- **Stance:** Act while the window is open and assume it is short. A little naivety helps you start.
+- "just to be you know to be safe I think we should assume the window of opportunity is short" (S082, undated)
+- "the window of technology for this is open and it's the first time that window has been open in the four and a half billion year history of Earth." (S063, undated)
+- When a host suggested he had to be naive to start a car company, he half agreed and said "manufacturing is insanely difficult it's under appreciated in its difficulty" (S056, undated)
+- Adoption follows an S-curve, so "people under-predict it in in the beginning, because people tend to extrapolate in a straight line." (S064, undated)
+- Sources: S055, S056, S063, S064, S065, S082 (6).
 
 ### Cutting costs and overhead
-- **Stance:** Audit spend that nobody owns, cut the large obvious losses instead of chasing zero, and spend big only on the strategic bets.
-- "there were more people making the food than eating the food." (S019, 2025-10-31), at Twitter's headquarters.
-- Recurring payments: "and no one ever turned the money off." (S012, 2025-10-31); "you actually can't manage to zero fraud." (S012)
-- "when we do spend capital, it is spent, uh, very efficiently." (S039, 2026-01-28), in a record capex year "because we're making big investments for an epic future." (S039)
-- "I only have one, um, part-time assistant." (S031, 2023-05-24)
+- **Stance:** Audit spending nobody owns, delete whole programs rather than trimming them, and design cost out instead of negotiating it out.
+- At Twitter he found empty buildings kept clean and stocked for years, and dried-up whiteboard markers (S019, 2025-10-31).
+- "the main sort of Home timeline mixer was uh 700 100 000 lines of code now at seventy thousand so it's down by a factor of ten" (S058, 2022)
+- DOGE: making the appropriation code and comment field mandatory on every federal payment exposed payments that ran on after their approvers left (S012, S020).
+- "we have to really delete entire agencies many of them" (S050, undated)
+- Sources: S012, S019, S020, S050, S058, S084 (6).
 
 ### Money and motive
-- **Stance:** Build useful things and let money follow; ask what the money is for.
-- "If you do that, then money will come as a natural consequence of that, uh, as opposed to pursuing money directly." (S020, 2025-11-30)
-- "I really was just trying to be useful. That's the optimization." (S022, 2016-09-15)
-- "Well, what do you want money for?" (S013, 2026-07-29)
-- "consumption is fun, but capital allocation is a job." (S010, 2022-05-26)
+- **Stance:** Profit is a sign you are useful. Aim to give more than you take. Money is a tool for allocating effort, not the goal.
+- "profit just means that people are paying you more for whatever you're doing than you're spending to create it. That's a good thing." (S064, undated)
+- "aim to make more than you take" (S020, 2025-11-30)
+- "just think of money as a database for resource allocation across time and space." (S006, 2021-12-28)
+- "It's very easy to give money away to get the appearance of goodness... It is very difficult to give money away for the reality of goodness. Very difficult." (S020, 2025-11-30)
+- Sources: S006, S020, S027, S064, S070, S077 (6).

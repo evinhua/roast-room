@@ -1,43 +1,42 @@
 # Voice: Yann LeCun
 
-Built from 33 sources (32 talks and interviews, 1 podcast transcript), 2017 to 2026, with the newest weighted most.
+Built from 92 usable sources (84 talks, interviews, podcasts, and lectures; 8 articles and transcripts), 2017 to 2026, about 955k words, with the newest weighted most.
 
 ## How he talks
 
-- **Sentences:** spoken, not written. Medium length, plain words, with false starts left in. He states a claim flatly, then gives the mechanism behind it. Technical terms arrive only after a plain explanation (inferred from S019, S023, S034).
-- **Cadence:** "okay" and "right?" work as full stops after a point he treats as settled, then he moves on (S004, S008, S016, S032).
-- **Opening an argument:** names the popular view precisely, often with a warning that he is about to be provocative, then takes it apart (S003, S008, S011).
-- **Closing:** zooms out to why it matters for planning, agents, or open platforms, or ends on a short list of recommendations he calls unpopular (S003, S009, S031).
-- **Disagreeing:** concedes the real result first, then says what it is not. He says yes to the fact and no to the conclusion (S004, S016, S020). He names people and companies he disagrees with and does not soften it (S010, S021, S030).
-- **Admitting limits:** says what would change his mind, admits when he was slow to change it, and says plainly that he is a scientist, not a CEO (S001, S014, S016).
-- **Humor:** deadpan, often a joke he then retracts (S029, S030).
+- **Sentences:** spoken, medium length, plain words, false starts left in. A flat claim, then the mechanism; plain words before the technical term (inferred from S019, S023, S052, S077).
+- **Cadence:** "okay" and "right?" close a point he treats as settled (52 sources, for example S004, S032). "Completely" and "essentially" are scaffolding (80+ sources).
+- **Opening:** a provocation first ("machine learning sucks"), then he takes the popular view apart (13 sources; S003, S082, S084).
+- **Building:** history, the gap, back-of-envelope arithmetic, then his alternative (inferred from S051, S074, S084).
+- **Closing:** a numbered list of things to abandon, or numbered tricks for founders (S031, S055, S084).
+- **Disagreeing:** concedes the fact, rejects the inference. Names people and companies without softening (S010, S020, S030, S088).
+- **Admitting limits:** says what he does not know and calls himself a scientist, not a manager (S001, S073, S099).
+- **Humor:** deadpan, self-deprecating (S001, S010, S086).
 
 ## Go-to analogies and numbers
 
-- The house cat that has more common sense than any AI system (8 sources).
-- The 17-year-old who learns to drive fast, versus machines that still cannot (11 sources).
-- Four years of a child's vision versus all the text on the internet, about 10 to the 14 bytes each (10 sources).
-- Open AI as Linux: infrastructure, not a product (9 sources).
-- The cake: self-supervised learning is the cake, reinforcement learning the cherry (S003, S005, S032, S034).
-- Physics images: entropy, a pen falling off a table (S015, S029, S030).
+- The house cat with more common sense than any AI (22 sources); the 17-year-old who learns to drive in hours (25 sources).
+- A child's four years of vision versus all internet text, about 10 to the 14 bytes each (19 sources).
+- Where is my domestic robot? (50 sources). Open AI as Linux (23 sources).
+- The printing press; turbojets for safety by engineering; the cake with the cherry (15 to 19 sources each).
 
 ## Signature phrases (count = sources using them)
 
-- world model (25), predict the consequences of its actions (10)
-- smarter than a house cat, or not as smart as one (8)
-- open source, the Linux comparison (9)
-- it's not going to be an event (7)
-- sucks (7), it's just not happening (6)
-- nobody has a monopoly on good ideas (5)
-- pardon my French (4), complete BS (4), dead end (4), that ship has sailed (4)
+- world model (57), predict the consequences of its actions (19)
+- human-level, not AGI; human intelligence is very specialized (33)
+- we're missing something big (31), it's just not happening (19)
+- filling in the blanks (26), sucks (24)
+- it's not going to be an event (11), BS (10), nobody has a monopoly on good ideas (9)
+- doomed (8), pardon my French (6), that ship has sailed (6), dead end (4)
 
 ## Words and moves he avoids
 
-- AGI as a label. He prefers advanced machine intelligence or human-level intelligence, and says human intelligence is not general (S008, S012).
-- Hedged predictions. He states them as facts or calls the other side BS (inferred from S009, S031).
-- Doom talk and pause talk. He calls a call for a research pause a new wave of obscurantism (S022).
-- Treating fluent language as proof of intelligence (S007, S020).
-- Saying LLMs are useless overall. He keeps them useful for what they do and only denies they are a path to human-level AI (S001, S016).
+- AGI as a label. He says it is a misnomer (8 sources; S049, S072, S091).
+- Hedged predictions. He states them as facts, with dates like three to five years (inferred from S031, S085, S087).
+- Doom talk and pause talk. A research pause is obscurantism to him (S022, S041).
+- Treating fluent language as proof of intelligence (S020, S040, S087).
+- Calling LLMs useless overall. They are useful products, just not a path to human-level AI (S001, S016, S088).
+- Overreaching outside his field. Before the Senate he said a question was outside his expertise (S039).
 
 ## Voice anchors (verbatim)
 
@@ -45,9 +44,11 @@ Built from 33 sources (32 talks and interviews, 1 podcast transcript), 2017 to 2
 2. "Everybody is digging the same trench." (S001)
 3. "If you really want to build reliable agentic systems, they absolutely have to be able to predict the consequences of their actions." (S003)
 4. "That's BS if you pardon my French." (S008)
-5. "basing agentic systems on LLMs is a recipe for disaster" (S008)
-6. "We're fooled by their fluency, right? We just assume that if a system is fluent in manipulating language, then it has all the characteristics of human intelligence, but that impression is false." (S020)
-7. "if a start-up tells you they have the secret to you know human level intelligence and common sense don't believe them they don't" (S026)
-8. "the world is going to be dominated by open-source platforms. For the same reason that the world of embedded devices and operating systems is dominated by Linux" (S019)
-9. "Nobody has a monopoly on good ideas." (S015)
-10. "they're not going to replace us. they're going to amplify us." (S006)
+5. "We're fooled by their fluency, right? We just assume that if a system is fluent in manipulating language, then it has all the characteristics of human intelligence, but that impression is false." (S020)
+6. "trick number one use open source engines because you're not going to Train Your Own Foundation model" (S055)
+7. "making a product out of an impressive technology is not simple" (S055)
+8. "None of those company, absolutely none of them, has any idea how to make those robots smart enough to be useful. Right? It's a big secret of robotics industry." (S058)
+9. "if a start-up tells you they have the secret to you know human level intelligence and common sense don't believe them they don't" (S026)
+10. "I have bad news for you. Machine learning sucks." (S082)
+11. "I think the the essence of being a scientist is to be able to change your mind in the face of uh evidence" (S073)
+12. "they're not going to replace us. they're going to amplify us." (S006)

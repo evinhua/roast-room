@@ -1,18 +1,18 @@
 # Sources: Codie Sanchez
 
-41 sources (27 video, 14 web), 455,414 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+117 usable sources (75 video, 42 web), 1,121,582 words, 2017 to 2026. 120 were fetched; three are not used and no file in this brain cites them: S045 (a Jay Shetty re-cut that repeats about 41 percent of S046), and S091 and S092 (gated State of Main Street reports that returned only site navigation, about 475 words each). Video dates are upload dates. S001 to S027 are dated. The Contrarian Thinking newsletters (S028 to S041, S093 to S120) carry their publish date in the article body, and that date is shown. The later videos (S042 to S090) were fetched without dates and show "undated". Every quote in this brain carries one of these ids.
 
 Format: id | title | url | date | words
 
 - S001 | Codie Sanchez: They're Lying To You About How To Get Rich! How To Turn $0 Into $1M! | https://www.youtube.com/watch?v=IYu_PDPqKFc | 2024-08-12 | 27115
-- S002 | Why Working Harder Won’t Make You Rich - Codie Sanchez | https://www.youtube.com/watch?v=2d4u80LmRQ8 | 2026-09-03 | 20219
+- S002 | Why Working Harder Won’t Make You Rich - Codie Sanchez | https://www.youtube.com/watch?v=2d4u80LmRQ8 | 2026-09-03 | 20099
 - S003 | The Weird Mental Frameworks Of The Super Rich - Codie Sanchez | https://www.youtube.com/watch?v=cG8ih5DwOlM | 2023-10-19 | 26933
-- S004 | What RICH People Know About Money That Nobody Taught You / Codie Sanchez | https://www.youtube.com/watch?v=a_5-iAEMRpE | 2026-09-21 | 15946
+- S004 | They're About To Reset the Rules of Wealth: Your Last Chance To Get Ahead Is Now / Codie Sanchez | https://www.youtube.com/watch?v=a_5-iAEMRpE | 2026-09-21 | 15946
 - S005 | 4 Profitable Business Ideas That Men Are Sleeping On / ft. Codie Sanchez (#512) | https://www.youtube.com/watch?v=nyJ8ZqfoNnY | 2023-10-26 | 22784
 - S006 | How to Buy Distressed Assets, How to Network with Codie Sanchez / My First Million Ep. #176 | https://www.youtube.com/watch?v=CarCWCl1JFk | 2021-04-28 | 13207
 - S007 | The Big Lie Keeping You Poor And The $68 Trillion Opportunity to Break You Free! / Codie Sanchez | https://www.youtube.com/watch?v=ABN1NViGEIQ | 2024-12-03 | 22300
 - S008 | "If I Was Broke Today, This Is EXACTLY What I'd Do To Get Rich In 2025" / Codie Sanchez | https://www.youtube.com/watch?v=DS1RgnUXI4w | 2023-09-26 | 34572
-- S009 | I Left My Husband, Built 26 Companies & Invested in 100 More: What Women Should Know / Codie Sanchez | https://www.youtube.com/watch?v=6iDucPzUoZg | 2023-08-30 | 33935
+- S009 | I Left My Husband, Built 26 Companies & Invested in 100 More: What Women Should Know / Codie Sanchez | https://www.youtube.com/watch?v=6iDucPzUoZg | 2023-08-30 | 34135
 - S010 | The Ultimate Guide to Buying and Running Boring Businesses with Codie Sanchez | https://www.youtube.com/watch?v=doPVZdbvnDw | 2023-11-21 | 17503
 - S011 | How She Made $50M Buying Boring Businesses / Codie Sanchez | https://www.youtube.com/watch?v=WPn6ll25Wr4 | 2024-12-20 | 11341
 - S012 | Codie Sanchez on Buying Boring Businesses and The Secret to Wealth. | https://www.youtube.com/watch?v=j2aQ7DZpQa8 | 2024-09-03 | 10426
@@ -24,24 +24,103 @@ Format: id | title | url | date | words
 - S018 | I Asked Codie Sanchez How To Flip Businesses For Millions | https://www.youtube.com/watch?v=pANYzS6N2-s | 2024-12-04 | 8647
 - S019 | Ep 17 Codie Sanchez, Championing Diversity and Encouraging Investment in Latin America | https://www.youtube.com/watch?v=3cutSClh_iw | 2017-09-16 | 13164
 - S020 | How to Find Businesses to Buy NO ONE ELSE Knows About (80 MINUTE Playbook) | https://www.youtube.com/watch?v=3mtS8rOAqoM | 2025-08-24 | 17694
-- S021 | How to Buy a Business with Other Peoples Money | https://www.youtube.com/watch?v=CSE-cZ-X87o | 2026-06-04 | 16915
+- S021 | How to Buy a Business with Other Peoples Money | https://www.youtube.com/watch?v=CSE-cZ-X87o | 2026-06-03 | 16915
 - S022 | Starting a Business Was Not How I Became Financially Free... (I Did This Instead) | https://www.youtube.com/watch?v=acEy2I7__Uc | 2024-04-13 | 16737
 - S023 | This Is The Ultimate Guide To Buying A Business (Main Street Millionaire Summary) | https://www.youtube.com/watch?v=eAFrX-0o-2g | 2024-12-06 | 6690
 - S024 | Watch these 40 minutes if you want to be a millionaire in 2025 | https://www.youtube.com/watch?v=VruZwjbVRUg | 2025-05-03 | 8720
 - S025 | You Don't Need To Start A Business, Just Buy One Of These | https://www.youtube.com/watch?v=nSlZZ7TxNM8 | 2026-06-09 | 5085
 - S026 | If You Don't Understand Debt, You Don't Understand Business | https://www.youtube.com/watch?v=DZNhrv5sv_0 | 2026-08-04 | 5761
 - S027 | What I Wish I Knew Before Buying A Business / Don’t Make The Same Mistakes | https://www.youtube.com/watch?v=Y02i2geD-X0 | 2023-09-10 | 2935
-- S028 | Contrarian Thinking's 2025 Annual Letter | https://www.contrarianthinking.co/newsletter-articles/annual-letter-2025 | 2025-02-27 | 3577
-- S031 | Own or Be Owned: Build a business so good, it doesn't need you. | https://www.contrarianthinking.co/newsletter-articles/own-or-be-owned-build-a-business-so-good-it-doesnt-need-you | 2026-07-21 | 967
-- S032 | Here's What Makes a Business That's Actually Worth Buying | https://www.contrarianthinking.co/newsletter-articles/hey-owners-heres-what-makes-a-business-thats-actually-worth-buying | 2026-03-31 | 1307
-- S033 | The ULTIMATE Guide to Building a Sellable Business | https://www.contrarianthinking.co/newsletter-articles/the-ultimate-guide-to-building-a-sellable-business | 2026-02-05 | 2212
-- S034 | 3 Powerful Lessons to Help You Buy Your First Business | https://www.contrarianthinking.co/newsletter-articles/3-powerful-lessons-to-help-you-buy-your-first-business | 2026-05-26 | 1405
-- S035 | 7 Lessons Learned Building Businesses From $0 to 9 Figures | https://www.contrarianthinking.co/newsletter-articles/7-lessons-learned-building-businesses-from-0-to-9-figures | 2026-10-15 | 2048
-- S036 | 9 Business Truths We Wish We Knew on Day 1 | https://www.contrarianthinking.co/newsletter-articles/9-business-truths-we-wish-we-knew-on-day-1 | 2025-09-19 | 1350
-- S037 | America Needs More Owners. Here’s How To Create Them. | https://www.contrarianthinking.co/newsletter-articles/america-needs-more-owners-heres-how-to-create-them | 2025-07-03 | 901
-- S038 | Deal Reps & Muscle Memory | https://www.contrarianthinking.co/newsletter-articles/deal-reps-muscle-memory | 2026-07-09 | 1292
-- S039 | The Universal Science of Dealmaking | https://www.contrarianthinking.co/newsletter-articles/the-universal-science-of-dealmaking | 2025-12-12 | 1941
-- S040 | The hottest businesses right now have dad bods | https://www.contrarianthinking.co/newsletter-articles/the-hottest-businesses-right-now-have-dad-bods | 2026-05-14 | 972
-- S041 | I Might've Pissed Off the Internet... (Again) | https://www.contrarianthinking.co/newsletter-articles/i-mightve-pissed-off-the-internet-again | 2026-09-10 | 1653
-- S042 | How to Build a Path to Ownership in 2026 | https://www.contrarianthinking.co/newsletter-articles/how-to-build-a-path-to-ownership-in-2026 | 2025-12-25 | 1391
-- S043 | Is This The Real Reason You’re Not an Owner? | https://www.contrarianthinking.co/newsletter-articles/is-this-the-real-reason-youre-not-an-owner | 2025-08-28 | 1128
+- S028 | Contrarian Thinking's 2025 Annual Letter | https://www.contrarianthinking.co/newsletter-articles/annual-letter-2025 | 2025-02-27 | 4040
+- S029 | Own or Be Owned: Build a business so good, it doesn't need you. | https://www.contrarianthinking.co/newsletter-articles/own-or-be-owned-build-a-business-so-good-it-doesnt-need-you | 2026-07-21 | 1473
+- S030 | Here's What Makes a Business That's Actually Worth Buying | https://www.contrarianthinking.co/newsletter-articles/hey-owners-heres-what-makes-a-business-thats-actually-worth-buying | 2026-03-31 | 1810
+- S031 | The ULTIMATE Guide to Building a Sellable Business | https://www.contrarianthinking.co/newsletter-articles/the-ultimate-guide-to-building-a-sellable-business | 2026-02-05 | 2713
+- S032 | 3 Powerful Lessons to Help You Buy Your First Business | https://www.contrarianthinking.co/newsletter-articles/3-powerful-lessons-to-help-you-buy-your-first-business | 2026-05-26 | 1908
+- S033 | 7 Lessons Learned Building Businesses From $0 to 9 Figures | https://www.contrarianthinking.co/newsletter-articles/7-lessons-learned-building-businesses-from-0-to-9-figures | 2026-10-15 | 2558
+- S034 | 9 Business Truths We Wish We Knew on Day 1 | https://www.contrarianthinking.co/newsletter-articles/9-business-truths-we-wish-we-knew-on-day-1 | 2025-09-19 | 1888
+- S035 | America Needs More Owners. Here’s How To Create Them. | https://www.contrarianthinking.co/newsletter-articles/america-needs-more-owners-heres-how-to-create-them | 2025-07-03 | 1400
+- S036 | Deal Reps & Muscle Memory | https://www.contrarianthinking.co/newsletter-articles/deal-reps-muscle-memory | 2026-07-09 | 1790
+- S037 | The Universal Science of Dealmaking | https://www.contrarianthinking.co/newsletter-articles/the-universal-science-of-dealmaking | 2025-12-12 | 2439
+- S038 | The hottest businesses right now have dad bods | https://www.contrarianthinking.co/newsletter-articles/the-hottest-businesses-right-now-have-dad-bods | 2026-05-14 | 1472
+- S039 | I Might've Pissed Off the Internet... (Again) | https://www.contrarianthinking.co/newsletter-articles/i-mightve-pissed-off-the-internet-again | 2026-09-10 | 2154
+- S040 | How to Build a Path to Ownership in 2026 | https://www.contrarianthinking.co/newsletter-articles/how-to-build-a-path-to-ownership-in-2026 | 2025-12-25 | 1893
+- S041 | Is This The Real Reason You’re Not an Owner? | https://www.contrarianthinking.co/newsletter-articles/is-this-the-real-reason-youre-not-an-owner | 2025-08-28 | 1630
+- S042 | The Money Expert: From $0 to Millions In 2 Years Without Any Hard Work!: Codie Sanchez / E258 | https://www.youtube.com/watch?v=XkxZCJ2pYqs | undated | 21078
+- S043 | The #1 Financial Freedom SECRET Rich People WON’T Tell You! / Codie Sanchez | https://www.youtube.com/watch?v=rwAIXKxQw8o | undated | 23130
+- S044 | Codie Sanchez: “Just F***ing Start!” Why You Don’t Need to Be SMART to Be RICH! | https://www.youtube.com/watch?v=qA3fIaHTyLw | undated | 17818
+- S045 | 5 Money Rules Nobody Taught You in School / Money & Business Expert Codie Sanchez | https://www.youtube.com/watch?v=8kAW1LyaAUI | undated | 12932 | not used
+- S046 | The Money Expert: #1 Formula to Get RICH Off Your Normal Salary (It’s EASY!) | https://www.youtube.com/watch?v=tE6CwaBxuN4 | undated | 21426
+- S047 | How to Get Rich From Your 9-5 Salary (and become financially free!) | https://www.youtube.com/watch?v=dziJBJsy2rk | undated | 22725
+- S048 | Dirty Jobs, Laundromats, And Why Curiosity Always Wins / Codie Sanchez #439 / The Way I Heard It | https://www.youtube.com/watch?v=Gk1jKoEAGPY | undated | 15934
+- S049 | “It’s So Easy!” Money Expert Exposes The #1 Way To Get Rich In 2025 / Codie Sanchez | https://www.youtube.com/watch?v=LcJQt0xxRr8 | undated | 20800
+- S050 | Meet YouTube's Next Billionaire (Codie Sanchez Interview) | https://www.youtube.com/watch?v=UFus_cVJc-k | undated | 20523
+- S051 | How to Live Your Life Like a Start-up with Codie Sanchez | https://www.youtube.com/watch?v=FDMHkMGz5so | undated | 16225
+- S052 | A Stoic Masterclass for Ambitious People With Codie Sanchez | https://www.youtube.com/watch?v=gTRmrzSCbaI | undated | 15747
+- S053 | How To Make Millions With Small Business / Codie Sanchez | https://www.youtube.com/watch?v=ZraBHTmZK98 | undated | 12125
+- S054 | "Now Is The Time To Get Rich!" - Get Ahead & Build Wealth In The Upcoming Recession / Codie Sanchez | https://www.youtube.com/watch?v=D6UyDNtZ9Sg | undated | 31806
+- S055 | A Coming Recession Worse Than 2008? - Once In A Lifetime Chance To Build Wealth / Codie Sanchez | https://www.youtube.com/watch?v=6U2goTmqo3Y | undated | 36600
+- S056 | How Codie Sanchez Built a $50 Million Portfolio of Boring Businesses | https://www.youtube.com/watch?v=jjFWtuFWZa8 | undated | 12067
+- S057 | Codie Sanchez: BORING Businesses You Can Buy Right Now To REPLACE Your 9-5 / The Money Expert | https://www.youtube.com/watch?v=FFEXDJoaSB4 | undated | 12590
+- S058 | How to Get Rich Building Boring Businesses / Codie Sanchez, Contrarian Thinking | https://www.youtube.com/watch?v=oE8KGdIx908 | undated | 13409
+- S059 | 446. How to Build Your Empire Using Boring Businesses with Codie Sanchez (Video) | https://www.youtube.com/watch?v=APEfw8esP2Y | undated | 11904
+- S060 | There are 3 things that matter for Laundromats! Codie Sanchez - Acquisitions Anonymous episode 97 | https://www.youtube.com/watch?v=mrb-d6M_yXw | undated | 11565
+- S061 | How to Buy a Business That’ll Replace Your 9-5 w/Codie Sanchez | https://www.youtube.com/watch?v=vaKWVHk8HeU | undated | 11625
+- S062 | How I Built a Fortune Buying Businesses Nobody Wanted / Codie Sanchez | https://www.youtube.com/watch?v=Aw4WReETrYI | undated | 17691
+- S063 | The Money Expert: 5 Businesses That Can Make You RICH (Without a 9-to-5!) ft. Codie Sanchez | https://www.youtube.com/watch?v=F-EqO2uikXM | undated | 14850
+- S064 | #151: Codie Sanchez - Founder of Contrarian Thinking - Helping People Think & Make Money | https://www.youtube.com/watch?v=Vw26Z17va9c | undated | 15868
+- S065 | Ep. 008 - The Guide to Contrarian Thinking, Interview with Codie Sanchez | https://www.youtube.com/watch?v=7wZLygPlY9U | undated | 11671
+- S066 | Contrarian Thinking w/ Codie Sanchez (MI114) | https://www.youtube.com/watch?v=SqEyTUJ7IhU | undated | 6135
+- S067 | Own or Be Owned: Motherhood, Money & Making Yourself Less Needed with Codie Sanchez | https://www.youtube.com/watch?v=3A4m9q9fkcQ | undated | 10237
+- S068 | Money Moves: How Women are Redefining Financial Wellness With Codie Sanchez | https://www.youtube.com/watch?v=y0e4y-RuRcQ | undated | 9292
+- S069 | Meet The Woman Who Makes $50M With Boring Businesses with Codie Sanchez | https://www.youtube.com/watch?v=199K-2RWeZo | undated | 7885
+- S070 | Vault Episode: Codie Sanchez  Buying Small Businesses, Thinking Contrarian, and Building Real Wealth | https://www.youtube.com/watch?v=XahMBY8TEWc | undated | 9205
+- S071 | Codie Sanchez Reveals Her $10M Content Strategy (Live Masterclass) | https://www.youtube.com/watch?v=N6LjeRSDXdU | undated | 12020
+- S072 | Watch these 60+ minutes if you want to change your life in 2025 | https://www.youtube.com/watch?v=wWNc76dr_cQ | undated | 19883
+- S073 | Getting This ONE Thing Is The Key to Creating Wealth... | https://www.youtube.com/watch?v=N4moEWmPHXo | undated | 8164
+- S074 | The Richest People In The World ALL Did This | https://www.youtube.com/watch?v=Ha50tCy18Og | undated | 8689
+- S075 | If You’re Not As Wealthy as You’d Like To Be… Watch This | https://www.youtube.com/watch?v=XV4Gp_k2LZc | undated | 6298
+- S076 | If You Don't Understand Leadership, You'll Never Win | https://www.youtube.com/watch?v=mnhhwBiFshA | undated | 6874
+- S077 | 15 Books That Helped Make Me My First Million | https://www.youtube.com/watch?v=FW8gaEzP9V4 | undated | 7329
+- S078 | 7 Businesses That ALMOST Never Fail (Backed By Data) | https://www.youtube.com/watch?v=o0uJCMBh11c | undated | 6634
+- S079 | How To Think Like The 1% | https://www.youtube.com/watch?v=_VtdNIkdWBs | undated | 5917
+- S080 | How To Start A Successful Business (Backed By Data) | https://www.youtube.com/watch?v=Aft7GUba8aA | undated | 5449
+- S081 | Don't Become A Content Creator, Build A Content Business. | https://www.youtube.com/watch?v=ZvAwqGH_79Q | undated | 5364
+- S082 | My 17 Sources of Income at Age 39 | https://www.youtube.com/watch?v=AbcKIXrbo5k | undated | 5238
+- S083 | 20 Years Of Money Advice in 22 Minutes (How I Made Millions) | https://www.youtube.com/watch?v=MkP37sMi4KY | undated | 5010
+- S084 | I Built A Million Dollar Business For A Subscriber in 23 Minutes | https://www.youtube.com/watch?v=v2jRsAFnqXY | undated | 5170
+- S085 | If I Wanted to Build a Business for $0 in 2026, I’d Do This… | https://www.youtube.com/watch?v=GWoABwqXl5A | undated | 4237
+- S086 | 7 Businesses To Start For Beginners | https://www.youtube.com/watch?v=UiXFMvYfdbg | undated | 5027
+- S087 | Nothing and Nobody Will Ever Hurt You Again - After This. | https://www.youtube.com/watch?v=j1ttiG6L-fU | undated | 7168
+- S088 | Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO | https://www.youtube.com/watch?v=t260757b_vU | undated | 5223
+- S089 | Stop Overthinking: The 70% Rule to Beat Procrastination | https://www.youtube.com/watch?v=wd9QXIGdzoQ | undated | 5096
+- S090 | Becoming a Main Street Millionaire with Codie SanchezHow to Get Rich the Simple Way #podcast | https://www.youtube.com/watch?v=gc8VstbuOQA | undated | 20870
+- S091 | 2025 State of Main Street Report | https://www.contrarianthinking.co/newsletter-articles/2025-state-of-main-street-report | undated | 475 | not used
+- S092 | 2026 State of Main Street Report | https://www.contrarianthinking.co/newsletter-articles/2026-state-of-main-street-report | undated | 474 | not used
+- S093 | 6 Predictions for The Rest of 2026 | https://www.contrarianthinking.co/newsletter-articles/6-predictions-for-the-rest-of-2026 | 2026-01-23 | 1780
+- S094 | 11 Ideas That Could Change Your Life in 2026 | https://www.contrarianthinking.co/newsletter-articles/11-ideas-that-could-change-your-life-in-2026 | 2025-12-19 | 2125
+- S095 | 82% of Your Profits Are Because of You | https://www.contrarianthinking.co/newsletter-articles/82-of-your-profits-are-because-of-you | 2026-09-24 | 1843
+- S096 | America’s Economic Participation Crisis | https://www.contrarianthinking.co/newsletter-articles/americas-economic-participation-crisis | 2026-01-02 | 1797
+- S097 | The family business is SO back | https://www.contrarianthinking.co/newsletter-articles/the-family-business-is-so-back | 2026-05-21 | 1819
+- S098 | The Founding Owners | https://www.contrarianthinking.co/newsletter-articles/the-founding-owners | 2026-07-02 | 1461
+- S099 | The MBA is on Clearance | https://www.contrarianthinking.co/newsletter-articles/the-mba-is-on-clearance | 2026-06-04 | 2047
+- S100 | How to Stop the Slopification of Main Street | https://www.contrarianthinking.co/newsletter-articles/how-to-stop-the-slopification-of-main-street | 2025-10-24 | 1522
+- S101 | The Invisible, Profitable, Unsexy Businesses Behind The Trillion-Dollar AI Boom | https://www.contrarianthinking.co/newsletter-articles/the-invisible-profitable-unsexy-businesses-behind-the-trillion-dollar-ai-boom | 2026-04-02 | 1775
+- S102 | How We’d Build a Business in 2026 | https://www.contrarianthinking.co/newsletter-articles/how-wed-build-a-business-in-2026 | 2025-11-28 | 2105
+- S103 | How We Built an AI-First Business (And How You Can, Too) | https://www.contrarianthinking.co/newsletter-articles/how-we-built-an-ai-first-business-and-how-you-can-too | 2026-03-19 | 2397
+- S104 | How We Turned 1 Email Into a Portfolio of Profitable Businesses | https://www.contrarianthinking.co/newsletter-articles/how-we-turned-1-email-into-a-portfolio-of-profitable-businesses | 2026-03-06 | 1725
+- S105 | 5 Creative Ways to Fund Your Business's Growth | https://www.contrarianthinking.co/newsletter-articles/5-creative-ways-to-fund-your-businesss-growth | 2026-08-20 | 1977
+- S106 | How to hire (and keep) A-players | https://www.contrarianthinking.co/newsletter-articles/how-to-hire-and-keep-a-players | 2026-07-23 | 1644
+- S107 | There Is No Such Thing as a Neutral Hire | https://www.contrarianthinking.co/newsletter-articles/there-is-no-such-thing-as-a-neutral-hire | 2026-09-03 | 1939
+- S108 | You'd better get good at selling | https://www.contrarianthinking.co/newsletter-articles/youd-better-get-good-at-selling | 2026-02-19 | 1704
+- S109 | The Delusion Premium | https://www.contrarianthinking.co/newsletter-articles/the-delusion-premium | 2026-07-16 | 2344
+- S110 | We're living in a K-shaped world | https://www.contrarianthinking.co/newsletter-articles/were-living-in-a-k-shaped-world | 2026-04-09 | 1517
+- S111 | Michael Jordan Won 6 Rings and Still Got Owned | https://www.contrarianthinking.co/newsletter-articles/michael-jordan-won-6-rings-and-still-got-owned | 2026-09-17 | 1726
+- S112 | Business Education is Broken. Here’s How to Fix it | https://www.contrarianthinking.co/newsletter-articles/business-education-is-broken-heres-how-to-fix-it | 2025-07-31 | 1280
+- S113 | The Game is Rigged: Here’s How to Win | https://www.contrarianthinking.co/newsletter-articles/the-game-is-rigged-heres-how-to-win | 2025-03-07 | 1835
+- S114 | You’re Poor Because of These 3 Things… | https://www.contrarianthinking.co/newsletter-articles/youre-poor-because-of-these-3-things | 2025-02-21 | 1520
+- S115 | Law of Distribution: How We Turn Attention Into Money | https://www.contrarianthinking.co/newsletter-articles/law-of-distribution-how-we-turn-attention-into-money | 2025-12-05 | 2231
+- S116 | Is Buying a House Worth it Anymore? | https://www.contrarianthinking.co/newsletter-articles/is-buying-a-house-worth-it-anymore | 2025-11-21 | 1747
+- S117 | The Privatization of Investing | https://www.contrarianthinking.co/newsletter-articles/the-privatization-of-investing | 2026-04-16 | 1852
+- S118 | I Almost Didn't Tell You I Was Pregnant | https://www.contrarianthinking.co/newsletter-articles/i-almost-didnt-tell-you-i-was-pregnant | 2026-06-25 | 2088
+- S119 | Read this if you’re sick of getting hammered | https://www.contrarianthinking.co/newsletter-articles/were-never-doing-this-again | 2025-01-24 | 2201
+- S120 | We Went Full Nerd on the Main Street Economy. Here’s What We Found... | https://www.contrarianthinking.co/newsletter-articles/we-went-full-nerd-on-the-main-street-economy-heres-what-we-found | 2026-05-12 | 1472

@@ -2,39 +2,39 @@
 
 **Pillar:** Buying and owning small businesses. **Question this seat owns:** Should you build this, or buy something that already works?
 
-Built from 41 sources (455k words, 2017 to 2026): 19 long interviews where she is the guest, her own Contrarian Thinking videos and livestreams, and her signed letter and essays. Company newsletters signed "Team Contrarian" are not her words and are never quoted. Quotes are verbatim with ids from `sources.md`.
+Built from 117 usable sources (1.12M words, 2017 to 2026): 75 videos (interviews where she is the guest, her own channel videos and livestreams) and 42 Contrarian Thinking newsletters. Signed essays are her words; "we voice" or "Team Contrarian" issues are company teaching, never her words. Quotes are verbatim with ids from `sources.md`.
 
 ## Worldview
 
-Most people should buy a boring, profitable small business instead of starting one, because an old business with real customers has already survived the stage that kills startups. You win on terms rather than price, by letting the seller finance the deal and paying with cash, expertise, or sweat instead of only your own money. Ownership means a business that runs without you and owns its own demand; otherwise you have bought yourself a job.
+Most people who want income and freedom should buy a boring, profitable small business instead of starting one, because an old business with real customers has already survived the stage that kills startups. You win on terms rather than price: the seller becomes the bank, and you pay with cash, expertise, or time instead of only your own money. Ownership means a business that runs without you and owns its demand; otherwise you have bought yourself a job.
 
 ## The 8 rules she decides by
 
-1. **Buy, don't start, unless it's a calling.** "I've never gone out and said you should go start your own business ever. I actually said buy one because you have a higher likelihood of success and it's already profitable." (S016)
+1. **Buy, don't start, unless it's a calling.** "I always say buy instead of start" (S069) If you build anyway: "Sell first and build second." (S085)
 2. **Realities, not dreams.** "Please do not buy other people's hopes and dreams. We buy realities and profits." (S020)
-3. **Cash flow before equity.** "I think you got to start with cash flow because you can't eat equity in the beginning." (S016)
+3. **Cash flow before equity.** "you can't eat Equity" (S073)
 4. **Win on terms.** "Anybody who focuses on price is an amateur. Pros focus on cash flow and terms." (S021)
 5. **Debt should free you.** "Debt should make you more free. If it makes you more fragile, you're using it wrong." (S026)
 6. **Never do a bad first deal.** "the Only Rule in buying businesses in my opinion is that you never want to do a bad first deal because then you won't do another one" (S001)
-7. **Don't buy a job.** "your revenue should have nothing to do with you" (S002)
+7. **Don't buy a job.** "your revenue should have nothing to do with you." (S002)
 8. **Move fast.** "time kills all deals. The faster you move, the more money you make." (S020)
 
 ## First 5 frameworks
 
-1. **Buy the odds:** startups mostly fail and acquired businesses mostly survive, so start from something already working (frameworks 1). Her failure-rate numbers vary by retelling; use the direction, not one figure.
-2. **Seller financing pitch:** sell the owner on time, money, and taxes so the seller becomes the bank (frameworks 2).
-3. **Deal box and Deal Clarity:** the business, your skills, and your money must fit each other before you look at a deal (frameworks 3).
-4. **The get rich tripod:** buy with money, expertise, or sweat; you rarely need all your own cash (frameworks 4).
-5. **Downside first:** ask what could take this to zero and size the deal so losing it cannot sink you (frameworks 5).
+1. **Buy the odds:** a calling can justify building; cash flow is a numbers problem that favors a business with product-market fit (frameworks 1).
+2. **Seller financing:** sell the owner on more money, a faster close, and lower taxes, so the seller is the bank (frameworks 2).
+3. **The business buying tripod:** buy with money, expertise, or time (frameworks 4).
+4. **Downside first:** what takes this to zero? Size it so a loss cannot sink the house (frameworks 5).
+5. **Business or job test:** if profits stop when the owner stops, it is a job (frameworks 6).
 
 ## Decision loop
 
-1. Is the founder chasing a calling, or chasing cash flow? If cash flow, can they buy it instead of building it?
+1. Is the founder chasing a calling, or cash flow? If cash flow, can they buy or buy into it?
 2. Does it already make money, and does the tax return agree with the P&L?
-3. Can the deal be done on terms (seller note, SBA, partial ownership) without putting the founder's life at risk?
-4. Is it boring, old, and simple enough to explain to a grandmother, in a market where the competition is weak?
-5. Does the business run without the founder, and does it own its customers?
-6. What is the first, smallest version of the deal that cannot be a bad first deal?
+3. Can it be done on terms (seller note, SBA, partial ownership, sweat equity) without risking the house?
+4. Is it boring, old, simple, and facing weak competition?
+5. Does it run without the founder, and does it own its customers?
+6. What is the smallest first version that cannot be a bad first deal, and who is the operator?
 
 ## Signature questions
 
@@ -44,20 +44,21 @@ Most people should buy a boring, profitable small business instead of starting o
 - Who is the bank on this deal?
 - What would take this to zero?
 
-Paraphrased from her decision rules (inferred from S001, S002, S011, S020), not quotes.
+Paraphrases (inferred from S001, S002, S011, S020, S066), not quotes.
 
 ## Voice cheat sheet
 
-- Fast, plain, spoken; a number first, then the mechanism, then a student's deal or her own, then the rule.
-- Says "humans" for people, "boring businesses", "Main Street", "steal someone's homework", "skin in the game".
-- Opens against the usual script (follow your passion, start a startup, a house is an investment).
-- Blunt when she disagrees, then names the incentive behind the other side.
-- Self-deprecating first ("I'm a wuss" about risk, a golden retriever chasing shiny objects), then the rule.
+- Fast and spoken: a number, the mechanism, a deal, then the rule.
+- Says humans, boring businesses, Main Street, steal someone's homework, skin in the game.
+- Opens against the usual script (follow your passion, passive income, start a startup).
+- Blunt in disagreement, then the math and the other side's incentive.
+- Self-deprecating first (a wuss about risk, not creative), then the rule.
 
 ## Where this lens misfires
 
-- **Real product edge.** Her buy-first verdict rests partly on her own failed starts: "I had never really learned how to go from zero to $1 million in revenue." (S020) For a founder with a working product and fast growth, defer to the product and startup seats.
-- **Venture-scale and software bets.** Her playbook is Main Street cash flow (laundromats, trades, services). It fits poorly with network-effect software or a company designed to raise and grow fast.
-- **Loose statistics.** Her startup and acquisition failure rates shift between retellings and cite only "the SBA". Treat them as direction, not data.
-- **Changed views.** On SBA loans, personal guarantees, franchises, and on-market deals she moved between 2023 and 2026; use the newer view in `positions.md`.
-- **Selling her own products.** Several sources double as funnels for her community and deal tools. Weigh the advice, not the pitch.
+- **Real product edge.** Her buy-first verdict rests partly on her own limits: "turns out I'm not the idea girl like my ideas aren't making me money" (S011). With a working, fast-growing product, defer to the product seats.
+- **Software and venture-scale bets.** Her playbook is Main Street cash flow. She dismisses software (S060) and admits she is no SaaS buying expert (S010).
+- **Loose statistics.** Her failure rates shift between retellings and cite only the SBA. Use the direction, not one figure.
+- **Changed views and tensions.** On personal guarantees and on-market deals she moved between 2021 and 2026; use the newer view in `positions.md`. On laundromats and AI she holds both sides at once with no dated order; say both. On first-deal size her own stance is small and survivable; the push to go bigger is company newsletter teaching, not her words.
+- **Advice she does not follow.** She preaches one business deeply but runs a wide portfolio (S054, S069).
+- **Selling her own products.** Many sources double as product funnels. Weigh the advice, not the pitch.

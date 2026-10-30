@@ -1,273 +1,301 @@
 # Positions: Codie Sanchez
 
-Built from the batch notes over 41 sources (S001 to S043, 2017 to 2026). 40 topics, weighted to buying and owning small businesses. Each stance has a verbatim quote, source id, and date (YouTube upload month or newsletter month; see `sources.md`). Where her view changed, the versions sit side by side with dates and the newer one is marked. Where her numbers differ between retellings, the spread is shown instead of one figure. S032, S033, S034, S036, S037, S038, S039, S042, and S043 are her company's newsletter (signed "Team Contrarian"), not Codie; they appear only as labeled company teaching and are never quoted as her words. Topics with no evidence say so.
+Built from the batch notes over 117 usable sources (S001 to S120, minus S045, S091, S092, 2017 to 2026): long interviews and podcasts, her YouTube channel, and the Contrarian Thinking newsletter. 40 topics plus a short list of gaps, weighted to buying and owning small businesses. Each stance has a verbatim quote, source id, and date (upload date or newsletter month; many podcast and channel sources, S042 to S090, carry no date and are marked undated). Where her view changed and her own dated words show the order, the versions sit side by side and the newer one is marked; where the dates do not show an order, the topic is shown as a tension without a direction. Where her numbers differ between retellings, the spread is shown instead of one figure.
+
+Voice note: the newsletter issues S030 to S032, S034 to S037, S040, S041, S093, S094, S096, S098, S100 to S105, S108, S110, S112 to S117, S119, and S120 are written in the company "we" voice and some are signed Team Contrarian. They are marked "(newsletter, we voice)" and read as company teaching she publishes, not as her spoken words. S028, S029, S033, S038, S039, S095, S097, S099, S106, S107, S109, S111, and S118 are signed "Codie" and read as hers.
 
 ## Build or buy (the seat's question)
-- **Stance:** Buy, for almost everyone who wants income and freedom. Start only if the dream is so strong you cannot sleep, or if you have an unfair advantage. Consistent from 2021 to 2026 (S006, S010, S016, S035).
-  - "I typically like to buy not build" (S027, 2023-09)
-  - "I've never gone out and said you should go start your own business ever. I actually said buy one because you have a higher likelihood of success and it's already profitable." (S016, 2026-08)
-  - "I'd rather find a business already doing a million dollars and figure out how to own it" (S035, 2026-10)
-- **Why:** a business with product-market fit has already removed the risk that kills startups. "if you already find a company that's has product market fit, people want it, it's positive cash flowing. You've de-risked your business by like 40 to 50%." (S010, 2023-11) "the biggest reason why startups fail is they never hit product market fit." (S010, 2023-11) "I like buying them because I don't like risk and I want to make money day one." (S022, 2024-04)
-- **The exception she allows:** "sleep for the want of it then do that that should be your startup if you just want cash flow this is the path for you" (S015, 2023-07) "If that's true, go do it. Go do the startup." (S007, 2024-12) "Boring business all day long. Unless you're a total masochistic psychopath and you want to create one, then go for it." (S016, 2026-08)
-- **Her own limit behind the view:** "I had never really learned how to go from zero to $1 million in revenue. That part, I think, is very hard." (S020, 2025-08) "turns out I'm not the idea girl like my ideas aren't making me money" (S011, 2024-12)
-- **Read:** her buy-first verdict rests partly on her own failed starts and on statistics she quotes loosely (next topic). Weigh it as a practitioner's bias with good reasons, not as proof that building is wrong for a founder with a real product edge.
+- **Stance:** Buy, for almost everyone who wants income and freedom. Start only if the idea keeps you up at night, or if you hold an unfair advantage. Consistent from 2021 to 2026 (S006, S010, S016, S022, S033, S053, S090).
+  - "Buy all day long. 90% of businesses fail. Businesses you buy have a 13% failure rate on average according to the SBA. The math just speaks for itself." (S016, 2026-08)
+  - "I didn't get rich that way. I wasn't smart enough to come up with the most brilliant idea." (S022, 2024-04)
+  - "I'd rather find a business already doing a million dollars and figure out how to own it." (S033, 2026-10)
+  - "if what you really want is profits if you want to make money on something then I think you have a higher likelihood of making money if the thing is already making money" (S053, undated)
+- **Why:** a business with product-market fit has already removed the risk that kills startups. "the biggest reason why startups fail is they never hit product market fit. The second biggest reason is they run outta cash." (S010, 2023-11) Buying also answers the hard questions up front: what to sell, to whom, at what price, and how to deliver it (S033, 2026-10, paraphrase). Banks lend against a bought business and not against a startup: "The government will loan you up to 90% of the purchase price." (S021, 2026-06)
+- **Media bias she pushes against:** building gets the glory, but for someone whose goal is income rather than changing the world, "there's so many better ways to do it" than a startup (S006, 2021-04). Her own record says the same: "I tried the sexy things websites and I wasn't very good at them" (S005, 2023-10).
+- **The exception she allows:** "if you are a crazy person that has an idea you can't sleep for the want of, then raise the capital. Do the wild thing" (S062, undated) "Boring business all day long. Unless you're a total masochistic psychopath and you want to create one, then go for it." (S016, 2026-08) She also sorts people into three entry types: never run a business (franchise), managed teams and want independence (buy), open to high risk (startup), and says "you just need to know which one you're at" (S043, undated).
+- **Her own limit behind the view:** "turns out I'm not the idea girl like my ideas aren't making me money" (S011, 2024-12) She calls herself not creative enough to start from scratch (S065, undated, paraphrase) and a deal maker, not an inventor (S068, undated, paraphrase).
+- **Read:** the buy-first verdict rests partly on her own failed starts and on statistics she quotes loosely (next topic). Weigh it as a practitioner's bias with good reasons, not as proof that building is wrong for a founder with a real product edge or a real distribution edge (inferred from S004, S011, S065, S069).
 
 ## Startup odds versus buy odds (her numbers vary)
 - **Stance:** bought businesses fail far less often than startups. The figures shift between retellings, so treat them as rhetorical anchors.
-  - Startups: "90% of them fail within a 5 to 10 year period" (S002, 2026-09); "startups have let's call it a 90% failure rate over any 10-year rolling period" (S011, 2024-12).
-  - Bought businesses: "13% of those businesses fail per year" (S002, 2026-09, said of SBA-backed acquisitions); "Businesses you buy have a 13% failure rate on average according to the SBA." (S016, 2026-08, no "per year"); "while 90% of startups fail, 80% of acquisitions survive the first year." (S020, 2025-08); S011 (2024-12) gives 25% failure at the high end and 5% at the low end over ten years; S027 (2023-09) says 75% of small businesses fail, which describes a different group.
-- **Read:** 13% "per year" and 13% "on average" are different claims, and 80% first-year survival implies a third rate. She gives no source beyond "the SBA". Use the direction (buying is lower risk), not a single number.
+  - Startups: "90% of them fail within a 5 to 10 year period" (S002, 2026-09); "startups have let's call it a 90% failure rate over any 10-year rolling period" (S011, 2024-12); 30 to 40% die from no product-market fit (S054, undated) versus 60% from no product-market fit and 20% from cash (S044, undated).
+  - Bought businesses: "13% of those businesses fail per year" (S002, 2026-09); "13% failure rate on average" (S016, 2026-08, no "per year"); "while 90% of startups fail, 80% of acquisitions survive the first year." (S020, 2025-08); single-digit failure on SBA acquisition loans (S043, undated, paraphrase); about 80% continuation for a business running three or more years (S057, undated, paraphrase).
+  - Side starts: "It's actually the one that does it on the side. 33% higher likelihood of success." (S062, undated)
+- **Read:** 13% "per year", 13% "on average", 80% first-year survival, and "single digits" are four different claims, and she cites no source beyond "the SBA". Use the direction (buying is lower risk), not one number. She herself says the odds are not destiny: you can still fail in a business you buy (S018, 2024-12, paraphrase).
 
 ## When starting is right, and how to test it
-- **The cost she warns about:** "The average startup costs you somewhere from $20,000 to $100,000 to start." (S007, 2024-12) Winners pay with years of low income: "the ones that do win, that means you paid for the right to one day eventually make some money for three to four years" (S002, 2026-09) "it's easier to start a business than it's ever been. It's harder to have a profitable business." (S007, 2024-12) No freedom expected in years one to three (S016, 2026-08, paraphrase).
-- **Stance:** if you start, get dollars before you build, keep your salary, and pick a business that is start-friendly.
-  - "go see if you can get investors to back you or people to pre-order your stuff" (S012, 2024-09)
+- **The cost she warns about:** "The average startup costs you somewhere from $20,000 to $100,000 to start." (S007, 2024-12) "the average founder of a startup only makes $60,000 a year" (S043, undated) No freedom expected in years one to three (S016, 2026-08, paraphrase).
+- **Stance:** if you start, get money before you build, keep your salary, and pick a business that is friendly to starting.
   - "go and ask three people if they'd pay for it. Then take their credit cards and see if they'll pay for it." (S004, 2026-09)
-  - "I think you should keep your salary if you're going to start a business and fund your business from your salary." (S016, 2026-08)
-- **Start-friendly versus buy-only (2026-06 tier list):** landscaping, mobile car wash, and paint can be started cheaply; laundromats and agencies should be bought. "you can rent laundry space, but you do not start this business" (S025) "D tier to start unless it's really going to be a job, not a business." (S025) E-commerce only with an unfair advantage such as an audience or your own product (S025).
-- **Where not to start from:** "Do not start a business from your pain. I actually fully disagree with that." (S004, 2026-09)
-- **Venture-style startups are for the young:** "you can handle that when you're young and you can do it and you should and thank God people do" (S012, 2024-09)
+  - "you keep your job, you do really well at that job while you're doing it. You use your salary to fund your side hustle or your next venture." (S046, undated)
+  - Spencer pre-sold a trash route before buying a truck (S011, S025, S085, S090, S102); see `stories.md`.
+- **Start-friendly versus buy-only (2026-06 tier list):** painting and trash removal are S-tier, landscaping B-tier, laundry A-tier to own, e-commerce F-tier without an audience or your own product, and a digital agency from scratch is D-tier: "Starting an agency from scratch right now, hard pass." (S025, 2026-06) "you can rent laundry space, but you do not start this business" (S025, 2026-06) Lead generation is one of the lowest-risk starts, with no equipment and no labor (S086, undated, paraphrase).
+- **Where not to start from:** "Do not start a business from your pain. I actually fully disagree with that." (S004, 2026-09) "Don't chase cool. We chase cash flow." (S085, undated)
+- **Building from scratch where a buy exists:** a laundromat couple built from scratch, spent $2 million, ran nine months late, and nearly went bankrupt (S090, undated); see `stories.md`.
 
 ## What to buy first
-- **Stance:** profitable, old, simple, boring, not a turnaround, and small enough that losing it hurts but does not ruin you.
-  - "I buy realities not dreams they have to be profitable businesses I don't do turnarounds" (S012, 2024-09)
-  - "Please do not buy other people's hopes and dreams. We buy realities and profits." (S020, 2025-08)
-  - "I try to buy a nice house on a normal block" (S011, 2024-12)
+- **Stance:** profitable, old, simple, boring, not a turnaround, close to home, and small enough that losing it hurts but does not ruin you.
   - "the Only Rule in buying businesses in my opinion is that you never want to do a bad first deal because then you won't do another one" (S001, 2024-08)
-  - "your first deal doesn't need to make you wealthy. It just needs to teach you" (S035, 2026-10)
-- **Screens:** SOWS, stale, old, weak, simple (S014, S018); five to ten years of history (S011); at least a 15% margin (S020); explainable to your grandmother (S010, S012, S022).
-- **Size:** "I'd be annoyed at that, but it's not going to bankrupt me" (S007, 2024-12). Her company newsletter (S034, 2026-05, team voice) leans the other way and warns that buyers who think too small take hidden risk; that is company teaching, not her words.
+  - "I want it to be so easy, I can explain it to my grandmother, and if it's not that, then there's already enough risk in business and execution and humans." (S010, 2023-11)
+  - "we don't invest in other people's dreams we invest in actual realities that exist today" (S074, undated)
+  - "you just want to protect the house, especially your first deal." (S056, undated)
+  - "the first time you do a deal, or at least I'll say when I first do a deal, I want geographic proximity." (S062, undated)
+- **Screens:** older owner and longer history, the Lindy effect (S014, S018, S043, S085); no complex, proprietary, or patent-pending business first, so deal learning and industry learning stay separate (S020, 2025-08, paraphrase); a payback of three to five years on the money down (S010, 2023-11, paraphrase).
+- **Size (her stance, not a change):** keep the first deal small enough to survive and big enough to pay. "it was like little enough for me to feel okay with it and it was also big enough where I could make real income" (S018, 2024-12). Her own words show no later move away from this.
+  - Context, not her words: a company newsletter tells buyer stories where going small to cut risk proved riskier and size should follow fit (S032, 2026-05-26, newsletter, we voice). Bill Perkins asked whether small had infected her thinking (S003, S008, S015, S042). Use these as a push to check that small is not too small, not as her change of view.
+- **Laundromats (tension, no dated order):** she made them famous as a "gateway drug" (S001, S005, S057), then said they are a terrible business if you are good at business (S005, 2023-10, paraphrase), that they are not a path to millions (S059, undated), that you should not start them (S053, undated), and that the laundromat was actually a terrible first business to recommend and she uses it because it is easy to understand (S042, undated, paraphrase). Multiples rose from 2 to 3x to 4 to 7x after she talked about them, and she concedes she may have made a mini bubble (S010, S060, S072). The sources do not show an order: S005 (2023-10) holds both the praise and the warning, and the rest are undated. Read it as one view held at once: the laundromat is a teaching example and a gateway, not the default buy.
 
 ## Turnarounds and distressed businesses
-- **Stance:** no turnarounds for a first deal, and she avoids them herself after cannabis PE turnarounds (S011).
+- **Stance:** no turnarounds for a first deal; she avoids them herself after cannabis turnarounds that nearly broke her (S011).
   - "turnarounds take a lot of work. And so I wouldn't recommend somebody does that for their first deal." (S010, 2023-11)
   - "we don't buy turnarounds you're not a pro so we don't do pro level things yet in business buying" (S027, 2023-09)
-  - "Once you become a pro, you can buy the complex business, you can do the crazy deal." (S022, 2024-04)
-- **The workaround:** buy a failing business's customers, not the business, on a revenue share. "that's how i would buy distressed assets i wouldn't spend a dime" (S006, 2021-04)
+  - "I buy realities not dreams they have to be profitable businesses I don't do turnarounds" (S012, 2024-09)
+- **The workaround:** buy a dying business's customers, not its problems, on a revenue share. "that's how i would buy distressed assets i wouldn't spend a dime" (S006, 2021-04)
 
 ## Which sector or niche
-- **Stance:** she refuses to name a best sector; the right deal depends on the buyer's money, skills, and goals.
-  - "everybody always asks me like what's the best sector to buy and I'm like that's a dumb question" (S005, 2023-10)
-  - "Is it a good deal or a bad deal? And is it a good deal or a bad deal for you?" (S021, 2026-06)
-- **But she does rank:** home and professional services with little capex (S023); service businesses with low upfront capital (S001). Against: restaurants ("Don't buy a restaurant, they're hard." S007; "I hate restaurants." S010, while owning small restaurant stakes and calling herself a hypocrite, S010), dry cleaners for cleanup risk (S010, S023), and AI companies for a first buy ("I don't want to try to go buy an AI company right now. Too sexy, too expensive." S020, 2025-08).
-- **Niche over broad:** "I didn't try to be as everything to everybody" (S011, 2024-12) "Specialization is harder to replace." (S025, 2026-06)
+- **Stance:** she refuses to name a best sector; the right deal depends on the buyer. "everybody always asks me like what's the best sector to buy and I'm like that's a dumb question" (S005, 2023-10) "Is it a good deal or a bad deal? And is it a good deal or a bad deal for you?" (S021, 2026-06)
+- **But she does rank:** for home and professional services with low capex and license moats (S023, 2024-12); bookkeeping for recurring revenue: "right now I'm buying accounting firms. Typically just bookkeeping." (S057, undated).
+- **Against:** restaurants, retail, hotels, Amazon FBA, vineyards, consulting, and pure AI companies (S047, S061, S068); dry cleaners for chemical cleanup risk (S010, S023); "I don't want to try to go buy an AI company right now. Too sexy, too expensive." (S020, 2025-08) She owns small restaurant stakes anyway and calls herself a hypocrite (S010, 2023-11, paraphrase).
+- **Platform risk as a screen:** "anything where a single platform can control my ability to reach my end clients I'm uninterested" (S061, undated)
+- **Niche over broad:** "Specialization is harder to replace." (S025, 2026-06) Fragmented markets where no player holds more than 5% are an invitation (S078, undated, paraphrase).
+- **Read:** her lean away from software is a blind spot for a founder whose edge is software; she admits she is "not an expert on buying SaaS" (S010, paraphrase) and says SaaS needs a real problem and the hard part is distribution (S082, undated, paraphrase).
 
 ## Boring versus sexy
-- "the ones that started making me real money were the boring ones like I tried the sexy things websites and I wasn't very good at them" (S005, 2023-10)
 - "The sexier the business, the less money you make. The more boring business, the more money you make." (S024, 2025-05)
-- "hot makes people confuse attention for value, when most people should be focused on value (being fit) over attention (being hot)" (S040, 2026-05)
-- She concedes "Some of these waves are real." (S040, 2026-05)
+- "boring equals consistent and consistent is freedom" (S082, undated)
+- "I think you have a higher likelihood of failing in the AI sector than you do in AER matter Car Wash." (S049, undated)
+- "Hot gets crowded. Hot attracts tourists." (S038, 2026-05, newsletter, signed Codie) The same issue concedes the AI wave is real and a fit business does not need a trend to exist (S038, paraphrase).
+- **Read:** she was embarrassed by the boring label for years before it became her brand (S013, S048, S056).
 
 ## Price, terms, and valuation (her multiples vary)
-- **Stance:** terms beat price. "Anybody who focuses on price is an amateur. Pros focus on cash flow and terms." (S021, 2026-06) "there's only two levers you can pull price and terms most amateurs obsess on price" (S018, 2024-12)
-- **Multiples across retellings:** "most of these small businesses sell from anywhere from 2 to 6X The Profit" (S008, 2023-09); "I buy businesses for three to five x profits" (S013, 2023-07) and "typically I can get them for two to three x with structuring the deal" (S013); roughly 3 to 5x profit in S014 (2024-12); "most businesses sell for two to 3x revenue or two to 3x profit if they're smaller businesses" (S020, 2025-08).
-- **Read:** the 2 to 3x revenue line (S020) is out of line with every other telling; her working range is 2 to 5x profit or SDE, pushed down through terms.
-- **Price to the tax return:** "we want the financials and p&l to somehow match the tax return or decrease the price" (S014, 2024-12) "I think five to 10% of businesses run a clean profit and loss statement." (S010, 2023-11) Payback target of three to five years on money down (S010, paraphrase).
+- **Stance:** terms beat price.
+  - "anybody who focuses on price is an amateur. Pros focus on cash flow and terms." (S021, 2026-06)
+  - "you can have your price and my terms or my terms and your price but you can't have both" (S018, 2024-12)
+  - The $1 a day billion-dollar offer: "I am going to pay you a dollar a day until I pay off the billion dollars. Is that a good deal now or a bad deal?" (S007, 2024-12)
+- **Multiples:** "The average price when you buy a business is two to three X profits." (S058, undated) Other tellings: 1 to 3x (S061, S064), 3 to 5x fair market with a 2 to 3x target reached through terms (S013, 2023-07, paraphrase), laundromats now 4 to 7x (S060, S072). Value on profit, never revenue or projections (S058, S074).
+- **Verify with tax returns, not P&Ls,** because sellers do not overpay the IRS (S066, undated, paraphrase).
+- **Margin over size (company teaching):** a 25% margin on $2M beats an 8% margin on $6.25M at the same $500K profit (S030, 2026-03, newsletter, we voice, paraphrase).
 
 ## Seller financing
-- **Stance:** her default tool from 2021 onward.
-  - "Seller financing is just removing the bank." (S020, 2025-08)
-  - "the three things are time money and taxes" (S018, 2024-12)
-  - "once I understood how to pitch seller financing properly so that it was a win-win our ratio of people taking seller financing went up about 100%" (S014, 2024-12)
-  - 2023: "I can just work direct with the seller" (S008, 2023-09)
-- **Share of deals (varies):** "sixty percent of small businesses are sold using what's called seller financing" (S008, 2023-09); "60% of all businesses sold are sold with some portion of seller financing" (S018, 2024-12); S021 (2026-06) attaches the same 60 percent to SBA loans instead.
-- **Speed (contradiction):** S014 and S020 pitch seller financing as the faster close (about 30 days against 90 to 120 for a bank), while S011 (2024-12) says bank financing is faster and more expensive and seller financing slower and potentially cheaper.
-- **Limits:** she calls a 0 percent seller note "not normal" (S021), and says US sellers often want cash up front (S022).
+- **Stance:** her preferred tool. The seller is paid from the business's future profits, often with no personal guarantee.
+  - "seller financing just means this that the seller uses a a percentage of future profits to let somebody else buy the business" (S001, 2024-08)
+  - "you need to pay me three hundred thousand for my business why don't you pay me 300 000 over five years so that you can take from the hundred thousand dollars profit the payment you're going to give me" (S008, 2023-09)
+  - "A seller with no buyer lined up will take a creative deal over no deal at all and that will be your gain." (S025, 2026-06)
+- **How common (her numbers vary):** 60% of lower-middle-market sales include some seller financing (S001, S026, S043, S053) versus "present in 16%" of small business sales in one telling (S064, undated). Sellers agree because they earn a steady return on the note (S058, paraphrase).
+- **Caution:** slightly less normal for online businesses (S020, 2025-08, paraphrase).
 
-## SBA loans and bank debt (changed)
-- **2023:** wary. Buyers hurt themselves when "they take on too much debt like an A big SBA loan or something like that." (S010, 2023-11) Seller financing meant "I don't have to take debt on the business" (S008, 2023-09).
-- **2025:** teaches SBA as normal; her student Lloyd put $30K down with an SBA loan on a laundromat (S020, 2025-08).
-- **2026 (newer):** SBA is one of four headline ways to buy. "The government will loan you up to 90% of the purchase price." (S021, 2026-06) Of SBA purchase math: "This might be the biggest debt hack you can take away." (S026, 2026-08) She keeps the guardrail: "Buy below what the bank approves you for, keep cash after closing, do not assume refinancing will save you." (S026, 2026-08)
-- **Read:** from SBA debt as the main way buyers over-lever (2023) to SBA as the lead tool (2026), with the same warnings kept. Starting gets no such loan; for a startup it is "harder to get a loan than when you buy one." (S021, 2026-06).
+## SBA loans and bank debt
+- **Stance:** a powerful tool she respects, with the personal guarantee taken seriously.
+  - "you can go, anyone can go and apply to have an SBA loan, and they're extremely attractive terms" (S058, undated)
+  - The bank can come after your house and assets if the business fails; only take a guaranteed loan on a business you understand and have stress-tested (S026, 2026-08, paraphrase). SBA loans are personally recourse and her name is on the line (S058, undated, paraphrase).
+- **Seller financing first when possible:** she runs the same Texas lawn care deal both ways and the seller-financed version leaves about $135K more over ten years (S026, 2026-08); see `stories.md`.
+- **Market note (company teaching):** SBA 7(a) approved a record 78,078 loans in the latest year (S120, 2026-05, newsletter, we voice, paraphrase), yet PE money means SBA buyers chasing $1M+ EBITDA will be outbid (S093, 2026-01, newsletter, we voice). "In 2026, capital alone likely won't win you deals. Credibility, relationships, and the agency to close will." (S093, newsletter, we voice)
 
-## Personal guarantees (changed)
-- **2023:** "I would never want to do a personally guaranteed loan on my first deals" (S027, 2023-09) "you don't always have to have a personal guarantee" (S027, 2023-09)
-- **2026 (newer):** teaches SBA loans that may need a guarantee, names it as the downside (S021, 2026-06, paraphrase), and warns: "If you buy a business with an SBA loan, and it goes out of business before the loan is repaid, the SBA will come after everything that you own." (S026, 2026-08)
-- **Read:** she never endorses a guarantee. She moved from "avoid it on early deals" to "accept it with eyes open".
+## Debt and leverage (changed in tone)
+- **Earlier, cautious:** "I don't really like debt a ton" (S010, 2023-11); no single deal should be able to take her out (S010, S057).
+- **Newer, pro good debt:** "You're not going to get rich without using debt." (S026, 2026-08) "Poor people have the wrong type of debt and rich people have all the best type of debt and one of our missions is to change that." (S021, 2026-06) "the people who are the richest in the world, they all have some debt, just good debt as opposed to bad debt." (S046, undated)
+- **The test she gives:** can you explain the debt's logic to someone smarter and richer (S048, undated, paraphrase); borrow against stock only at 20 to 30% loan to value (S026, paraphrase).
+- **Read:** the line did not flip; the emphasis moved from surviving debt to putting it on cash-flowing assets as her audience moved from first deals to financing (inferred from S010, S021, S026).
 
-## Debt and leverage
-- **Stance:** debt is a tool for buying assets, never for funding a life, and no single deal should be able to take you out.
-  - "You're not going to get rich without using debt." (S026, 2026-08)
-  - "Debt should make you more free. If it makes you more fragile, you're using it wrong." (S026, 2026-08)
-  - "typically you don't want a leverage ratio uh that is bigger than 30% uh in acquisitions." (S021, 2026-06)
-  - "I don't want any investment to be able to take me out at any point" (S010, 2023-11)
-  - "no deals that you could lose more than 20 percent of your net worth on" (S027, 2023-09), later closer to 5% (S027).
-  - "you want to almost avoid bankruptcy at all costs most people never recover from it" (S003, 2023-10)
-
-## On-market versus off-market deals (changed)
-- **2023:** "I typically don't do on market deals like that." (S010, 2023-11)
-- **2024:** a trade-off. "If I have more money, less time, I might want to go on-market to find deals." (S022, 2024-04) "an off-market deal takes longer to find but is often times a better deal" (S018, 2024-12)
-- **2025 to 2026 (newer):** teaches both, with on-market search through BizScout, while saying off-market "these are where most deals are today." (S020, 2025-08)
-- **Read:** she built and funds BizScout, an on-market marketplace (S014, S028, S035), so her move toward on-market search carries a commercial interest.
+## On-market versus off-market deals
+- **Stance:** off-market gives better price and leverage; on-market is faster and has ready sellers. She prefers off-market (S022, 2024-04; S020, 2025-08).
+- **Her own thesis shifted:** she expected cold sourcing and found most deals come by referral (S006, 2021-04, paraphrase). Deal flow is not scarce: her marketplace had 30,000 listings at launch (S014, 2024-12).
+- **Find them through people who already trust you:** "Your amount of opportunity will always be limited by your ability to recognize it." (S020, 2025-08)
 
 ## Brokers and middlemen
-- "do not use a broker for the buy side. I do not recommend them at all." (S020, 2025-08)
-- A paid buy-side searcher only makes sense around $5M deals and up (S022, 2024-04).
-- "we've let these middlemen make the transactions harder and we've let these middlemen make the transactions more expensive" (S011, 2024-12)
-- Her company newsletter (S033, 2026-02, team voice) gives a sell-side broker guide by deal size; company teaching, not her words.
+- **Buy side:** "I would say do not use a broker for the buy side. I do not recommend them at all." (S020, 2025-08)
+- **Sell side (company teaching):** use a business broker under $1M, a Main Street broker from $1M to $10M, and an M&A advisor above $10M (S031, 2026-02, newsletter, we voice, paraphrase).
+- **Working with listing brokers:** "Be good. Be brief. Be gone." (S020, 2025-08)
+- **Read:** she distrusts intermediaries who are paid on spend or on the seller's side (banks, agencies, buy-side brokers; S011, S039) but used a loan broker for SBA specifics (S066, undated, paraphrase).
 
-## Franchises (changed)
-- **2021:** for a pack-and-ship store, drop the franchise fee, which ate about 25% of profit (S006, 2021-04).
-- **2023:** "I don't like to own these things I like to know what they're up to" (S027, 2023-09). The same year she tried to buy a Halloween Express franchise (S005, 2023-10).
-- **2024 to 2025 (newer):** she bought window cleaning and paint companies set up as franchises because "I want to create like a mountain of owners" (S011, 2024-12), in the same breath calling franchises a lot of work and a tough business (S011). The ResiBrands franchise group became a holding company investment (S028, 2025-02).
-- **Read:** she owns franchisors, not franchise units, and frames it as mission. Inferred from S011, S027, S028.
+## Franchises
+- **Stance:** fine for someone who has never run a business; not her preference. "I typically like to buy not build, so be careful and choose your franchise wisely." (S027, 2023-09) Franchises fail less because they screen owners, lock the operating system, and keep oversight (S051, undated, paraphrase).
+- **To franchise your own business (company teaching):** "If the business only works because you're in the building, you don't have a franchise." (S105, 2026-08, newsletter, we voice)
 
-## Finding deals
-- **Stance:** build your own pipeline, mostly off-market, starting with businesses you already pay.
-  - "It's you turning your costs into profits." (S020, 2025-08)
-  - "I want you to start telling people that you buy businesses." (S022, 2024-04)
-  - "the one who turns over the most rocks wins" (S020, 2025-08)
-  - "time kills all deals. The faster you move, the more money you make." (S020, 2025-08)
-- **Funnel numbers vary:** 100 looked at for one bought (S001, 2024-08); 50 to 1 (S020, 2025-08); 100, 50, 10, 1 (S023, 2024-12); "the average buyer looks at about 30 businesses before making an offer." (S022, 2024-04)
-- **Content as deal flow:** "The number one reason that I create YouTubes non-stop, if you haven't seen me say this before, is because I am increasing deal flow of small businesses to me." (S022, 2024-04)
+## Finding deals and the seller's motive
+- **Stance:** volume first. Review about 100 to buy one (S001, S020). "So, 35 deals in one vertical to get one seller financing deal done." (S022, 2024-04) Start with your own vendors and your own Venmo and card statements (S001, S010, S020).
+- **Sellers care about more than price:** "most of these sellers, they're burned out, maybe they're sick, maybe they're going through divorce, they want to retire to Florida... sometimes they don't care about the purchase price." (S020, 2025-08) She sorts the reasons into departure, divorce, disease, disagreement, distress, death, and dullness (her Seven Ds, S020, 2025-08).
+- **Reality check (company teaching, 2026):** the silver tsunami has not come as cleanly as forecast; many sellers have messy books and old price anchors (S093, 2026-01, newsletter, we voice, paraphrase).
 
 ## Due diligence and seller honesty
-- "small business owners lie to you all the time" (S027, 2023-09)
-- "every time you buy a business, you're at an information disadvantage." (S010, 2023-11) In 2026 she flips the frame for a trained buyer facing a once-in-a-lifetime seller: "you are at an information advantage and they're at an information disadvantage. And that's where all the money's made." (S021, 2026-06) The seller knows the business; the buyer should know the deal.
-- "the biggest issue with buying small businesses is that you run out of cash" (S005, 2023-10)
-- "what if the worst thing happens to your business this year are you still profitable if not we pass" (S027, 2023-09)
-- "trust is not due diligence" (S035, 2026-10)
+- **Stance:** trust is not diligence. Get three to five years of tax returns, verify cash in and costs out yourself, and keep a ranked question list that grows after every bad deal (S008, S054, S066).
+- "No New Friends you know I don't do deals with new people until we've been together for a long time otherwise they go to this other person on my team and they run them through the typical due diligence" (S008, 2023-09)
+- The deal she walked from: a Chicago dental manufacturer whose profit was off by about $2M after three months and $20K in legal fees (S058, S062); see `stories.md`.
+- **Read:** her biggest losses came from people, not models, so her diligence is weighted to who as much as what (inferred from S023, S033, S049, S062).
 
 ## Partners
-- **Stance:** powerful, hard, and her weak spot.
-  - "I pick bad Partners if these characteristics are there if they're friends of mine already I let them in and I skip a bunch of stuff in the dddq" (S008, 2023-09)
-  - "no Partners get Equity up front without cash in the game never give away Equity without a vesting schedule" (S027, 2023-09)
-  - "imagine every partner you have is going to leave you" (S027, 2023-09)
-  - "find a partner who is not threatened by you winning." (S016, 2026-08)
-- She says she has done better hiring CEOs than picking partners (S012, 2024-09).
+- **Stance:** the partner choice is the mistake. Vet past behavior, wait a year with friends, and set buyout terms before any fight.
+  - "I've had partners steal from me, lie to me, defame me" (S023, 2024-12), followed by her view that it "was actually all my fault for choosing a bad partner to start with" (S023, paraphrase of the rest)
+  - "we lost several hundred thousand dollars but more important a friendship" (S044, undated)
+  - "you have to protect that because you forget that you put in all the risk and the time up front" (S064, undated)
+- **How often they fail:** about 70% (S027, 2023-09, paraphrase).
+- **Operator before deal:** "in my perfect world it's get your operator first and then together go and look for a business" (S064, undated)
+- **Spouse as partner:** "there's nothing better than working with your spouse on building something bigger than the two of you." (S047, undated) with more surface area for friction (S021, 2026-06, paraphrase).
 
 ## Keep the job or quit
-- **Stance:** keep the salary and use it to buy or start.
-  - "Use your job and your salary to buy the business." (S021, 2026-06)
-  - "your salary is like a Lifeline to oxygen above water until you learn to swim by yourself" (S027, 2023-09)
-  - "you don't leave your job until you have enough cash flow to cover" (S024, 2025-05)
-- Exceptions: cash to cover the downside, inside knowledge, or backing investors (S027).
-- **Her own years before leaving (vary):** "I kept my day job for just about 10 years before I finally left" (S027, 2023-09); "it took me 12 years of working for other people before I went and started my own thing" (S002, 2026-09); 8 to 9 years in finance before the laundromat (S011, 2024-12).
+- **Stance:** keep the salary, learn on someone else's dime, buy on the side.
+  - "I actually think you should do the opposite I think you should go learn on somebody else's dime" (S015, 2023-07)
+  - "too many people start doing entrepreneurship too early" (S001, 2024-08)
+  - Her MD's advice that the first $500K is usually lost, so lose it on a fund's dime (S047, undated, paraphrase).
+- **Not everyone should own:** "there is nothing wrong with being an employee being an employee is amazing it means that you do not carry all the risks" (S044, undated)
+- **Read:** she stayed 12 years and calls herself "a wuss" for it (S017, S048, S087), so her advice to wait sits beside regret that she waited too long.
 
-## Raising money and running funds (changed)
-- **2023:** "I've never ever raised money for any of the businesses that I invest in from my audience ever" (S005, 2023-10). "That fund model is gonna make you, the gp, the fund manager rich, but it's never gonna make the investor rich." (S010, 2023-11) "Right now I just say no to money, which is also somehow painful." (S010, 2023-11)
-- **2024 to 2026 (newer):** a small round for BizScout, "we did a really small round because I think we can run it profitably" (S001, 2024-08), then a $5M seed in April 2026 (S035). Her 2025 letter reports the first Contrarian Thinking Capital fund closed and a second coming (S028, 2025-02).
-- **Read:** her rule against raising for small businesses holds; her stance on running funds reversed between 2023 and 2025.
+## Raising money and outside investors
+- **Stance:** avoid outside capital for a cash-flowing business; keep control. She owns 100% of Contrarian Thinking and calls taking investors in her first businesses a mistake made because she could not value herself (S044, undated, paraphrase).
+  - "I am unemployable and I don't want other bosses and I think most entrepreneurs have one regret if they have success in their business and that's giving up control" (S047, undated)
+- **Venture capital:** "the biggest lie we were ever told was that a unicorn looks like a tech VCB startup where you don't make money from 3 to 5 to seven years" (S012, 2024-09) "If anybody is out there allocating aggressively to venture capital right now today, I think they're nuts." (S072, undated) Yet her husband's $10M fund was the top performer of its vintage on AngelList (S047, undated, paraphrase), and BizScout raised a $5M seed (S033, 2026-10, paraphrase).
+- **Her own caveat:** she came in with capital from 12 years in finance and says her answer might differ without it (S047, undated, paraphrase).
+
+- **Control and boards:** keep control; giving it up is the regret of successful founders (S047). Leaders decide and do not put hard calls to a vote, as with Schultz closing Starbucks stores to retrain (S076, undated, paraphrase).
 
 ## Pricing
-- **Stance:** most small businesses are underpriced; raise prices.
-  - "Most businesses are underpriced 30 to 300%." (S004, 2026-09)
-  - "If you provide enough value the the price spectrum is unlimited" (S002, 2026-09)
-  - "most small businesses should have three prices for everything" (S023, 2024-12)
-- She treats underpricing as a confidence issue more than a math issue (S002, paraphrase), and raising prices is a leg of her BRRT buy box (S008, S011).
-- **Recurring revenue:** "you guys all know that's my love language" (S025, 2026-06). Fewer than 30% of the roughly 1,600 businesses she reviewed had it, which she grades an F (S004, 2026-09, paraphrase). Adding subscriptions is a step in her roll-up recipe (S010).
+- **Stance:** almost every small business is underpriced, and the cause is confidence.
+  - "Most businesses are underpriced 30 to 300%." (S004, 2026-09; also S085, S090)
+  - "almost all owners underpric themselves and their lack of confidence shows in their pricing" (S052, undated)
+  - Of 1,621 businesses reviewed, zero were overpriced (S004, 2026-09, paraphrase).
+- **How:** price on wallet share and value, not the market; 10 to 30% of the value you drive (S002, S084, paraphrase). Raise prices 10 to 30% right after you buy (BRRT; S054 and others).
+- **Her own miss:** "I think I charged people like 499 bucks for it for a lifetime of access. What was I thinking?" (S089, undated)
 
 ## Discounting
-- "It means we are not doing discounts." (S024, 2025-05)
-- "Stop thinking like a poor person. Don't obsess over discounts. That is poor person mentality." (S021, 2026-06)
-- "a negative or low price actually could indicate low quality" (S024, 2025-05)
+- **Stance:** no discounts, especially for the rich, and none for friends.
+  - "we are not doing discounts. It means we are not doing buy now pay later campaigns." (S024, 2025-05)
+  - "I don't give discounts to friends and I never take one" (S065, undated)
+  - "Rich people want you to sell them something." (S034, 2025-09, newsletter, we voice)
 
 ## Paid ads
-- **Stance:** fix the product and own your demand before renting attention.
-  - "If the business can't sing without ads, don't turn up the volume. Fix the song." (S041, 2026-09)
-  - "You don't really own a business if you have to pay rent every month just to talk to your own customers." (S041, 2026-09)
-  - "Is there a place for paid ads? Of course." (S041, 2026-09)
-  - Earlier: "you can either spend a bunch of time creating an incredible product once or you can spend the rest of your life marketing and doing sales" (S001, 2024-08)
-- She admits she was "a little hyperbolic to get a conversation started" on this (S041).
+- **Stance:** against dependence, not against all ads.
+  - "You don't really own a business if you have to pay rent every month just to talk to your own customers." (S039, 2026-09)
+  - "you never have a marketing or leads problem you have a shitty product problem" (S001, 2024-08) If fewer than 20 to 30% of customers come from referrals or reviews, fix the product (S001, paraphrase).
+  - Small bespoke businesses are often too small for paid ads; referrals are the highest-return lever (S084, undated, paraphrase).
+- **Limit she states:** there is a place for paid ads, and when to diversify is up to the owner (S039, paraphrase). Her own event tickets were 62% organic and 38% paid (S081, undated).
 
 ## Content, audience, and distribution
-- "audience is the only permissionless version" (S005, 2023-10)
-- "the media side of the business I think of as our top of funnel" (S017, 2026-08)
-- "Every YouTube video that I do costs me money." (S024, 2025-05); in 2024 she made $360K from AdSense and spent about $1.2M on content (S025).
-- "A great product without distribution is a secret. A decent product with excellent distribution is an empire." (S035, 2026-10)
-- She keeps her media company whole: "I don't give equity and contrarian thinking my media company because I want to own my name forever" (S001, 2024-08)
+- **Stance:** audience is permissionless leverage and her deal-flow engine; content is not the business.
+  - "The number one reason that I create YouTubes non-stop... is because I am increasing deal flow of small businesses to me." (S022, 2024-04)
+  - "Every YouTube video that I do costs me money. How do I really make money? I invest in businesses." (S024, 2025-05)
+  - "it's not product that's king it's distribution that's king" (S071, undated)
+  - "all of my companies don't have outbound sales teams because we make content" (S042, undated)
+- **For others:** content alone is D-tier: "Better to focus on actually building a thing and making content around it" (S025, 2026-06, paraphrase of her list). Most people cannot copy her flywheel (S025, paraphrase).
+- **Distribution gets scarcer with AI (company teaching):** "As AI lowers the barrier for creating things, it will raise the barrier for selling things." (S115, 2025-12, newsletter, we voice)
 
-## AI
-- **2024:** "my attorneys will be out of a job before my plumbers are" (S012, 2024-09)
-- **2026 (newer):** "my plumbers, my HVAC, my laundromats, my car wash will exist longer than um accountants, attorneys, graphic designers" (S017, 2026-08) "The data says that actually AI is not that important for most small businesses, which is super counter to the narrative." (S002, 2026-09) "you need to earn the right to use AI by doing like standard business practices" (S002, 2026-09)
-- **As a buy thesis:** "Use AI to make that old business you bought run like a Ferrari" (S040, 2026-05)
-- **Limits:** "I didn't see AI coming actually like this" (S017, 2026-08); she expects robotics to disrupt some of her industries (S012).
+## Brand
+- **Stance:** a boring business can carry a loud brand. Pinks window cleaning used pink uniforms and good-looking crews to make a stale trade cultural (S047, S054, S075). Presentation multiplies perceived value, her Tiffany box point (S003, 2023-10, paraphrase).
+- Sponsorships only with companies "we own outright, we own part of, or we are massive fans of, and we use aggressively." (S050, undated)
+- **Reputation is the one unrecoverable loss:** "you can make a mistake with a dollar, but you can't make a mistake with my reputation" (S052, undated, her version of a Buffett line).
+
+## AI (tension, held at the same time)
+- **Trades outlast AI.** "my attorneys will be out of a job before my plumbers are" (S012, 2024-09) "I know for sure that my plumbers, my HVAC, my laundromats, my car wash will exist longer than um accountants, attorneys, graphic designers." (S017, 2026-08)
+- **Skeptic of AI as a first business:** "Too sexy, too expensive." (S020, 2025-08) "the contrarian take on AI today is that most people use it to become more mediocre." (S016, 2026-08) Small businesses must "earn the rights to use AI by doing like standard business practices." (S002, 2026-09)
+- **Owner-side upside:** when you own the business, "the only thing you have to think about is can AI do the work that other people used to do for me? And the answer is yes." (S021, 2026-06)
+- **No direction of change.** Her skeptical lines (S016 and S017, 2026-08; S002, 2026-09) are as recent as or more recent than her upside line (S021, 2026-06). She holds both: AI helps an owner cut labor, but basics such as response time come first, and "it would be a terrible idea to let AI run your entire business." (S002, 2026-09)
+- **Context, not her words:** company newsletters push harder on AI, with a five-year window to plug AI into inefficient businesses (S040, 2025-12-25), building around agentic workflows (S102, 2025-11-28), and using AI to create more builders rather than replace people (S103, 2026-03-19). All are newsletter, we voice; do not quote them as hers.
+- **Her own limit:** "I I have never seen anything move as fast as AI has." (S017, 2026-08) She calls herself a non-engineer on tech (S047, undated, paraphrase).
+- **Read:** in a buy decision she underwrites two sides: how much AI can strip cost out, and how exposed the core service is to AI (S093, 2026-01, newsletter, we voice; inferred also from S017, S021).
 
 ## First hire and hiring
-- "your first hires are almost always going to suck because you kind of suck when you start" (S002, 2026-09)
-- A full-time offshore VA at about $1,200 a month as the first hire (S016, 2026-08).
-- "references are super super important they're experienced or what I call proven Talent" (S012, 2024-09)
-- "hire people so hungry you're scared they might bite you" (S001, 2024-08)
-- Hire your opposite: "the biggest mistakes we usually make is we hire somebody like us because we hire people we like" (S007, 2024-12)
+- **Stance:** hire hungry, hire your opposite, score candidates, and test for 90 days.
+  - "one of our rules in hiring is hire people so hungry you're scared they might bite you" (S001, 2024-08)
+  - "my business has started to change when I hired somebody not because I liked them, but because they had the opposite skill set" (S007, 2024-12)
+  - "your first hires are almost always going to suck it because you kind of suck when you start." (S002, 2026-09)
+  - "You don't pay people annually. You pay them monthly, and you test for 90 days." (S107, 2026-09)
+- **Method:** score each candidate 0 to 5 on known, proven experience, proven industry, proven problem, and proven scale, with no 3s (S106, S107, 2026). She opens interviews with everything bad about working for her (S008, S054).
+- **Against solo:** "I think one of the most incredible things you can do is hire people they're going to drive you crazy but they're also going to mean you have a legacy" (S008, 2023-09)
 
 ## Firing
-- **2023:** "if you need a new job and this isn't the place for you I will help you find a new job I won't fire you" (S008, 2023-09)
-- **2025 to 2026 (newer):** "A bad hire we didn't cut fast enough, and it cost us." (S028, 2025-02) "Um, fire quickly." (S016, 2026-08)
-- Layoffs: "I've never had to lay off employees in my life and I don't ever want to" (S024, 2025-05)
+- **Stance:** fire fast, enforce culture on stars, and no one should be surprised.
+  - "No one should ever be surprised when you fire them. If someone is shocked when you fire them, you failed long before they did." (S076, undated)
+  - "A bad hire we didn't cut fast enough, and it cost us." (S028, 2025-02)
+- She fired an excellent employee who badmouthed a client in a team channel (S052) and a complainer whose damage took months to undo (S107); see `stories.md`.
 
-## A business, not a job
-- **Stance:** what you buy or build must run without the owner.
-  - "you don't buy a job you buy a business" (S014, 2024-12)
-  - "your revenue should have nothing to do with you" (S002, 2026-09)
-  - "if you can't walk away from your business without the business losing money during at least two weeks, you do not have a real business set up." (S016, 2026-08)
-  - "when you buy a business you are buying work don't get it twisted" (S013, 2023-07)
-- **Passive income:** "I don't believe in purely passive income" (S013, 2023-07) "the way you get passive income is years of active work" (S014, 2024-12)
+## A business, not a job (owner dependence)
+- **Stance:** a business that needs the owner is a job, and the owner is usually the bottleneck.
+  - "don't buy a job you hate because it turns out you can't leave a business like you can leave a job" (S027, 2023-09)
+  - "I wasn't the indispensable founder holding it all together, I was the bottleneck holding it all back." (S029, 2026-07)
+  - "The thing that got them the ability to be a founder ends up becoming the reason they'll never succeed." (S002, 2026-09)
+- **Evidence she leans on:** profits fell about 82% after owner deaths and retirements in one study, so most small-business value is the owner's human capital (S095, 2026-09, paraphrase).
+- **Test:** can you leave for two weeks without the business losing money, though not expected in years one to three (S016, 2026-08, paraphrase).
+- **Passive income is a myth:** it takes years of active work to get anything like passive income (inferred from S014, 2024-12).
 
 ## Focus versus a portfolio
-- **2023:** for herself, "portfolio approach because it allows me to be ADHD in a bunch of different businesses" (S005, 2023-10)
-- **2024 to 2026 (newer, for a buyer):** "your lack of focus will kill you before your competitors do" (S023, 2024-12) "One business deeply to start. Only once that's hit seven figures, eight figures maybe, do you add another one on top of it?" (S016, 2026-08) "The goal isn't to own a random collection of companies. It's to own businesses that make each other better." (S035, 2026-10)
-- **Read:** a portfolio for an experienced allocator, one business for a beginner, and a shift from diversified holdings to an ecosystem of companies that feed each other.
+- **Stance:** one main thing plus independent operators elsewhere; the advice to do one thing only is survivorship bias (S069, S071).
+  - "I own 26 businesses, but 80% of my time goes to one business, and the rest of those businesses are operating with independent operators, like a private equity model." (S057, undated)
+- **Her cost:** she says she never had one big exit, only many six and seven figure ones (S069, undated, paraphrase), and admits she cannot keep her hands out of many pots (S054, paraphrase).
+
+- **Side projects:** one main thing plus one side piece, never three at once (S069, undated, paraphrase). Side starts beat all-in starts by 33% (S062). Learn deals with $5K to $10K buys like small newsletters first (S053, undated, paraphrase).
 
 ## Buying a capability instead of building it (existing owners)
-- **Stance:** if you already run a business and need a product, team, or channel, look to buy it first.
-  - "I have a problem how could I buy an almost guaranteed solution to this problem buy who how" (S014, 2024-12)
-  - "I would do more strategic Acquisitions than I would Diversified Acquisitions" (S014, 2024-12)
-  - "some of the best people for Acquisitions are people who already own businesses because you already know how to run them" (S011, 2024-12)
-- She buys vendors her companies already pay (a 24/7 chat business, podcast production), crediting Amazon's approach (S010, 2023-11).
+- **Stance:** owners should buy customers, tools, and vendors before building them.
+  - "Acquisitions are the hack to fast growth like I have never heard of a billion doll company that has acquired zero things" (S044, undated)
+  - Ask how you can buy a guaranteed result instead of how you can fix it (her three-level entrepreneur frame, S068, undated). "I forget my own homework all the time I revert back to the how constantly" (S014, 2024-12)
+  - Buy a competitor's customer list, a retiring rival's phone number, a route, or a book of business (S105, 2026-08, newsletter, we voice, paraphrase).
+- Cases: Strike Fire, the AI chat tool, and the video production company were all vendors she already paid (S010, S020, S061); see `stories.md`.
 
 ## Selling and exits
-- **Stance:** plan the exit from day one, and selling is normal.
-  - "the first business that you buy probably isn't going to be the business that you have forever" (S014, 2024-12)
-  - "No, there's nothing wrong with wanting to get out of your business and sell it." (S016, 2026-08)
-  - "You don't have to choose for life, but you got to choose for a year." (S016, 2026-08), meaning lifestyle, scale, or exit.
-  - "I think a lot of people leave money on the table even having little tiny businesses and just shutting them down" (S023, 2024-12)
-- Her company newsletter (S032, S033, 2026, team voice) teaches building a business so it is sellable; company teaching, not her words.
+- **Stance:** build it to run without you; shutting down instead of selling destroys value.
+  - "A business that collapses without you isn't sellable. Period." (S031, 2026-02, newsletter, we voice)
+  - "When you build a business that's designed to sell, you often end up with a business you never want to sell." (S030, 2026-03, newsletter, we voice)
+  - "Women sell their business about one half as often as men do. One half." (S016, 2026-08)
+- **Pick one mode a year:** lifestyle, scale, or exit, not all three at once (her three business types, S016, 2026-08).
+- Her uncle closed a profitable plumbing company instead of selling it (S006, S010, S013, S070); see `stories.md`.
 
 ## Equity for employees and operators
-- "that is equity Done Right distributions today future profits tomorrow" (S014, 2024-12)
-- "Get some equity in the game. Get some rev share." (S016, 2026-08)
-- "every human should fight for skin in the game they're playing" (S013, 2023-07)
-- Equity only for people the business cannot lose, vested with a cliff (S001, S014).
+- **Stance:** equity is earned over time, not handed out.
+  - "not every employee in every company deserves Equity just not popular opinion but absolutely true and you have to earn Equity over time" (S065, undated)
+  - For senior operators: profit share and a path to earned equity tied to measured value (S076, undated, paraphrase).
+- **For you as the operator:** trade expertise for equity, but "make sure that you're not trading yourself into a job you can't get out of with equity you can't eat" (S073, undated). "I think you got to start with cash flow because you can't eat equity in the beginning." (S016, 2026-08)
 
 ## Work hours and burnout
-- **2024:** "our companies are hardcore there's not a lot of work life balance we work hard" (S001, 2024-08)
-- **2026 (newer emphasis):** "I'm not saying that you don't have to work hard. I'm saying you could actually choose a life that you like and fit work into it." (S004, 2026-09)
-- Throughout: "I do not think you have to sleep on Floors to get success" (S003, 2023-10)
-- **Read:** her companies screen for intensity while her message to buyers is to design a life first. Both are stated; she has not reconciled them.
+- **Stance:** work comes in seasons; most burnout is tiredness.
+  - "work comes in seasons. You know, me and my husband call them deployments." (S083, undated)
+  - She doubts most people are truly burnt out; usually they are tired and doing too much of what they dislike (S021, 2026-06, paraphrase).
+  - "when you're young you should have the expectation of having to work harder than you want to for longer than you want to doing things you don't want to do." (S049, undated)
+- **Against hustle porn:** you do not have to sleep on the gym floor (S003, 2023-10, paraphrase); a few million a year without misery is a fine business (S052, paraphrase).
+- **Her limit:** she works too much and knows it (S059), and links her obsession to trouble getting pregnant (S002, 2026-09, paraphrase).
 
-## Remote work
-- **2023:** moved her team back to an office after a creative lead admitted he worked less at home. "most all of us have willpower issues and all of us can benefit from a little eye over the shoulder" (S008, 2023-09)
-- She still runs parts of her teams overseas (S007, paraphrase) and recommends an offshore VA (S016).
+## Remote work (one stance, with history)
+- **History:** she worked remotely for years in finance: "I worked remote for a number of years and I watched other people get along farther than me" (S083, undated). S083 is undated, so this is her past, told as the reason for her stance, not a dated change of view.
+- **Stance:** back in the office. "working from home is the worst thing that can ever happen to you" (S083, undated) When her host said he had called his team back in, she answered "we we just bought an office in Austin for the same reason" (S054, undated).
 
 ## Culture
-- "I've never subscribed to the idea that companies are families. That's a beautiful lie told by leaders who don't want to make hard decisions." (S028, 2025-02)
-- "how you do anything is how you do everything" (S015, 2023-07)
-- Interviews open with what is hard about the job (S001, S008).
+- **Stance:** culture comes third after product-market fit and profit, and must be enforced on top performers (S008, S052).
+  - "I've never subscribed to the idea that companies are families. That's a beautiful lie told by leaders who don't want to make hard decisions." (S028, 2025-02)
+  - She repeats a line she learned from an older businesswoman she watched tidying up: how you do anything is how you do everything (inferred from S015, 2023-07; the words are that woman's, not Codie's own).
+- **Against PE culture:** systemization without culture kills what made a business work; you can feel it when you walk in (S090, undated, paraphrase). "private equity's job is to generate returns, not roots." (S100, 2025-10, newsletter, we voice)
 
-## Metrics
-- Two top metrics per business and per team, one leader each (S002, 2026-09). "Most people only measure the outcome based" (S002, 2026-09)
-- "a really important way that you can never run out of cash in a business and in your life is what I call Friday finances" (S023, 2024-12)
-- Profit over ROAS: "ROAS measures revenue, not whether you made money." (S041, 2026-09)
+## Metrics and cash
+- **Stance:** watch cash weekly and run the business on very few numbers.
+  - "most businesses have two metrics that you can run your entire business on" (S002, 2026-09)
+  - "every single business should have a scorecard or some sort of very simple Excel spreadsheet" (S061, undated)
+  - "I think money is a cruel mistress you need to pay attention to her she's going to leave you" (S053, undated)
+  - Profit, not revenue: "most entrepreneurs make $46 to $64,000 a year" (S004, 2026-09)
+- **Her limit:** she follows her own systems about 60 to 70% of the time (S061, paraphrase), and both her ops head and a media lead let cash run near zero before she noticed (S004, S050, S087).
 
-## Competition
-- "I would much rather go and compete against my local handyman in my region, go compete against my local landscaping business, than compete against Jeff Bezos." (S007, 2024-12)
-- "the market isn't saturated your business just sucks" (S015, 2023-07)
-- "I actually do think we can beat private equity." (S007, 2024-12)
-- **Private equity:** she runs its playbook small, "And all it is is private equity 1 0 1 done at the micro level, done as at the tiny level." (S010, 2023-11), and criticizes it big, "private Equity kind of sucks at scale" (S011, 2024-12).
+## Competition and moats
+- **Stance:** go where competition is thin, below the PE floor, and win on execution.
+  - "competition is for losers I think it was Peter teal that famously said that you don't actually want to compete" (S023, 2024-12)
+  - "what protects businesses from competition in this space is Baseline execution" (S061, undated)
+  - "I am willing to do unbearable work longer than you are and because of that I think I'll win" (S012, 2024-09)
+- **Where PE stops:** above about $10M revenue PE competes hard; below it individuals have room (S070, undated, paraphrase).
+
+## Speed of decisions
+- **Stance:** speed beats intelligence; slow costs more than wrong.
+  - "being wrong costs you way less than being slow" (S083, undated)
+  - "Information doesn't age like wine, it ages like milk." (S089, undated)
+  - "Quality and speed aren't opposites. Perfection and speed are." (S089, undated)
+  - Speed is not recklessness: it compresses the distance to reality (S089, paraphrase).
 
 ## Timing and the market (her numbers vary)
-- **Stance:** the boomer retirement wave makes now the window to buy, and downturns help buyers.
-  - "there are $68 trillion of wealth that may be transferred in baby boomers to the next generation" (S007, 2024-12)
-  - "there are too many businesses for sale and not enough buyers right now." (S022, 2024-04)
-  - "there is nothing better than a little shake up in the market to get better deals" (S014, 2024-12)
-- **Spread across retellings:** boomers own over half of small businesses (S001, 2024-08), more than 60% (S007, 2024-12), "65% of all small businesses are owned by baby boomers" (S017, 2026-08). Businesses for sale: 11 to 12 million (S008, 2023-09), about 11 million (S001), "tens of thousands" listed right now (S014). Average owner age 65 plus (S015, S022) or 67 (S020). Window closes by 2030 or 2035 (S007).
+- **Stance:** the boomer handoff is a time-limited window; downturns are a sale.
+  - "65% of all small businesses are owned by baby boomers." (S017, 2026-08) The count of businesses for sale varies: 12 million (S008), 11 million (S049, S068), 2.5 million actively looking (S070). The dollar figure varies too: $68 trillion (S007, S053) and $7 trillion (S085, undated).
+  - "the unprepared transfer their money to the prepared during downturns." (S055, undated)
+  - Private valuations lag public ones, so the private pullback comes later (S056, undated, paraphrase).
+- **Read:** the window claim is a constant; the size of the window is not.
 
-## Angel investing, startups, and real estate as alternatives
-- Real estate keeps wealth: "I think real estate is for keeping wealth, not making wealth." (S007, 2024-12) "one rental property makes about 476 dollars a month in profit that's not enough" (S015, 2023-07)
-- "millionaire I would do zero startup investing I mean zero because it's a 90% failure rate" (S001, 2024-08)
-- "once you've made a few million dollars and i mean that literally then i think go into angel investing" (S006, 2021-04)
-- "i have a problem with with angel investing is it's it's too fun it's like gambling" (S006, 2021-04)
-- 2023: "I'd rather take the risk on that than, um, innovation risk. I'm glad other people take innovation risk, though." (S010, 2023-11). By 2025 her firm lists 28 venture investments (S028, 2025-02).
+## Real estate, angel investing, and public markets as alternatives
+- **Real estate:** "I think real estate is a great way to lower your taxes and Preserve wealth I think it's an awful way for you to actually make money." (S049, undated) "owning a home as investment right now today is mathematically not a smart decision." (S046, undated) She sold most of her real estate and will buy back when it gets bloody (S072, paraphrase).
+- **Angel investing (changed):** the host read her published take that angel investing is largely dumb (S006, 2021-04, paraphrase; the words read out are the host's reading, not her speech); her reply: "i say this often", calling it the worst of her investment types but "still good and fun and i do it anyways" (S006); later, for first dollars, "So I think angel investing is dumb." (S056, undated) and "don't play a game where you bet on other people's ability before you've bet enough on your own." (S056, undated) "until you're a millionaire I would do zero startup investing I mean zero" (S001, 2024-08)
+- **Public markets:** she holds only indices and alternatives (S006, paraphrase) and prefers private companies because "public companies are beholden to four months." (S052, undated)
 
-## Founder control and boards
-- **No recorded position.** Nearest: she keeps her media company's equity to herself (S001) and says founder-led is better when investing but founder-free when you run the company (S016, paraphrase).
+## Not covered
+- **Equity splits between cofounders at founding:** no recorded position beyond earned equity and buyout terms set early.
+- **Pricing of software or usage-based products:** no recorded position.

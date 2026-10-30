@@ -1,6 +1,6 @@
 # Sources: Steve Jobs
 
-38 sources (26 web, 11 video, 1 pdf), 327,924 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+89 sources listed (34 web, 54 video, 1 pdf); 88 are used, 809,166 words. The recordings run from 1983 to 2011, plus a 1996 interview first published by the Steve Jobs Archive in 2025. Video dates are upload dates, not recording dates, so many older talks show a later date or none. Not used: S068 (a 209-word clip from 1980, too short to build notes from; its bicycle-of-the-mind point is covered by other sources). Every quote in this brain carries one of these ids.
 
 Format: id | title | url | date | words
 
@@ -42,3 +42,54 @@ Format: id | title | url | date | words
 - S038 | Steve Jobs: The Next Insanely Great Thing | https://www.wired.com/1996/02/jobs-2/ | 1996-02-01 | 6119
 - S040 | Steve Jobs interview at the 2010 D8 Conference | https://www.youtube.com/watch?v=c6nKI2At944 | 2021-01-22 | 8058
 - S041 | A 28-year-old Steve Jobs gives a talk at the 1983 International Design Conference in Aspen | https://www.youtube.com/watch?v=t9HmOz8H0qI | 2025-03-17 | 10143
+- S042 | Macworld Boston 1997 - The Return of Steve Jobs (High Quality) | https://www.youtube.com/watch?v=224yVWOApy8 | undated | 5213
+- S043 | Steve Jobs présente le PowerPc G3 et l'Apple Store en ligne / Keynote 1997 [EN] | https://www.youtube.com/watch?v=0VFU2TezRkk | undated | 4119
+- S044 | Apple's WWDC 1998 | https://www.youtube.com/watch?v=dvw0Tb0mmmw | undated | 13742
+- S045 | Steve Jobs' CAUSE 1998 Annual Conference General Session | https://www.youtube.com/watch?v=e-B9LikzxyM | undated | 12477
+- S046 | Apple Macworld New York 1999 | https://www.youtube.com/watch?v=RyXRVo-vzMQ | undated | 10267
+- S047 | Macworld 2000 San Francisco | https://www.youtube.com/watch?v=AcGzCIlz8y0 | undated | 19532
+- S048 | Macworld 2001 San Francisco | https://www.youtube.com/watch?v=AnrM4n6S3CU | undated | 15841
+- S049 | Steve Jobs introduces the Sunflower iMac & iPhoto - Macworld SF (2002) | https://www.youtube.com/watch?v=s0_LZC4C-i8 | undated | 13890
+- S050 | Apple WWDC 2002 | https://www.youtube.com/watch?v=bxCmZOP5Bio | undated | 17527
+- S051 | Steve Jobs introduces OS X Panther & Power Mac G5 - WWDC (2003) | https://www.youtube.com/watch?v=QjaMai9Dwb0 | undated | 18179
+- S052 | Steve Jobs introduces OS X Tiger  30 inch Cinema Display  - WWDC 2004 | https://www.youtube.com/watch?v=-mCbiXFNaNE | undated | 15119
+- S053 | Steve Jobs: Announced Intel CPUs and Podcasting - Apple WWDC 2005 | https://www.youtube.com/watch?v=_nA6YkYUll8 | undated | 8508
+- S054 | Steve Jobs introduces iPod nano & Motorola ROKR - Apple Special Music Event (2005) | https://www.youtube.com/watch?v=4--IoHXmj2U | undated | 6984
+- S055 | Steve Jobs: Original Macbook Pro Preview - Apple Macworld San Francisco 2006 | https://www.youtube.com/watch?v=_dK0CZScPgc | undated | 11717
+- S056 | WWDC 2006 - The Whole Thing | https://www.youtube.com/watch?v=wV8CRxv2AIU | undated | 12009
+- S057 | Apple WWDC 2007 | https://www.youtube.com/watch?v=ubm2dYzoDW8 | undated | 13320
+- S058 | Steve Jobs introduces iPod Touch & iTunes Wi-Fi Store - Apple Special Music Event (2007) | https://www.youtube.com/watch?v=duNDuAUll1c | undated | 9439
+- S059 | Macworld San Francisco 2008 Keynote Address (MacBook Air & iTunes Move Rentals) by Steve Jobs | https://www.youtube.com/watch?v=i9XU6wk_mWY | undated | 10247
+- S060 | 2008 03 06 Apple March 6 Event, iPhone Software Roadmap | https://www.youtube.com/watch?v=e6TJ2uwjhVY | undated | 12600
+- S061 | Apple WWDC 2008 | https://www.youtube.com/watch?v=AHolDv1plk0 | undated | 14650
+- S062 | Apple Special Event, October 2008 | https://www.youtube.com/watch?v=jQ7c9CFaHjw | undated | 6665
+- S063 | Steve Jobs introduces the iPad - 2010 (full) | https://www.youtube.com/watch?v=zZtWlSDvb_k | undated | 12392
+- S064 | Apple Special Event - September 2010 | https://www.youtube.com/watch?v=RSUUTBLTLXM | undated | 9512
+- S065 | WWDC 2011 Complete | https://www.youtube.com/watch?v=LPMjUtfQPks | undated | 17656
+- S066 | Pixar's Early Days - A Never-Before-Seen Interview With Steve Jobs, 1996 | https://www.youtube.com/watch?v=R0XmBKsRJF8 | undated | 3746
+- S067 | Steve Jobs: The Fresh Air Interview (1996) / Fresh Air | https://www.youtube.com/watch?v=MqSfFcaluHc | undated | 5917
+- S068 | Steve Jobs, 1980 | https://www.youtube.com/watch?v=0nk4THvDGsg | undated | 209
+- S069 | Building NeXT from the Ground Up - Steve Jobs on Vision and Survival, 1986 | https://www.youtube.com/watch?v=s-a4aU1RUgM | undated | 4007
+- S070 | NeXT, OpenStep and the return of Steve Jobs to Apple | https://www.youtube.com/watch?v=QhhFQ-3w5tE | undated | 6265
+- S071 | Special Event 1999: Apple introduces Mac OS 9 and new iMac | https://www.youtube.com/watch?v=HM5X2TUHPK0 | undated | 11275
+- S072 | Macworld Tokyo 2000, February 16: Pismo PowerBook G3 and iBook SE | https://www.youtube.com/watch?v=SHlj34YSlgk | undated | 8926
+- S073 | Macworld NY 2000 - Steve Jobs introduces the G4 Cube | https://www.youtube.com/watch?v=6PjjN4JJLBY | undated | 12777
+- S074 | Steve Jobs, 2001-2 Macworld Tokyo Presentation | https://www.youtube.com/watch?v=yilK8kdzz9Q | undated | 14400
+- S075 | Apple Macworld 2001 New York | https://www.youtube.com/watch?v=6KJZLiic2F8 | undated | 15360
+- S076 | 2001 09 25 Seybold San Francisco 2001 Apple Keynote | https://www.youtube.com/watch?v=XvLqv0TFDFE | undated | 15856
+- S077 | Macworld New York 2002 | https://www.youtube.com/watch?v=4MS9GkF1uys | undated | 17261
+- S078 | Steve Jobs keynote - Apple Paris Expo (2002)_HIGH | https://www.youtube.com/watch?v=ES8w0AEoWgE | undated | 13618
+- S079 | Steve Jobs introduces iTunes Music Store  Apple Special Event 2003 | https://www.youtube.com/watch?v=R2wA484GCHs | undated | 7441
+- S080 | Steve Jobs introduces iTunes for Windows - Apple Special Event 2003 | https://www.youtube.com/watch?v=MvCJ613HORA | undated | 9598
+- S081 | Apple Music Event London 2004 | https://www.youtube.com/watch?v=LRhiDaPLRGQ | undated | 7880
+- S082 | From the NEWSWEEK Archives: Jobs Talks About His Rise and Fall | http://www.newsweek.com/jobs-talks-about-his-rise-and-fall-207016 | 1985-09-30 | 3698
+- S083 | Apple iPhone 4 “Antennagate” Q&A - Steve Jobs, Tim Cook & Bob Mansfield | https://www.youtube.com/watch?v=BiN5ERktXz0 | undated | 8069
+- S084 | Steve Jobs' Presentation to the Cupertino City Council  (6/7/11) | https://www.youtube.com/watch?v=gqn43gmeA3w | undated | 1519
+- S085 | Steve Jobs speaks in 1983 at an Apple sales conference | https://www.youtube.com/watch?v=Xl0vhiLUIxk | undated | 791
+- S086 | JOBS AND GATES TOGETHER The boy wonders of computing, now thirtysomething, argue over where innovation comes from and where PCs will go. - August 26, 1991 | https://web.archive.org/web/20221201213922/https://archive.fortune.com/magazines/fortune/fortune_archive/1991/08/26/75409/index.htm | 1991-08 | 1797
+- S087 | Apple - A Greener Apple | https://web.archive.org/web/20130731234526/http://www.apple.com:80/hotnews/agreenerapple/ | undated | 1952
+- S088 | The Entrepreneur of the Decade (Inc. interview, 1989) | https://www.inc.com/magazine/19890401/5602.html | 1989-04-01 | 5620
+- S089 | The Three Faces of Steve (Fortune interview, 1998) | http://archive.fortune.com/magazines/fortune/fortune_archive/1998/11/09/250880/index.htm | 1998-11-09 | 4385
+- S090 | Steve Jobs on Apple after the turnaround (Fortune interview, 2000) | http://archive.fortune.com/magazines/fortune/fortune_archive/2000/01/24/272277/index.htm | 2000-01-24 | 2656
+- S091 | The Seed of Apple's Innovation (BusinessWeek interview, 2004) | https://www.bloomberg.com/news/articles/2004-10-11/the-seed-of-apples-innovation | 2004-10-12 | 1192
+- S092 | Steve Jobs 1984 Access magazine interview (Tom Zito) | http://www.thedailybeast.com/articles/2011/10/06/steve-jobs-1984-access-magazine-interview.html | 1984-10-01 | 3631

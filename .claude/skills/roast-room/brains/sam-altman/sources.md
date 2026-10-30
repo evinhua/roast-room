@@ -1,6 +1,6 @@
 # Sources: Sam Altman
 
-51 sources (26 web, 25 video), 359,676 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+133 usable sources (73 web, 60 video), 766,221 words, 2013 to 2026. Video dates are upload dates. 81 sources are listed as undated (46 blog posts whose pages carry no date, and 35 videos); their content runs from 2013 to 2026. S073 ("You and Your Research", 13,124 words) is Richard Hamming's talk reposted on Altman's blog, so it is not used and not counted. Most video sources are interviews, panels, or fireside chats, and the captions do not label who is speaking; hosts and co-guests talk in many of them (for example Kevin Weil in S127). S027 is a lecture shared with Dustin Moskovitz, who gives about half of it. Only Altman's own lines are used, and a line is credited to him only when the turn is clearly his. Seven blog pages came back too thin to use and are not listed (premature-optimization, successful-people, rickover, more-interesting-dinner-conversations, reinforcement-learning-progress, by-endurance-we-conquer, helion), and one video (NYT DealBook, tn0XpTAD_8Q) had no English captions. Every quote in this brain carries one of these ids.
 
 Format: id | title | url | date | words
 
@@ -55,3 +55,86 @@ Format: id | title | url | date | words
 - S049 | Sam Altman on God, Elon Musk and the Mysterious Death of His Former Employee | https://www.youtube.com/watch?v=5KmpT-BoVf4 | 2025-09-10 | 10729
 - S050 | We Interviewed Sam Altman at TreeHacks 2026 | https://www.youtube.com/watch?v=FjlymGBt-vY | 2026-03-08 | 8132
 - S051 | Altman: AI Beyond Human Control “Absolutely” Possible, Vows Safeguards / Titans and Disruptors | https://www.youtube.com/watch?v=2my-NU6LuCM | 2026-09-12 | 8527
+- S052 | Machine intelligence, part 1 | https://blog.samaltman.com/machine-intelligence-part-1 | undated | 1095
+- S053 | Machine intelligence, part 2 | https://blog.samaltman.com/machine-intelligence-part-2 | undated | 1330
+- S054 | The Merge | https://blog.samaltman.com/the-merge | undated | 716
+- S055 | Hard Tech is Back | https://blog.samaltman.com/hard-tech-is-back | undated | 345
+- S056 | How things get done | https://blog.samaltman.com/how-things-get-done | undated | 614
+- S057 | The Only Way to Grow Huge | https://blog.samaltman.com/the-only-way-to-grow-huge | undated | 279
+- S058 | Projects and Companies | https://blog.samaltman.com/projects-and-companies | undated | 532
+- S059 | Upside risk | https://blog.samaltman.com/upside-risk | undated | 359
+- S060 | The Strength of Being Misunderstood | https://blog.samaltman.com/the-strength-of-being-misunderstood | undated | 308
+- S061 | Value is created by doing | https://blog.samaltman.com/value-is-created-by-doing | undated | 754
+- S062 | Before Growth | https://blog.samaltman.com/before-growth | undated | 299
+- S063 | Employee Retention | https://blog.samaltman.com/employee-retention | undated | 1057
+- S064 | Employee Equity | https://blog.samaltman.com/employee-equity | undated | 1619
+- S065 | Fundraising Mistakes Founders Make | https://blog.samaltman.com/fundraising-mistakes-founder-make | undated | 1693
+- S066 | The Post-YC Slump | https://blog.samaltman.com/the-post-yc-slump | undated | 810
+- S067 | Unit Economics | https://blog.samaltman.com/unit-economics | undated | 570
+- S068 | Researchers and Founders | https://blog.samaltman.com/researchers-and-founders | undated | 336
+- S069 | Technology predictions | https://blog.samaltman.com/technology-predictions | undated | 353
+- S070 | The Software Revolution | https://blog.samaltman.com/the-software-revolution | undated | 948
+- S071 | What happened to innovation? | https://blog.samaltman.com/what-happened-to-innovation-1 | undated | 2162
+- S072 | Why Silicon Valley Works | https://blog.samaltman.com/why-silicon-valley-works | undated | 676
+- S073 | You and Your Research, by Richard Hamming (NOT USED: Hamming's talk, not Altman's) | https://blog.samaltman.com/you-and-your-research | undated | 13124
+- S074 | Please Fund More Science | https://blog.samaltman.com/please-fund-more-science | undated | 338
+- S075 | Board Members | https://blog.samaltman.com/board-members | undated | 458
+- S076 | Party rounds | https://blog.samaltman.com/party-rounds | undated | 422
+- S077 | The separation of advice and money | https://blog.samaltman.com/the-separation-of-advice-and-money | undated | 544
+- S078 | Founder Depression | https://blog.samaltman.com/founder-depression | undated | 272
+- S079 | Black Swan Seed Rounds | https://blog.samaltman.com/black-swan-seed-rounds | undated | 598
+- S080 | Stupid Apps and Changing the World | https://blog.samaltman.com/stupid-apps-and-changing-the-world | undated | 420
+- S081 | Bubble talk | https://blog.samaltman.com/bubble-talk | undated | 532
+- S082 | 'We're in a Bubble' | https://blog.samaltman.com/were-in-a-bubble | undated | 424
+- S083 | What to do if a bubble is starting | https://blog.samaltman.com/what-to-do-if-a-bubble-is-starting | undated | 474
+- S084 | 2017 YC Annual Letter | https://blog.samaltman.com/2017-yc-annual-letter | 2017-01 | 3155
+- S085 | The Tech Bust of 2015 | https://blog.samaltman.com/the-tech-bust-of-2015 | undated | 933
+- S086 | Technology and wealth inequality | https://blog.samaltman.com/technology-and-wealth-inequality | undated | 1400
+- S087 | American Equity | https://blog.samaltman.com/american-equity | undated | 678
+- S088 | Growth and Government | https://blog.samaltman.com/growth-and-government | undated | 2143
+- S089 | Policy for Growth and Innovation | https://blog.samaltman.com/policy-for-growth-and-innovation | undated | 2069
+- S090 | E Pur Si Muove | https://blog.samaltman.com/e-pur-si-muove | undated | 763
+- S091 | The Engineer Crunch | https://blog.samaltman.com/the-engineer-crunch | undated | 711
+- S092 | Non-technical founder? Learn to hack | https://blog.samaltman.com/non-technical-founder-learn-to-hack | undated | 529
+- S093 | GPT-4o | https://blog.samaltman.com/gpt-4o | undated | 284
+- S094 | Sora 2 | https://blog.samaltman.com/sora-2 | undated | 666
+- S095 | AI | https://blog.samaltman.com/ai | undated | 652
+- S096 | - | https://blog.samaltman.com/2279512 | undated | 1064
+- S097 | A founder-friendly term sheet | https://blog.samaltman.com/a-founder-friendly-term-sheet | undated | 407
+- S098 | The Worst Part of YC | https://blog.samaltman.com/the-worst-part-of-yc | undated | 261
+- S099 | What I've Learned From Female Founders So Far | https://blog.samaltman.com/what-ive-learned-from-female-founders-so-far | undated | 876
+- S100 | Sam Altman, Co-Founder and CEO of OpenAI: Staying Human While Scaling Superintelligence | https://www.youtube.com/watch?v=anAmTGcewX8 | undated | 8185
+- S101 | Why Sam Altman is against a single superintelligence | https://www.youtube.com/watch?v=iMsUcCYNKqY | undated | 9511
+- S102 | Sam Altman on Astra, AGI, and the future of OpenAI | https://www.youtube.com/watch?v=VeizK1M7V7E | undated | 14783
+- S103 | Sam Altman: RSI, AI Consciousness, OpenAI's New Hardware, Compute, and more! | https://www.youtube.com/watch?v=3gXLmy7DK_4 | undated | 8755
+- S104 | Sam Altman Shows Me GPT 5... And What's Next | https://www.youtube.com/watch?v=hmtuvNfytjM | undated | 12627
+- S105 | The Power and Responsibility of Sam Altman | https://www.youtube.com/watch?v=mJSnn0GZmls | undated | 13853
+- S106 | Sam Altman on Elon Musk, ‘Artificial,’ and the Future of Humanity (Part One) | https://www.youtube.com/watch?v=iKFqJOSWHTE | undated | 8883
+- S107 | Sam Altman says OpenAI has more AI incidents to disclose | https://www.youtube.com/watch?v=2OOHnaGTQFg | undated | 7605
+- S108 | OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence: Live at TED2025 | https://www.youtube.com/watch?v=5MWT_doo68k | undated | 8528
+- S109 | Sam Altman in conversation with Patrick Collison | https://www.youtube.com/watch?v=5eouRdDYM2c | undated | 9796
+- S110 | OpenAI Town Hall with Sam Altman | https://www.youtube.com/watch?v=Wpxv-8nG8ec | undated | 10544
+- S111 | Marc Benioff & Sam Altman / Dreamforce 2026 | https://www.youtube.com/watch?v=Bh5bJrrJ6xs | undated | 6660
+- S112 | FULL FIRESIDE: Open AI CEO Sam Altman & VC Vinod Khosla at IIT Delhi | https://www.youtube.com/watch?v=UiZcfqcJ-kU | undated | 8688
+- S113 | Sam Altman Unfiltered: ChatGPT, AI Risks & What’s Coming Next, 40 Questions in 60 Minutes | https://www.youtube.com/watch?v=qH7thwrCluM | undated | 10820
+- S114 | Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything / People by WTF / Episode 13 | https://www.youtube.com/watch?v=SfOaZIGJ_gs | undated | 7260
+- S115 | Sam Altman talks the NYT lawsuit, Meta's talent poaching, and Trump on AI / Interview | https://www.youtube.com/watch?v=cT63mvqN54o | undated | 6620
+- S116 | All things AI w @altcap @sama & @satyanadella.  A Halloween Special.  🎃🔥BG2 w/ Brad Gerstner | https://www.youtube.com/watch?v=Gnl833wXRz0 | undated | 14520
+- S117 | OpenAI DevDay 2025: Opening Keynote with Sam Altman | https://www.youtube.com/watch?v=hS1YqcewH0c | undated | 9221
+- S118 | AI & Cybersecurity: Dan Boneh Interviews Sam Altman | https://www.youtube.com/watch?v=940zih5bee4 | undated | 7119
+- S119 | Sam Altman: Getting Fired (and Re-Hired) by OpenAI, Agents, AI Copyright issues | https://www.youtube.com/watch?v=nSM0xd8xHUM | undated | 19701
+- S120 | OpenAI CEO Sam Altman and CTO Mira Murati on the Future of AI and ChatGPT / WSJ Tech Live 2023 | https://www.youtube.com/watch?v=byYlC2cagLw | undated | 8979
+- S121 | Episode 6: OpenAI CEO Sam Altman on the future of AI | https://www.youtube.com/watch?v=PkXELH6Y2lM | undated | 5450
+- S122 | Sam Altman & OpenAI / 2023 Hawking Fellow / Cambridge Union | https://www.youtube.com/watch?v=NjpNG0CJRMM | undated | 11211
+- S123 | A fireside chat with Sam Altman OpenAI CEO at Harvard University | https://www.youtube.com/watch?v=FVRHTWWEIz4 | undated | 9344
+- S124 | Sohn 2023 / Patrick Collison in conversation Sam Altman | https://www.youtube.com/watch?v=1egAKCKPKCk | undated | 9321
+- S125 | 'Hard Fork': An Interview With Sam Altman | https://www.youtube.com/watch?v=wBX4xeefPiA | undated | 11797
+- S126 | OpenAI CEO: AI Isn't Killing Writing (Sam Altman Interview) | https://www.youtube.com/watch?v=6pxmdmlJCG0 | undated | 9272
+- S127 | OpenAI DevDay 2024 / Fireside chat with Sam Altman and Kevin Weil | https://www.youtube.com/watch?v=eaS0omKFZhQ | undated | 8542
+- S128 | OpenAI CEO Sam Altman testifies during Senate hearing on AI oversight: 05/16/23 | https://www.youtube.com/watch?v=fP5YdyjTfG0 | undated | 29315
+- S129 | Sam Altman on Choosing Projects, Creating Value, and Finding Purpose | https://www.youtube.com/watch?v=uEl2KUZ3JWA | undated | 6718
+- S130 | Uncut Interview with Sam Altman on Masters of Scale [Audio] | https://www.youtube.com/watch?v=mUZKAhcxXWI | undated | 10385
+- S131 | Blitzscaling 02: Sam Altman on Y Combinator and What Makes The Best Founders | https://www.youtube.com/watch?v=CxKXJWf-WMg | undated | 15154
+- S132 | Team and Execution with Sam Altman (How to Start a Startup 2014: Lecture 2) | https://www.youtube.com/watch?v=crMVJAf5TjA | undated | 9473
+- S133 | The Winding Path of Progress / Sam Altman / Talks at Google | https://www.youtube.com/watch?v=iRwk9UajXFg | undated | 10525
+- S134 | How to Start a Hard Tech Startup with Sam Altman @ MIT | https://www.youtube.com/watch?v=r7HyWFJMAxg | undated | 9452

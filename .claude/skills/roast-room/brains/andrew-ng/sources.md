@@ -1,6 +1,8 @@
 # Sources: Andrew Ng
 
-56 sources (33 video, 23 web), 256,934 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+125 usable sources (71 video, 52 web, 2 pdf), 577,167 words, 2013 to 2026. Video dates are upload dates. The 42 sources added in the deep pass (S060 to S101) have no date in the manifest; where a title names a year (the Stanford CS230 and CS229 lectures from 2018 and 2025, AI Dev 26, AI Fund Frontier 26), use that. S101 is a 2013 OpenEd keynote with poor captions. S090 is a shared panel with Lisa Su, so only Ng's turns count. Every quote in this brain carries one of these ids.
+
+Not used: S063 (Stanford CS230 Autumn 2025 Lecture 9, 19,658 words) is listed below but was left out of the brain because it is mostly Laurence Moroney talking; Ng speaks only in the first 18 minutes. One video (sQ3ll3EXp38, RE-WORK 2016 interview) failed to fetch because it has no English captions.
 
 Format: id | title | url | date | words
 
@@ -60,3 +62,73 @@ Format: id | title | url | date | words
 - S057 | AI Is Transforming Businesses (with Andrew Ng) | https://hbr.org/podcast/2023/12/ai-is-transforming-businesses-with-andrew-ng | 2023-12-20 | 4951
 - S058 | World Development Report 2026: Fireside Chat with Andrew Ng - Making AI Work for Development | https://www.youtube.com/watch?v=WmgPAOIhrko | 2026-10-07 | 7483
 - S059 | Fireside Chat with Andrew Ng (Landing AI) | https://www.youtube.com/watch?v=ZsHJlHj_-Io | 2019-09-06 | 4039
+- S060 | machine learning yearning | https://raw.githubusercontent.com/ajaymache/machine-learning-yearning/master/full%20book/machine-learning-yearning.pdf | undated | 25707
+- S061 | landingai transformation playbook 11 19 | https://landing.ai/wp-content/uploads/2020/05/LandingAI_Transformation_Playbook_11-19.pdf | 2020 | 3085
+- S062 | Written Statement of Andrew Ng Before the U.S. Senate AI Insight Forum - AI Fund | https://aifund.ai/insights/insights-written-statement-of-andrew-ng-before-the-u-s-senate-ai-insight-forum/ | 2023-12-11 | 3694
+- S063 | Stanford CS230 / Autumn 2025 / Lecture 9: Career Advice in AI | https://www.youtube.com/watch?v=AuZoDsNmG_s | undated | 19658
+- S064 | Stanford CS230 / Autumn 2025 / Lecture 1: Introduction to Deep Learning | https://www.youtube.com/watch?v=_NLHFoVNlbg | undated | 9589
+- S065 | Stanford CS230 / Autumn 2025 / Lecture 3: Full Cycle of a DL project | https://www.youtube.com/watch?v=MGqQuQEUXhk | undated | 10501
+- S066 | Stanford CS230 / Autumn 2025 / Lecture 6: AI Project Strategy | https://www.youtube.com/watch?v=s6JVGzABKho | undated | 11886
+- S067 | Stanford CS230: Deep Learning / Autumn 2018 / Lecture 3 - Full-Cycle Deep Learning Projects | https://www.youtube.com/watch?v=JUJNGv_sb4Y | undated | 12085
+- S068 | Stanford CS230: Deep Learning / Autumn 2018 / Lecture 6 - Deep Learning Project Strategy | https://www.youtube.com/watch?v=G5FNYxbW_Qw | undated | 8919
+- S069 | Stanford CS230: Deep Learning / Autumn 2018 / Lecture 1 - Class Introduction & Logistics, Andrew Ng | https://www.youtube.com/watch?v=PySo_6S4ZAg | undated | 12213
+- S070 | Stanford CS229: Machine Learning Lecture 1 - Andrew Ng (Autumn 2018) | https://www.youtube.com/watch?v=jGwO_UgTS7I | undated | 12980
+- S071 | AI Pioneer: The Bubble Is Real And Could Trigger an AI Winter / Andrew Ng | https://www.youtube.com/watch?v=4vzmTKUFtxg | undated | 9343
+- S072 | The Moonshot Podcast Deep Dive: Andrew Ng on Deep Learning and Google Brain | https://www.youtube.com/watch?v=Oz0LizN3uMk | undated | 9488
+- S073 | The House Fund Presents Interview with Andrew Ng; How AI Will Change The World For Good | https://www.youtube.com/watch?v=-mQxSv1Mc4Q | undated | 11173
+- S074 | Fireside Chat with Andrew Ng | https://www.youtube.com/watch?v=nIIPMmZaK-s | undated | 9939
+- S075 | Andrew Ng: Enterprise AI Strategy (with Landing AI) - CxOTalk #365 | https://www.youtube.com/watch?v=Y7fH2iT1m7Q | undated | 7508
+- S076 | Fireside Chat with Andrew Ng: Insights into the AI tools being developed to help businesses succeed. | https://www.youtube.com/watch?v=VgvU1frf9Dg | undated | 10595
+- S077 | Andrew Ng and David S. Goyer: Creativity, Intelligence, and What We’re building Toward. | https://www.youtube.com/watch?v=J4CjiTtggfY | undated | 10345
+- S078 | Andrew Ng on Exploring Artificial Intelligence’s Potential & Threats | https://www.youtube.com/watch?v=OmwR5tuwWrU | undated | 5418
+- S079 | LIVE FROM TWIMLcon! Overcoming the Barriers to Deep Learning in Production with Andrew Ng - #304 | https://www.youtube.com/watch?v=CrK6LtcaiRk | undated | 6002
+- S080 | Andrew Ng on Coding Agents and Deciding What to Build | https://www.youtube.com/watch?v=qeMMnOiF51A | undated | 4860
+- S081 | Insights from Amazon Board Member & DeepLearning.AI Co-founder, Andrew Ng / AWS Events | https://www.youtube.com/watch?v=lINRN_WSRrQ | undated | 5505
+- S082 | Fireside Chat with Andrew Ng, Founder, deeplearningAI & Landing AI | https://www.youtube.com/watch?v=EczYSl-ei9g | undated | 6064
+- S083 | EducAIted Voices: Dr. Andrew Ng, Exploring Computer Science & K12 Education | https://www.youtube.com/watch?v=EQiFIJP4wMM | undated | 5246
+- S084 | Andrew Ng on building AI-native teams / AI Fund Frontier ‘26 | https://www.youtube.com/watch?v=DuT3dsyshLA | undated | 5247
+- S085 | AI Dev 26 x SF: Andrew Ng: The Future of Software Engineering | https://www.youtube.com/watch?v=g8um2AEf5ZA | undated | 3430
+- S086 | Andrew Ng: From Code to Product in Hours - The New Reality of AI Development | https://www.youtube.com/watch?v=kjg45_5WhqI | undated | 4528
+- S087 | Fireside Chat: Andrew Ng and Alfred Lin | https://www.youtube.com/watch?v=26a2jf1AXf8 | undated | 4066
+- S088 | 278 Million Reasons to Pay Attention... Andrew Ng and Greg Hart / ASU+GSV Summit 2026 | https://www.youtube.com/watch?v=YQXLcoD75E4 | undated | 4967
+- S089 | Hey Perplexity, Who is the Top AI Person in the World?... Answer: Andrew Ng / ASU+GSV Summit 2025 | https://www.youtube.com/watch?v=8m4T8ooO5hs | undated | 5218
+- S090 | Unlocking AI Potential: Insights from Dr. Andrew Ng & Dr. Lisa Su | https://www.youtube.com/watch?v=ckS-ynViLjY | undated | 4742
+- S091 | Andrew Ng On AI Agentic Workflows And Their Potential For Driving AI Progress | https://www.youtube.com/watch?v=q1XFm21I-VQ | undated | 5239
+- S092 | Andrew Ng On AI At Scale: Building The Intelligence Economy / NDTV World Summit 2026 | https://www.youtube.com/watch?v=HlkBYlQPfRM | undated | 4252
+- S093 | Full: Andrew Ng On AI Job Fears, ChatGPT's Learning Risks, Big Tech's AI Hype & Agentic AI | https://www.youtube.com/watch?v=GQoz_guxxWE | undated | 4235
+- S094 | Andrew Ng - Why Data Engineering is Critical to Data-Centric AI | https://www.youtube.com/watch?v=0EmzuLylr7I | undated | 5310
+- S095 | Andrew Ng’s Tips for the Data-Centric AI Future | https://www.youtube.com/watch?v=TU6u_T-s68Y | undated | 5443
+- S096 | Andrew Ng, Stanford - Stanford Medicine Big Data / Precision Health 2018 | https://www.youtube.com/watch?v=6JNo0uKnkPM | undated | 7933
+- S097 | FoL 2018: Plenary by Andrew Ng - AI is the New Electricity | https://www.youtube.com/watch?v=5YK7y397MG4 | undated | 4995
+- S098 | WCIT India 2018 I NASSCOM ILF 2018  / Artificial Intelligence is the new Electricity | https://www.youtube.com/watch?v=bFOZADk3cJU | undated | 4648
+- S099 | Andrew Ng - The State of Artificial Intelligence | https://www.youtube.com/watch?v=NKpuX_yzdYs | undated | 5286
+- S100 | ASU GSV Summit: Keynote with Andrew Ng, Co Chairman and Co Founder of Coursera; and an Adjunct Profe | https://www.youtube.com/watch?v=ZZXnecufXPU | undated | 3732
+- S101 | Wednesday Keynote - Andrew Ng | https://www.youtube.com/watch?v=jbo2eiU2V2A | undated | 6390
+- S102 | How Large Companies Can Move Fast in AI | https://www.deeplearning.ai/the-batch/how-large-companies-can-move-fast-in-ai/ | 2025-05-21 | 665
+- S103 | How to Get Through the Product Management Bottleneck | https://www.deeplearning.ai/the-batch/how-to-get-through-the-product-management-bottleneck/ | 2025-07-16 | 644
+- S104 | Short of Time to Build With AI? Simplify Your Projects | https://www.deeplearning.ai/the-batch/short-of-time-to-build-with-ai-simplify-your-projects/ | 2025-07-02 | 616
+- S105 | How AI Fund Is Building AI Builders | https://www.deeplearning.ai/the-batch/how-ai-fund-is-building-ai-builders/ | 2025-06-04 | 469
+- S106 | The vogue for hiring "forward deployed engineers" is an early wave on the way to a wide variety of specialized roles in AI engineering. | https://www.deeplearning.ai/the-batch/forward-deployed-engineers-and-the-future-of-ai-engineering/ | 2026-05-29 | 529
+- S107 | AI-Native Software Development Needs Generalists | https://www.deeplearning.ai/the-batch/ai-native-software-development-needs-generalists/ | 2026-04-20 | 666
+- S108 | Coding Agents Accelerate Some Software Tasks More Than Others | https://www.deeplearning.ai/the-batch/coding-agents-accelerate-some-software-tasks-more-than-others/ | 2026-04-24 | 567
+- S109 | Agentic loop coding works until it fulfills a goal. Here's an agentic way to iterate on your goals to find the right one. | https://www.deeplearning.ai/the-batch/make-all-your-tokens-and-your-brainwork-count/ | 2026-07-10 | 815
+- S110 | Anthropic's standoff with the U.S. Government hurts the AI ecosystem, but it also points to a better way forward. | https://www.deeplearning.ai/the-batch/open-platforms-beat-power-plays/ | 2026-06-19 | 829
+- S111 | Why People Don't Trust AI and What To Do About It | https://www.deeplearning.ai/the-batch/why-people-dont-trust-ai-and-what-to-do-about-it/ | 2025-12-03 | 833
+- S112 | Tear Down Data Silos! | https://www.deeplearning.ai/the-batch/tear-down-data-silos/ | 2025-11-05 | 504
+- S113 | Don't Believe The Hype! | https://www.deeplearning.ai/the-batch/dont-believe-the-hype/ | 2025-11-12 | 623
+- S114 | We Iterate on Models. We Can Iterate on Evals, Too | https://www.deeplearning.ai/the-batch/we-iterate-on-models-we-can-iterate-on-evals-too/ | 2025-04-16 | 821
+- S115 | When to Fine-Tune: and When Not To | https://www.deeplearning.ai/the-batch/when-to-fine-tune-and-when-not-to/ | 2025-03-26 | 974
+- S116 | How AI can make you a 10x professional | https://www.deeplearning.ai/the-batch/how-ai-can-make-you-a-10x-professional/ | 2025-02-05 | 628
+- S117 | Meet The New Breed of GenAI Application Engineers | https://www.deeplearning.ai/the-batch/meet-the-new-breed-of-genai-application-engineers/ | 2025-06-11 | 836
+- S118 | How to Reduce Risk and Uncertainty in AI Projects | https://www.deeplearning.ai/the-batch/how-to-reduce-risk-and-uncertainty-in-ai-projects/ | 2022-10-05 | 620
+- S119 | Toward More Consistent Decision-Making | https://www.deeplearning.ai/the-batch/decision-making/ | 2022-08-10 | 494
+- S120 | Generative AI = Huge Opportunities | https://www.deeplearning.ai/the-batch/generative-ai-equals-huge-opportunities/ | 2023-08-02 | 655
+- S121 | Building Machine Learning Systems is More Debugging Than Development | https://www.deeplearning.ai/the-batch/building-machine-learning-systems-is-more-debugging-than-development/ | 2023-07-12 | 703
+- S122 | How Prompting is Changing Machine Learning Development | https://www.deeplearning.ai/the-batch/how-prompting-is-changing-machine-learning-development/ | 2023-05-17 | 565
+- S123 | Prompt-Based Development Enables You to Try out Ideas Quickly and Cheaply | https://www.deeplearning.ai/the-batch/ai-at-the-speed-of-prompting/ | 2023-07-05 | 659
+- S124 | Four AI Agent Strategies That Improve GPT-4 and GPT-3.5 Performance | https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/ | 2024-03-20 | 520
+- S125 | How to Build a Career in AI: Three Steps to Career Growth | https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-1-three-steps-to-career-growth/ | 2022-06-29 | 501
+- S126 | How to Build a Career in AI: Choosing Projects | https://www.deeplearning.ai/the-batch/how-to-build-a-career-in-ai-part-3-choosing-projects/ | 2022-07-13 | 758
+- S127 | How to Manage An AI-Native Engineering Team | https://www.deeplearning.ai/the-batch/the-four-ps/ | 2026-10-23 | 744
+- S128 | AI Will Not Destroy the Job Market | https://www.deeplearning.ai/the-batch/ai-will-not-destroy-the-job-market/ | 2026-05-08 | 596
+- S129 | Existential Risk? I Don't Get It! | https://www.deeplearning.ai/the-batch/existential-risk-i-dont-get-it/ | 2023-06-07 | 593

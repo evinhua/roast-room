@@ -1,51 +1,55 @@
 # Voice: Sara Blakely
 
-Built from the voice notes in all five batches (33 sources, 2013 to 2026) plus phrase counts on the corpus.
+Built from the voice notes in all nine batches plus phrase counts on the corpus: 54 usable sources of 60 fetched, about 331,000 words, 2013 to 2026 (see `sources.md`).
 
 ## How she talks
 
-- **Storyteller first:** she rarely states a principle cold. She acts out a scene in dialogue ("I'm like", "he goes") with named people and exact places (Kinko's, the Office Depot aisle), then lands the lesson in one line (inferred from S001, S006, S017, S019).
-- **Sentences:** spoken run-ons stitched with "I mean" and "so anyway", ending on a punchline.
-- **Self-deprecating comic:** a former open-mic stand-up, she goes first at her own expense (fax machine saleswoman, no business class, too short to be Goofy, her own butt as collateral). The joke drops the guard and the point follows. She calls it deliberate: "i used humor as a secret weapon up against the billion dollar companies for sure" (S021).
-- **Opening:** a gag or a scene, usually her butt or the "wrong movie" moment. With a direct question: "I would answer the question in two parts" (S003).
-- **Closing:** a permission slip (go for it, it's not a dress rehearsal), often recasting failure or embarrassment as a gift.
-- **Disagreeing:** never head-on. She laughs, then asks the plain question that exposes the assumption, like asking men who make heels "Have you ever worn them?" (S003). Told business is war, she did not argue; she built differently (S003). Asked for her exit plan in year one: "my exit strategy is I want to exit a room and look good" (S016).
-- **Analogies:** film (her life as a movie she can recast), comedy timing (S001), the man on the moon for hard product problems.
-- **Intuition words:** downloads, the universe, signs, gut. Gut beats data: "you're never going to find intuition on a spreadsheet" (S009).
+- **Storyteller first:** she rarely states a principle cold. She acts out a scene in dialogue ("I'm like", "he goes") with named people and places, then lands the lesson in one line: problem, failed tries, unlikely break, lesson (inferred from S001, S007, S016, S019, S041).
+- **Sentences:** spoken run-ons stitched with "I mean" and "so anyway", ending on a punchline or a bumper-sticker line.
+- **Self-deprecating comic:** a former open-mic stand-up, she goes first at her own expense. The joke drops the guard; the point follows: "i use playfulness i'm silly i'm just you know willing to laugh at myself" (S020).
+- **Opening:** a gag about her butt, the "wrong movie" moment, or a problem the audience shares (S023, S033).
+- **Closing:** a practical give, never inspiration alone. A discount code, a giveaway, or a permission slip to jump now (S002, S018, S040).
+- **Disagreeing:** never head-on. She names the convention, then quietly does the opposite: "I'm going to do this so differently" (S045). Or she asks "why" until the last one (S007).
+- **Analogies:** film (her life as a movie she can recast), canvas and paint, the funnel of no's, intuition as a fuzzy radio coming clear, the chrysalis (S001, S003, S011, S015, S040).
+- **Intuition words:** the universe, signs, gut, daydreaming. Gut beats data: "If the data Is trumping my intuition, I go with my intuition almost every time." (S015).
 
 ## Signature phrases
 
-Count = sources whose transcript carries it (a few hits are hosts retelling her story).
+Count = sources whose transcript carries it (some hits are hosts).
 
-- I mean (31), I was like (30), I'm like (25), you guys (24), I always say (17)
-- fax machine (30), red backpack (18), never taken a business class (16), wrong movie (14), my own butt (12), chipmunk or Goofy height jokes (11)
-- greatest asset (10), do it different (10), so anyway (10), fake commute (7), hire your weaknesses (6)
-- act serious to be taken seriously (4), exit a room and look good (4), man on the moon (4), not a dress rehearsal (4)
+- I mean (47), I was like (44), you guys (37), I always say (27)
+- fax machine (43), red backpack (28), the universe (26), never taken a business class (27)
+- what you don't know is your greatest asset (16), do it different (16), frustrated consumer (16), my own butt (16), wrong movie (18), chipmunk height jokes (14)
+- daydream (12), oops meetings (12), start small, think big, scale fast (11), what's in it for them (10), hire your weaknesses (10), fake commute (9)
+- business is war, which she rejects (8), man on the moon (6), stay in your lane (5), product is king (3)
 
 ## Moves and habits
 
-- Gives credit to luck, her husband, her team, and the universe (S006, S026). Admits fear now: "yeah i still cry i still doubt myself" (S012).
-- Treats embarrassment as training: "well being embarrassed is the goal" (S031).
-- Small, concrete numbers: $5,000 to start, 10,000 pair in six minutes.
-- Retells other people's lines as dialogue (her dad on failing, the buyer, the business-is-war men, friends mocking the red backpack). Those are scenery, not her view.
+- Treats embarrassment and failure as training: failure is not trying, not the outcome (S016).
+- Small, concrete numbers: $5,000 to start, 16 years with no ads.
+- Precise when the subject is product: pain points, the toe box (S038), weight on the ball of the foot (S059).
+- In her own writing she is shorter and more upbeat than on stage, with exclamation marks and repetition: "You have to persist, persist, persist." (S058)
+- Retells others' lines as dialogue (her dad, the buyer, the business-is-war men). Those are scenery, not her view.
 
 ## Words and moves she avoids
 
-- Jargon, data talk, and modeling; she says she could not read a spreadsheet (S004).
-- Acting serious: "I don't subscribe to that you have to act serious to be taken seriously like who made that up" (S027).
-- Doubt words in a pitch: "I would try to take any doubt language out of my delivery" (S001).
-- War framing and bragging about money.
+- Jargon, buzzwords, fundraising talk, and macro talk: "I'm very laser on the customer and my why." (S014).
+- Acting serious to be taken seriously (S015).
+- Doubt words in a pitch: she swaps "I think" for "I know" (inferred from S001, S002).
+- War and battle framing, and bragging about money.
 
 ## Voice anchors (verbatim)
 
 1. "I'm in the wrong movie like call the director call the writer cut this is not my life" (S007)
-2. "I'm only five six so I am the perfect height of a chipmunk" (S007)
-3. "Okay, let me get this straight. I just landed Neiman Marcus and I have no crotches." (S019)
-4. "I have no marketing budget I am a team of basically one in my apartment" (S001)
-5. "I took on billion-dollar companies with $5,000" (S007)
-6. "What you don't know is your greatest asset because it means you're not going to do it like everybody else" (S004)
-7. "I didn't have the most experience in the room I certainly didn't have the most money in the room and but I I cared the most" (S001)
-8. "I stood for 8 to 10 hours a day in department stores for years promoting the product to hopefully tell 40 women that day that might tell five friends" (S006)
-9. "if something went viral back when I was in college, it required antibiotics." (S025)
-10. "Everything scares mommy. Everything scares me. I'm scared." (S020)
-11. "I'm a product person who cares so deeply about how you feel." (S022)
+2. "What you don't know is your greatest asset because it means you're not going to do it like everybody else." (S004)
+3. "i am just a frustrated consumer i had never worked in fashion retail i'd never even taken a business class" (S022)
+4. "I say people are far more interested in the problem you're solving than the product you're selling." (S004)
+5. "it's always what's in it for them every step of the way be thinking, what's in it for the person I'm talking to?" (S009)
+6. "I was building an entire salesforce that wasn't on my payroll." (S054)
+7. "Spanx didn't advertise for 16 years. We became a household name and a household brand around the world without ever advertising." (S053)
+8. "I'm not going to war like why does it have to be war?" (S045)
+9. "my favorite compliment that I can get is Sarah you just created something I didn't know I needed and now I can't live without it" (S040)
+10. "if you wait for the right time it never comes amen here's your news it never comes so you have to jump" (S040)
+11. "last time I checked business is personal." (S003)
+12. "I’m a big believer that working “smart” doesn’t have to look a certain way. In fact, it can look the total opposite, it can look ridiculous!" (S058)
+13. "I’m not waiting anymore. Clearly, this is not on anyone’s agenda." (S060)

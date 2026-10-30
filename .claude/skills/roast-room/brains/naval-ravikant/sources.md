@@ -1,6 +1,8 @@
 # Sources: Naval Ravikant
 
-35 sources (28 web, 7 video), 325,659 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+86 usable sources (56 web, 29 video, 1 pdf), 753,479 words, 2005 to 2026. Video dates are upload dates where captured; 23 sources (22 videos and 1 web page) have no date and show as undated. Every quote in this brain carries one of these ids.
+
+Not used: 93 sources were fetched, and 7 are left out of the brain (their files stay in the corpus). S068 repeats S063 (YouTube copy of the same Tim Ferriss episode). S079 is a short clip from the 44 Harsh Truths episode (S030). In five, someone else does most of the talking: S064 (David Deutsch about 70%), S073 (Naval interviewing Aaron Stupple), S075 (Megyn Kelly with Makary), S082 (Naval interviewing Neal Stephenson), and S086 (Sadhguru). They are marked NOT USED below. No quote in this brain cites these ids.
 
 Format: id | title | url | date | words
 
@@ -20,7 +22,7 @@ Format: id | title | url | date | words
 - S014 | To a Caveman Very Few Things Are Resources | https://nav.al/caveman | 2021-12-13 | 596
 - S015 | Knowledge Makes the Existence of Resources Infinite | https://nav.al/infinite-resources | 2021-12-10 | 531
 - S016 | Naval Ravikant on The Tim Ferriss Show: Transcript - The Blog of Author Tim Ferriss | https://tim.blog/?p=28166 | 2016-05-02 | 9827
-- S017 | Joe Rogan Experience #1309 - Naval Ravikant | https://www.youtube.com/watch?v=3qHkcs3kG44 | 2019-06-05 | 27660
+- S017 | Joe Rogan Experience #1309 - Naval Ravikant | https://www.youtube.com/watch?v=3qHkcs3kG44 | 2019-06-04 | 27660
 - S018 | The returns to entrepreneurship | https://nav.al/the-returns-to-entrepreneurship | 2009-11-09 | 704
 - S019 | Why You Can't Hire | https://nav.al/why-you-cant-hire | 2011-12-13 | 333
 - S020 | Why (Private) Investors are Herd Animals | https://nav.al/why-private-investors-are-herd-animals | 2010-04-22 | 389
@@ -39,3 +41,61 @@ Format: id | title | url | date | words
 - S033 | Naval: Uncomfortable Truth about Life / Lessons on Growth, Building Relationships, Spirituality | https://www.youtube.com/watch?v=wQGOYnWHnto | 2024-10-04 | 21169
 - S034 | Naval Ravikant and Cory Levy at Internapalooza | https://www.youtube.com/watch?v=RrzGs_PCoLs | 2025-08-29 | 7163
 - S035 | Riding AGI, AI Anxiety, Who Funded COVID, Defending Taiwan, and California Empire | https://www.youtube.com/watch?v=6m-ZZBCiiEE | 2026-07-02 | 15844
+- S036 | Happiness | https://nav.al/happiness | 2021-03-12 | 5136
+- S037 | The Beginning of Infinity, Part 1 | https://nav.al/infinity | 2021-07-02 | 12281
+- S038 | The Beginning of Infinity, Part 2 | https://nav.al/infinity-2 | 2021-12-22 | 10343
+- S039 | Kapil Gupta: Conquering the Mind | https://nav.al/kapil | 2020-05-13 | 7886
+- S040 | David Deutsch: Knowledge Creation and The Human Race, Part 1 | https://nav.al/david-deutsch | 2023-02-11 | 7515
+- S041 | Finding Time to Invest in Yourself | https://nav.al/finding-time | 2020-01-13 | 1932
+- S042 | The Box | https://nav.al/the-box | 2020-09-15 | 878
+- S043 | Keep Redefining What You Do | https://nav.al/redefining | 2019-05-13 | 387
+- S044 | There is No Angel Bubble. There are Many Angel Bubbles. | https://nav.al/there-is-no-angel-bubble-there-are-many-angel-bubbles | 2010-12-01 | 1125
+- S045 | The Aging Entrepreneur | https://nav.al/the-aging-entrepreneur | 2007-08-08 | 978
+- S046 | Craigslist is Worth More than EBay | https://nav.al/craigslist-is-worth-more-than-ebay | 2006-02-07 | 967
+- S047 | American Spring | https://nav.al/american-spring | 2016-01-15 | 908
+- S048 | American Fall | https://nav.al/american-fall | 2016-10-18 | 906
+- S049 | VC Bundling | https://nav.al/vc-bundling | 2005-12-01 | 710
+- S050 | Something Vast This Way Comes | https://nav.al/something-vast-this-way-comes | 2006-03-14 | 641
+- S051 | A Venture SLA | https://nav.al/a-venture-sla | 2013-06-28 | 537
+- S052 | The 80-hour Myth | https://nav.al/the-80-hour-myth | 2005-11-29 | 360
+- S053 | Unquantifiable Risk | https://nav.al/unquantifiable-risk | 2005-11-29 | 371
+- S054 | Securitize Citizenship! | https://nav.al/securitize-citizenship | 2005-11-29 | 348
+- S055 | Towards a Literate Nation | https://nav.al/towards-a-literate-nation | 2011-12-11 | 425
+- S056 | How to be an angel investor, Part 2 | https://venturehacks.com/angel | 2009-03-16 | 6689
+- S057 | One way to start a startup | https://venturehacks.com/startup-principles | 2010-04-26 | 1323
+- S058 | Before product-market fit, find passion-market fit | https://venturehacks.com/passion-market | 2011-07-17 | 1201
+- S059 | How to pick a co-founder | https://venturehacks.com/pick-cofounder | 2009-11-12 | 4134
+- S060 | VCs are generalists, and other lies | https://venturehacks.com/vc-generalists | 2011-02-04 | 641
+- S061 | A conflict of interests | https://venturehacks.com/a-conflict-of-interests | 2010-07-07 | 2916
+- S062 | 97 naval ravikant | https://tim.blog/wp-content/uploads/2018/07/97-naval-ravikant.pdf | 2018 | 25478
+- S063 | The Tim Ferriss Show Transcripts: Naval Ravikant on Happiness, Reducing Anxiety, Crypto Stablecoins, and Crypto Strategy (#473) - The Blog of Author Tim Ferriss | https://tim.blog/2020/10/15/naval-transcript/ | 2020-10-15 | 22648
+- S064 | The Tim Ferriss Show Transcripts: David Deutsch and Naval Ravikant: The Fabric of Reality, The Importance of Disobedience, The Inevitability of Artificial Gene | https://tim.blog/2023/03/24/david-deutsch-naval-ravikant-transcript/ | 2023-03-24 | 16125 | NOT USED: David Deutsch does most of the talking
+- S065 | The Anatomy of a Fundable Startup, by Naval Ravikant | https://fi.co/insight/the-anatomy-of-a-fundable-startup-by-naval-ravikant | undated | 611
+- S066 | 44: End Games (part 1) / Naval Ravikant | https://www.youtube.com/watch?v=brUC8Vh2gms | undated | 14509
+- S067 | 45: End Games (part 2) / Naval Ravikant | https://www.youtube.com/watch?v=9QR4WIxFVjk | undated | 13010
+- S068 | Naval Ravikant on Happiness, Anxiety, and More | https://www.youtube.com/watch?v=HiYo14wylQw | undated | 25076 | NOT USED: YouTube copy of S063
+- S069 | Chris Dixon and Naval Ravikant: The Wonders of Web3 And Much More / The Tim Ferriss Show | https://www.youtube.com/watch?v=DlNDYMNJ5zQ | undated | 31583
+- S070 | JD Vance's AI Speech, Techno-Optimists vs Doomers, Tariffs, AI Court Cases with Naval Ravikant | https://www.youtube.com/watch?v=AI5qI6ej-yM | undated | 22345
+- S071 | Conversation with Naval Ravikant | https://www.youtube.com/watch?v=wTRcs5ZsSJE | undated | 16396
+- S072 | Naval Ravikant: The Beginning of Infinity | https://www.youtube.com/watch?v=yAj5EnyuakI | undated | 15396
+- S073 | Naval Ravikant and Aaron Stupple: How to Raise a Sovereign Child | https://www.youtube.com/watch?v=2bZSzObqAjE | undated | 37064 | NOT USED: Naval interviewing Aaron Stupple
+- S074 | Naval Ravikant and Nick Kokonas: The Tim Ferriss Show | https://www.youtube.com/watch?v=10Wkb7hD0cU | undated | 39896
+- S075 | How Medical Establishment Keeps Americans Sick, and Evils of Censorship, w/ Makary & Naval Ravikant | https://www.youtube.com/watch?v=wogE5q43u-U | undated | 19662 | NOT USED: Megyn Kelly and Makary do most of the talking
+- S076 | Naval Ravikant and Balaji Srinivasan on Why History Points to Crypto | https://www.youtube.com/watch?v=dls2HIw3svI | undated | 15262
+- S077 | Episode 840 Scott Adams: Conversation With Naval Ravikant About Coronavirus | https://www.youtube.com/watch?v=G0bPSseOlMc | undated | 7250
+- S078 | Naval Ravikant on the Relationship between Citizen, Technology, and State | https://www.youtube.com/watch?v=dJu5kzjeK4s | undated | 6810
+- S079 | The World Is About To Change In 3 Huge Ways - Naval Ravikant | https://www.youtube.com/watch?v=RLGLEaAhVJQ | undated | 2256 | NOT USED: short clip from S030
+- S080 | Fireside Chat with Avlok & Naval / AngelList Confidential 2023 | https://www.youtube.com/watch?v=nfWYN4DsVJo | undated | 9828
+- S081 | Fireside Chat with Naval Ravikant - New Frontiers 2019 | https://www.youtube.com/watch?v=kvGFldxwjhY | undated | 4467
+- S082 | Fireside Chat with Naval Ravikant and Neal Stephenson / Blockstack Summit 2019 | https://www.youtube.com/watch?v=0JDFd_BoN1k | undated | 10056 | NOT USED: Naval interviewing Neal Stephenson
+- S083 | #BLOCKCON - Day 2 (Oct 11) - Fireside Chat: Nassim Nicholas Taleb & Naval Ravikant | https://www.youtube.com/watch?v=Da0aXfshlxM | undated | 14284
+- S084 | Naval Ravikant & Balaji Srinivasan: Knowledge, Wealth, and AI's Future | https://www.youtube.com/watch?v=cBuHreIhLFI | undated | 10864
+- S085 | Conversation with Naval Ravikant, Founder & Chairman of AngelList / Middle East & Africa Summit 2023 | https://www.youtube.com/watch?v=RomzXcdrAlQ | undated | 3740
+- S086 | What is Conscious Planet? / Sadhguru in Conversation with Naval Ravikant | https://www.youtube.com/watch?v=2S5Vb3srhlA | undated | 3487 | NOT USED: Sadhguru does most of the talking
+- S087 | Naval Ravikant (Angel List) at Startup Grind 2013 | https://www.youtube.com/watch?v=7_HdxSKCyNQ | undated | 5565
+- S088 | PandoMonthly: Fireside Chat With AngelList Co-Founder Naval Ravikant | https://www.youtube.com/watch?v=brOsIDzCvr0 | undated | 27598
+- S089 | Naval Ravikant explains why you don't need to be CEO | https://www.youtube.com/watch?v=WJuQLzr6PJQ | undated | 5921
+- S090 | Naval Ravikant on Clubhouse 2-13-21 | https://www.youtube.com/watch?v=TggSRw7rO-8 | undated | 10059
+- S091 | Naval Ravikant on Clubhouse / Jan 2021 / Clubhouse Podcasts | https://www.youtube.com/watch?v=QIuV6zZ4Zgg | undated | 15782
+- S092 | Naval Ravikant & Niklas Anzinger: AI & Technological Progress Conference @ Vitalia City, 2024 | https://www.youtube.com/watch?v=HwZI00YV-EA | undated | 12215
+- S093 | Naval Ravikant Reveals How Mastering This ONE THING Made Him Unbreakable | https://www.youtube.com/watch?v=X7tnoR6a-8A | undated | 4765

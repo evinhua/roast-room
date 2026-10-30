@@ -1,6 +1,8 @@
 # Sources: Ray Kurzweil
 
-43 sources (24 video, 18 web, 1 pdf), 326,033 words. Video dates are upload dates. Every quote in this brain carries one of these ids.
+102 usable sources (52 video, 49 web, 1 pdf), 699,994 words, 1999 to 2026. Video dates are upload dates; essay dates are the month posted to his library, so older essays (2001 to 2006) carry their original dates where known. The 1999 start rests on S044, a TV interview that its title says originally aired 1999-02-01 (on The Age of Spiritual Machines, then his newest book); it was uploaded 2007-01-29, so its listed date is the upload date. The earliest dated essay is S058 (2001-02). 30 sources are undated. S032 is a 2024-03-11 page; its closing Q&A section is an editor's summary, not his words, and is not quoted. Every quote in this brain carries one of these ids.
+
+Not used: S104 (Kurzweil and Robert Freitas on nanotechnology, 4,887 words) is listed below but excluded from the totals and the brain, because Freitas does most of the talking. Read with care: S049 (Gelernter debate), S057 (Vinge chat), S080 (Hinton debate), and S095 (with Richard Florida) share the floor with others, and in S077, S095, and S101 the host speaks for the first few minutes before Kurzweil starts. Not fetched: WNKLGuwG8Hc (no English captions) and after-the-singularity on writingsbyraykurzweil.com (404).
 
 Format: id | title | url | date | words
 
@@ -34,7 +36,7 @@ Format: id | title | url | date | words
 - S029 | Ray Kurzweil’s Dangerous Idea: The near-term inevitability of radical life extension and expansion &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/ray-kurzweil-s-dangerous-idea-the-near-term-inevitability-of-radical-life-extension-and-expansion | 2006-01 | 805
 - S030 | A wager on the Turing test: the rules &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/a-wager-on-the-turing-test-the-rules-2 | 2020-07 | 1804
 - S031 | The technology of universal intelligence &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-technology-of-universal-intelligence | 2003-10 | 704
-- S032 | AI escape velocity: A conversation with Ray Kurzweil | https://www.bvp.com/atlas/ai-escape-velocity-a-conversation-with-ray-kurzweil | undated | 5204
+- S032 | AI escape velocity: A conversation with Ray Kurzweil | https://www.bvp.com/atlas/ai-escape-velocity-a-conversation-with-ray-kurzweil | 2024-03-11 | 5204
 - S033 | Ray Kurzweil: Singularity, Superintelligence, and Immortality / Lex Fridman Podcast #321 | https://www.youtube.com/watch?v=ykY69lSpDdo | 2022-09-17 | 13442
 - S034 | Ray Kurzweil @ SuperNova Conference 2018 | https://www.youtube.com/watch?v=1DW6thQ-bZw | 2018-11-06 | 9419
 - S035 | How to Create a Mind / Ray Kurzweil / Talks at Google | https://www.youtube.com/watch?v=zihTWh5i2C4 | 2012-11-19 | 12040
@@ -47,3 +49,63 @@ Format: id | title | url | date | words
 - S042 | Ray Kurzweil : Earthware Symposium : October 2000 | https://www.youtube.com/watch?v=PUSc9_7O7hw | 2014-11-04 | 6765
 - S043 | Ray Kurzweil: You Are What You Think | https://www.youtube.com/watch?v=_qmC6zx5KA8 | 2012-03-15 | 1555
 - S044 | Ray Kurzweil Originally aired 2-01-99 | https://www.youtube.com/watch?v=97c2ezJ_1U8 | 2007-01-29 | 10486
+- S045 | Testimony of Ray Kurzweil on the Societal Implications of Nanotechnology &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/testimony-of-ray-kurzweil-on-the-societal-implications-of-nanotechnology | 2003-04 | 13184
+- S046 | The Human Machine Merger: Why We Will Spend Most of Our Time in Virtual Reality in the Twenty-first Century &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-human-machine-merger-why-we-will-spend-most-of-our-time-in-virtual-reality-in-the-twenty-first-century | 2001-08 | 16327
+- S047 | The 21st Century: a Confluence of Accelerating Revolutions &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-21st-century-a-confluence-of-accelerating-revolutions | 2001-05 | 8996
+- S048 | essays / celebrating: 15 year anniversary of the book the Singularity Is Near &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/essays-celebrating-15-year-anniversary-of-the-book-the-singularity-is-near | 2020-01 | 9970
+- S049 | Gelernter, Kurzweil debate machine consciousness &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/gelernter-kurzweil-debate-machine-consciousness-2 | 2006-12 | 9977
+- S050 | Max More and Ray Kurzweil on the Singularity &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/max-more-and-ray-kurzweil-on-the-singularity-2 | 2002-02 | 8688
+- S051 | Reprogramming your Biochemistry for Immortality: An Interview with Ray Kurzweil by David Jay Brown &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/reprogramming-your-biochemistry-for-immortality-an-interview-with-ray-kurzweil-by-david-jay-brown | 2006-03 | 6820
+- S052 | The singularity. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-singularity | 2020-01 | 6722
+- S053 | The Drexler-Smalley debate on molecular assembly &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-drexler-smalley-debate-on-molecular-assembly | 2003-12 | 6566
+- S054 | So what is the singularity? &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/so-what-is-the-singularity | 2011-01 | 6329
+- S055 | Human Body Version 2.0 &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/human-body-version-2-0 | 2003-02 | 4969
+- S056 | Sander Olson Interviews Ray Kurzweil &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/sander-olson-interviews-ray-kurzweil | 2006-02 | 4377
+- S057 | Singularity Chat with Vernor Vinge and Ray Kurzweil &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/singularity-chat-with-vernor-vinge-and-ray-kurzweil | 2002-06 | 4360
+- S058 | Embrace, Don’t Relinquish, the Future &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/embrace-dont-relinquish-the-future | 2001-02 | 3245
+- S059 | Thought Experiments: When the Singularity Is More than a Literary Device: An Interview with Futurist-Inventor Ray Kurzweil &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/thought-experiments-when-the-singularity-is-more-than-a-literary-device-an-interview-with-futurist-inventor-ray-kurzweil | 2006-01 | 4054
+- S060 | Are We Becoming an Endangered Species? Technology and Ethics in the Twenty First Century &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/are-we-becoming-an-endangered-species-technology-and-ethics-in-the-twenty-first-century | 2001-11 | 2556
+- S061 | A conversation on creating a mind. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/a-conversation-on-creating-a-mind | 2022-01 | 3176
+- S062 | A conversation with Michele Reilly of Turing &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/a-conversation-with-michele-reilly-of-turing | 2023-07 | 2514
+- S063 | Recollections on my trip to Europe. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/recollections-on-my-trip-to-europe | 2010-01 | 2355
+- S064 | Dear PC: rest in peace. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/dear-pc-rest-in-peace | 2022-01 | 2223
+- S065 | Machine Intelligence: the first 80 years. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/machine-intelligence-the-first-80-years | 2025-01 | 2224
+- S066 | Psychology Today / Live forever, uploading the human brain, closer than you think &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/live-forever-uploading-the-human-braincloser-than-you-think | 2001-04 | 2911
+- S067 | Kurzweil vs. Dertouzos &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/kurzweil-vs-dertouzos | 2001-03 | 2585
+- S068 | The Alcor Conference on Extreme Life Extension &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-alcor-conference-on-extreme-life-extension | 2002-11 | 2947
+- S069 | Exploring the ‘Singularity’ &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/exploring-the-singularity | 2003-06 | 3503
+- S070 | The Economics of Innovation &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/the-economics-of-innovation | 2001-08 | 2091
+- S071 | This is your future. &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/this-is-your-future | 2024-02 | 1779
+- S072 | Human Cloning is the Least Interesting Application of Cloning Technology &laquo; the Kurzweil Library | https://www.writingsbyraykurzweil.com/human-cloning-is-the-least-interesting-application-of-cloning-technology | 2003-01 | 1643
+- S073 | THE INTELLIGENT UNIVERSE / Edge.org | https://www.edge.org/conversation/ray_kurzweil-the-intelligent-universe | undated | 5016
+- S074 | If Ray Kurzweil Is Right (Again), You’ll Meet His Immortal Soul in the Cloud | https://www.wired.com/story/big-interview-ray-kurzweil/ | 2024-06-13 | 2876
+- S075 | AI scientist Ray Kurzweil: ‘We are going to expand intelligence a millionfold by 2045’ | https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer | 2024-06-29 | 2057
+- S076 | AI and the next decade of human progress / Ray Kurzweil | https://www.youtube.com/watch?v=Vubj74mZBQ0 | undated | 4084
+- S077 | Ray Kurzweil: The End of Human-Only Intelligence | https://www.youtube.com/watch?v=9psvUUZbOd8 | undated | 7149
+- S078 | AT&T Secure Connections 2024 - Ray Kurzweil: When Humans Merge With AI: The Singularity is coming! | https://www.youtube.com/watch?v=Rx_DjlEUoWg | undated | 6280
+- S079 | Ray Kurzweil Q&A - The Singularity, Human-Machine Integration & AI / EP #83 | https://www.youtube.com/watch?v=Iu7zOOofcdg | undated | 11272
+- S080 | Ray Kurzweil & Geoff Hinton Debate the Future of AI / EP #95 | https://www.youtube.com/watch?v=kCre83853TM | undated | 4931
+- S081 | Ray Kurzweil: Does AI Make Immortality Possible? | https://www.youtube.com/watch?v=cipDXOhx9X4 | undated | 7530
+- S082 | The Multi-Trillion Dollar Opportunity Featuring Harry Kloor & Ray Kurzweil | https://www.youtube.com/watch?v=d0PzJ39N4fg | undated | 9943
+- S083 | Ray Kurzweil Wants To Put Nanobots In Our Bloodstream | https://www.youtube.com/watch?v=u8yC2BtcAoQ | undated | 8377
+- S084 | „All My Predictions Have Come True, So Far” / Ray Kurzweil (Time100) | https://www.youtube.com/watch?v=gGEu_5KbVe8 | undated | 3583
+- S085 | Ray & Amy Kurzweil on Collaboration and the Future - SXSW 2017 | https://www.youtube.com/watch?v=97j8N6ezZb4 | undated | 9031
+- S086 | Ray Kurzweil + Disruptive Technologies and Dangerous Ideas | https://www.youtube.com/watch?v=SaOfLtoaKqw | undated | 14401
+- S087 | Interview With Ray Kurzweil / Ray Kurzweil, Bob Pisani / Exponential Finance | https://www.youtube.com/watch?v=jI3Nd6-HgmY | undated | 8252
+- S088 | Ray Kurzweil - Exponential Finance 2014 | https://www.youtube.com/watch?v=vnyQWr8hk0A | undated | 6768
+- S089 | Q & A / Ray Kurzweil, Will Weisman / SU Global Summit | https://www.youtube.com/watch?v=8shILOvuZwE | undated | 5219
+- S090 | Live Chat With Inventor & Google Exec Ray Kurzweil / WSJ Startup of the Year | https://www.youtube.com/watch?v=Q1jmgfVnGCE | undated | 8762
+- S091 | GF2045 (Moscow, 2012): Ray Kurzweil / The Acceleration of Technology in the 21st Century | https://www.youtube.com/watch?v=ZzYQLNVqVbw | undated | 7450
+- S092 | Google I/O 2014 - Biologically inspired models of intelligence | https://www.youtube.com/watch?v=MG_nOddk01E | undated | 8715
+- S093 | Creating Human-Level AI: How and When / Ray Kurzweil | https://www.youtube.com/watch?v=oPyCHwPS04E | undated | 4445
+- S094 | Ray Kurzweil Keynote on MaeKyung(MK) Silicon Valley Forum 2017 #MKSVF | https://www.youtube.com/watch?v=xgAlMl00oZE | undated | 9905
+- S095 | Will Innovation Save Us? With Ray Kurzweil & Richard Florida Moderated by Amanda Lang | https://www.youtube.com/watch?v=zC41LJRD5CE | undated | 13804
+- S096 | Ray Kurzweil on How To Create A Mind: Be Who You Would Like To Be | https://www.youtube.com/watch?v=CEt3x3GJyKY | undated | 10168
+- S097 | Ray Kurzweil - The Costa Report - January 15, 2013 | https://www.youtube.com/watch?v=_RwXUAjqoCU | undated | 8423
+- S098 | Humanity Enhanced: A Conversation with Ray Kurzweil at Techonomy 2012 | https://www.youtube.com/watch?v=4AaAAml9Grs | undated | 4399
+- S099 | Ray Kurzweil Interview: Biotechnology and Radical Life Extension - 2016 | https://www.youtube.com/watch?v=zt_TX0TIi-M | undated | 4745
+- S100 | Futurist Ray Kurzweil w/ Glenn Beck, talk Technology & his book "How to Create a Mind" Human Thought | https://www.youtube.com/watch?v=86m6pEulafM | undated | 5375
+- S101 | Ray Kurzweil, Featured Speaker | https://www.youtube.com/watch?v=4mEcl6Pwf0M | undated | 10736
+- S102 | Ray Kurzweil - Exponential Learning & Entrepreneurship | https://www.youtube.com/watch?v=IUBw5e-zPXw | undated | 8832
+- S103 | DB 059: Inventor Ray Kurzweil Gazes Into The Future | https://www.youtube.com/watch?v=mj_HCPzlPII | undated | 4342
+- S104 | Ray Kurzweil 2017 - Ray Kurzweil and Robert Freitas Chat About the Future of Nanotechnology | https://www.youtube.com/watch?v=WiD57MK4NZI | undated | 4887
